@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://apnews.com/hub/ap-top-news</id>
   <title>AP Top News (unofficial)</title>
-  <updated>2026-05-31T15:18:02.782469+00:00</updated>
+  <updated>2026-05-31T16:38:11.562380+00:00</updated>
   <author>
     <name>AP News (scraped, unofficial)</name>
   </author>
@@ -11,213 +11,213 @@
   <generator>ap-rss scraper</generator>
   <subtitle>Unofficial RSS feed of AP Top News from apnews.com</subtitle>
   <entry>
-    <id>https://apnews.com/article/middle-east-wars-energy-asia-tourism-613dcac3f38a644ff67490d688ad6b4e</id>
-    <title>Soaring prices during the Iran war jeopardize travel to tourism-dependent countries in Asia</title>
-    <updated>2026-05-31T14:49:02.782480+00:00</updated>
-    <link href="https://apnews.com/article/middle-east-wars-energy-asia-tourism-613dcac3f38a644ff67490d688ad6b4e"/>
-    <published>2026-05-31T14:49:02.782480+00:00</published>
-  </entry>
-  <entry>
     <id>https://apnews.com/article/one-photo-0000019e4ff1d68baddfeffb306b0000</id>
     <title>A photo captures tear gas drifting across a mountain road during Bolivia protests</title>
-    <updated>2026-05-31T14:50:02.782480+00:00</updated>
+    <updated>2026-05-31T16:09:11.562394+00:00</updated>
     <link href="https://apnews.com/article/one-photo-0000019e4ff1d68baddfeffb306b0000"/>
-    <published>2026-05-31T14:50:02.782480+00:00</published>
+    <published>2026-05-31T16:09:11.562394+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/one-photo-0000019e04a3d83eaf9f96f3c8d90000</id>
     <title>A photo captures President Trump and first lady awaiting British royals from rare White House angle</title>
-    <updated>2026-05-31T14:51:02.782480+00:00</updated>
+    <updated>2026-05-31T16:10:11.562394+00:00</updated>
     <link href="https://apnews.com/article/one-photo-0000019e04a3d83eaf9f96f3c8d90000"/>
-    <published>2026-05-31T14:51:02.782480+00:00</published>
+    <published>2026-05-31T16:10:11.562394+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/one-photo-0000019e7027d80eaffffa377acf0000</id>
     <title>At the Kaaba during Hajj, a photographer captures sense of unity and devotion</title>
-    <updated>2026-05-31T14:52:02.782480+00:00</updated>
+    <updated>2026-05-31T16:11:11.562394+00:00</updated>
     <link href="https://apnews.com/article/one-photo-0000019e7027d80eaffffa377acf0000"/>
-    <published>2026-05-31T14:52:02.782480+00:00</published>
+    <published>2026-05-31T16:11:11.562394+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/mental-physical-health-aging-dance-0408e20084b24026125df19faff77988</id>
     <title>You should be dancing, yeah. Moving to music offers all kinds of benefits as you age</title>
-    <updated>2026-05-31T14:53:02.782480+00:00</updated>
+    <updated>2026-05-31T16:12:11.562394+00:00</updated>
     <link href="https://apnews.com/article/mental-physical-health-aging-dance-0408e20084b24026125df19faff77988"/>
-    <published>2026-05-31T14:53:02.782480+00:00</published>
+    <published>2026-05-31T16:12:11.562394+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/postpartum-depression-baby-blues-pregnancy-79044a524a59810b23422c5b24b3b596</id>
     <title>Most new moms get the baby blues. But it could be something more serious: postpartum depression</title>
-    <updated>2026-05-31T14:54:02.782480+00:00</updated>
+    <updated>2026-05-31T16:13:11.562394+00:00</updated>
     <link href="https://apnews.com/article/postpartum-depression-baby-blues-pregnancy-79044a524a59810b23422c5b24b3b596"/>
-    <published>2026-05-31T14:54:02.782480+00:00</published>
+    <published>2026-05-31T16:13:11.562394+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/healthy-heart-sleep-night-owls-circadian-rhythm-0c520492f5d6fc08c412053419e913f9</id>
     <title>Being a night owl may not be great for your heart but you can do something about it</title>
-    <updated>2026-05-31T14:55:02.782480+00:00</updated>
+    <updated>2026-05-31T16:14:11.562394+00:00</updated>
     <link href="https://apnews.com/article/healthy-heart-sleep-night-owls-circadian-rhythm-0c520492f5d6fc08c412053419e913f9"/>
-    <published>2026-05-31T14:55:02.782480+00:00</published>
+    <published>2026-05-31T16:14:11.562394+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/drunk-raccoon-liquor-store-bandit-virginia-5109feb2ea9ab9bf8954ec3798689fd0</id>
     <title>Raccoon goes on drunken rampage in Virginia liquor store and passes out on bathroom floor</title>
-    <updated>2026-05-31T14:56:02.782480+00:00</updated>
+    <updated>2026-05-31T16:15:11.562394+00:00</updated>
     <link href="https://apnews.com/article/drunk-raccoon-liquor-store-bandit-virginia-5109feb2ea9ab9bf8954ec3798689fd0"/>
-    <published>2026-05-31T14:56:02.782480+00:00</published>
+    <published>2026-05-31T16:15:11.562394+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/nipper-dog-statue-albany-new-york-69a5ca4ec514f837626475b5d5264c1d</id>
     <title>Nipper, stay! The future of a beloved dog statue on a New York warehouse is up in the air</title>
-    <updated>2026-05-31T14:57:02.782480+00:00</updated>
+    <updated>2026-05-31T16:16:11.562394+00:00</updated>
     <link href="https://apnews.com/article/nipper-dog-statue-albany-new-york-69a5ca4ec514f837626475b5d5264c1d"/>
-    <published>2026-05-31T14:57:02.782480+00:00</published>
+    <published>2026-05-31T16:16:11.562394+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/bronx-zoo-elephant-personhood-2622a60362cefcedb52680c0f0c72743</id>
     <title>Happy is an Asian elephant. But is she also a person?</title>
-    <updated>2026-05-31T14:58:02.782480+00:00</updated>
+    <updated>2026-05-31T16:17:11.562394+00:00</updated>
     <link href="https://apnews.com/article/bronx-zoo-elephant-personhood-2622a60362cefcedb52680c0f0c72743"/>
-    <published>2026-05-31T14:58:02.782480+00:00</published>
+    <published>2026-05-31T16:17:11.562394+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/mummified-monkeys-boston-airport-bushmeat-ee8ad474fd9b6462d661cc993675f3bc</id>
     <title>An airport security dog sniffed out something really unusual in a passenger's luggage</title>
-    <updated>2026-05-31T14:59:02.782480+00:00</updated>
+    <updated>2026-05-31T16:18:11.562394+00:00</updated>
     <link href="https://apnews.com/article/mummified-monkeys-boston-airport-bushmeat-ee8ad474fd9b6462d661cc993675f3bc"/>
-    <published>2026-05-31T14:59:02.782480+00:00</published>
+    <published>2026-05-31T16:18:11.562394+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/argentina-teenagers-identifying-as-animals-therians-tiktok-54d158c4842f6515e31d83a260cdf31f</id>
     <title>Viral phenomenon in Argentina has young people identifying themselves as animals</title>
-    <updated>2026-05-31T15:00:02.782480+00:00</updated>
+    <updated>2026-05-31T16:19:11.562394+00:00</updated>
     <link href="https://apnews.com/article/argentina-teenagers-identifying-as-animals-therians-tiktok-54d158c4842f6515e31d83a260cdf31f"/>
-    <published>2026-05-31T15:00:02.782480+00:00</published>
+    <published>2026-05-31T16:19:11.562394+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/australia-frog-lettuce-salad-esperance-4134acf75e814dedd7789c1423c26ab1</id>
     <title>Lettuce introduce you to the live frog found in this grocery store salad bag</title>
-    <updated>2026-05-31T15:01:02.782480+00:00</updated>
+    <updated>2026-05-31T16:20:11.562394+00:00</updated>
     <link href="https://apnews.com/article/australia-frog-lettuce-salad-esperance-4134acf75e814dedd7789c1423c26ab1"/>
-    <published>2026-05-31T15:01:02.782480+00:00</published>
+    <published>2026-05-31T16:20:11.562394+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/meteor-boom-massachusetts-explosion-2b79039c94af28e4b63aaeabf06c6844</id>
     <title>Meteor over Massachusetts causes explosion reports, sightings from Delaware to Montreal</title>
-    <updated>2026-05-31T15:02:02.782480+00:00</updated>
+    <updated>2026-05-31T16:21:11.562394+00:00</updated>
     <link href="https://apnews.com/article/meteor-boom-massachusetts-explosion-2b79039c94af28e4b63aaeabf06c6844"/>
-    <published>2026-05-31T15:02:02.782480+00:00</published>
+    <published>2026-05-31T16:21:11.562394+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/china-manufacturing-economy-pmi-exports-783cddb4560c1ecf53b1678801cabf34</id>
     <title>China’s factory activity slows in May, raising questions over its economy</title>
-    <updated>2026-05-31T15:03:02.782480+00:00</updated>
+    <updated>2026-05-31T16:22:11.562394+00:00</updated>
     <link href="https://apnews.com/article/china-manufacturing-economy-pmi-exports-783cddb4560c1ecf53b1678801cabf34"/>
-    <published>2026-05-31T15:03:02.782480+00:00</published>
+    <published>2026-05-31T16:22:11.562394+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/inflation-economy-gas-trump-mortgage-iran-unemployment-618324105c9f0dc322f54ef8923a3d63</id>
     <title>America In Focus: Inflation gauge hits multiyear high as American consumer confidence slides</title>
-    <updated>2026-05-31T15:04:02.782480+00:00</updated>
+    <updated>2026-05-31T16:23:11.562394+00:00</updated>
     <link href="https://apnews.com/article/inflation-economy-gas-trump-mortgage-iran-unemployment-618324105c9f0dc322f54ef8923a3d63"/>
-    <published>2026-05-31T15:04:02.782480+00:00</published>
+    <published>2026-05-31T16:23:11.562394+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/tariff-refunds-trump-court-appeal-7209128eeee29c565c4ea5a6892f73c6</id>
     <title>Trump plans to appeal order allowing all importers that paid struck-down tariffs to seek refunds</title>
-    <updated>2026-05-31T15:05:02.782480+00:00</updated>
+    <updated>2026-05-31T16:24:11.562394+00:00</updated>
     <link href="https://apnews.com/article/tariff-refunds-trump-court-appeal-7209128eeee29c565c4ea5a6892f73c6"/>
-    <published>2026-05-31T15:05:02.782480+00:00</published>
+    <published>2026-05-31T16:24:11.562394+00:00</published>
+  </entry>
+  <entry>
+    <id>https://apnews.com/article/box-office-backrooms-d35d92d5327596d56e2fd640743ae98e</id>
+    <title>YouTuber box office boom: ‘Backrooms’ and ‘Obsession’ draw Gen Z to theaters</title>
+    <updated>2026-05-31T16:25:11.562394+00:00</updated>
+    <link href="https://apnews.com/article/box-office-backrooms-d35d92d5327596d56e2fd640743ae98e"/>
+    <published>2026-05-31T16:25:11.562394+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/frankie-valli-four-seasons-farewell-tour-canceled-52860b76a6d00b298c3b2bbd9986f859</id>
     <title>Frankie Valli cancels the remainder of the Four Seasons’ farewell tour, citing health concerns</title>
-    <updated>2026-05-31T15:06:02.782480+00:00</updated>
+    <updated>2026-05-31T16:26:11.562394+00:00</updated>
     <link href="https://apnews.com/article/frankie-valli-four-seasons-farewell-tour-canceled-52860b76a6d00b298c3b2bbd9986f859"/>
-    <published>2026-05-31T15:06:02.782480+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/spurs-thunder-nba-playoffs-score-2026-a808f1787c734f7545516cb2487d0bec</id>
-    <title>Wembanyama, Spurs win the West, topple Thunder 111-103 in Game 7 to head to NBA Finals</title>
-    <updated>2026-05-31T15:07:02.782480+00:00</updated>
-    <link href="https://apnews.com/article/spurs-thunder-nba-playoffs-score-2026-a808f1787c734f7545516cb2487d0bec"/>
-    <published>2026-05-31T15:07:02.782480+00:00</published>
+    <published>2026-05-31T16:26:11.562394+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/french-open-roland-garros-6a334d4f0be059f8bd1ff84f58b05251</id>
     <title>Coco Gauff's French Open title defense ends while Naomi Osaka's fashion show continues in Paris</title>
-    <updated>2026-05-31T15:08:02.782480+00:00</updated>
+    <updated>2026-05-31T16:27:11.562394+00:00</updated>
     <link href="https://apnews.com/article/french-open-roland-garros-6a334d4f0be059f8bd1ff84f58b05251"/>
-    <published>2026-05-31T15:08:02.782480+00:00</published>
+    <published>2026-05-31T16:27:11.562394+00:00</published>
+  </entry>
+  <entry>
+    <id>https://apnews.com/article/spurs-thunder-nba-playoffs-score-2026-a808f1787c734f7545516cb2487d0bec</id>
+    <title>Wembanyama, Spurs win the West, topple Thunder 111-103 in Game 7 to head to NBA Finals</title>
+    <updated>2026-05-31T16:28:11.562394+00:00</updated>
+    <link href="https://apnews.com/article/spurs-thunder-nba-playoffs-score-2026-a808f1787c734f7545516cb2487d0bec"/>
+    <published>2026-05-31T16:28:11.562394+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/spurs-thunder-nba-playoffs-game-7-f670968cb7500d550242ae4973507092</id>
     <title>Thunder to be shorthanded again for Game 7 against Spurs in West finals</title>
-    <updated>2026-05-31T15:09:02.782480+00:00</updated>
+    <updated>2026-05-31T16:29:11.562394+00:00</updated>
     <link href="https://apnews.com/article/spurs-thunder-nba-playoffs-game-7-f670968cb7500d550242ae4973507092"/>
-    <published>2026-05-31T15:09:02.782480+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/trump-fair-250-anniversary-great-american-musicians-66bae27bc720c6882d8e73ce4a81efe6</id>
-    <title>Trump to headline 'Great American State Fair' for nation's 250th anniversary after artists drop out</title>
-    <updated>2026-05-31T15:10:02.782480+00:00</updated>
-    <link href="https://apnews.com/article/trump-fair-250-anniversary-great-american-musicians-66bae27bc720c6882d8e73ce4a81efe6"/>
-    <published>2026-05-31T15:10:02.782480+00:00</published>
+    <published>2026-05-31T16:29:11.562394+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/trump-capitol-riot-settlement-fund-payouts-crimes-0a46024bd86b84d12ede1c2e34bb8507</id>
     <title>Capitol rioters clamor for payouts from Trump's new 'anti-weaponization' fund despite backlash</title>
-    <updated>2026-05-31T15:11:02.782480+00:00</updated>
+    <updated>2026-05-31T16:30:11.562394+00:00</updated>
     <link href="https://apnews.com/article/trump-capitol-riot-settlement-fund-payouts-crimes-0a46024bd86b84d12ede1c2e34bb8507"/>
-    <published>2026-05-31T15:11:02.782480+00:00</published>
+    <published>2026-05-31T16:30:11.562394+00:00</published>
+  </entry>
+  <entry>
+    <id>https://apnews.com/article/trump-fair-250-anniversary-great-american-musicians-66bae27bc720c6882d8e73ce4a81efe6</id>
+    <title>Trump to headline 'Great American State Fair' for nation's 250th anniversary after artists drop out</title>
+    <updated>2026-05-31T16:31:11.562394+00:00</updated>
+    <link href="https://apnews.com/article/trump-fair-250-anniversary-great-american-musicians-66bae27bc720c6882d8e73ce4a81efe6"/>
+    <published>2026-05-31T16:31:11.562394+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/trump-kennedy-center-renovations-closure-fe5ff0982cf44bd71b84dc475f839cbd</id>
     <title>Trump vents about judge who blocked the Kennedy Center renovation and fumes over his legal setbacks</title>
-    <updated>2026-05-31T15:12:02.782480+00:00</updated>
+    <updated>2026-05-31T16:32:11.562394+00:00</updated>
     <link href="https://apnews.com/article/trump-kennedy-center-renovations-closure-fe5ff0982cf44bd71b84dc475f839cbd"/>
-    <published>2026-05-31T15:12:02.782480+00:00</published>
+    <published>2026-05-31T16:32:11.562394+00:00</published>
   </entry>
   <entry>
-    <id>https://apnews.com/article/united-flight-diverted-unruly-passenger-18b7fd62a68e5ab9753e893e5cc1faa8</id>
-    <title>United Airlines flight bound for Minneapolis is diverted because of an unruly passenger</title>
-    <updated>2026-05-31T15:13:02.782480+00:00</updated>
-    <link href="https://apnews.com/article/united-flight-diverted-unruly-passenger-18b7fd62a68e5ab9753e893e5cc1faa8"/>
-    <published>2026-05-31T15:13:02.782480+00:00</published>
+    <id>https://apnews.com/article/mamdani-israel-parade-nyc-002667e94d041432d3eab1c4cfc99d56</id>
+    <title>NYC Mayor Zohran Mamdani will skip annual parade celebrating Israel but pledges big police presence</title>
+    <updated>2026-05-31T16:33:11.562394+00:00</updated>
+    <link href="https://apnews.com/article/mamdani-israel-parade-nyc-002667e94d041432d3eab1c4cfc99d56"/>
+    <published>2026-05-31T16:33:11.562394+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/atlanta-judge-eleanor-ross-b7cf80120d26fcbf7877f74837071a4b</id>
     <title>DOJ seeks recusal of judge from Georgia election case over reported attendance at Fani Willis event</title>
-    <updated>2026-05-31T15:14:02.782480+00:00</updated>
+    <updated>2026-05-31T16:34:11.562394+00:00</updated>
     <link href="https://apnews.com/article/atlanta-judge-eleanor-ross-b7cf80120d26fcbf7877f74837071a4b"/>
-    <published>2026-05-31T15:14:02.782480+00:00</published>
+    <published>2026-05-31T16:34:11.562394+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/virginia-bus-crash-family-deaths-c876a390609b6e66cb70020f8f715362</id>
     <title>Crash kills 5 in Virginia including family of 4 traveling to wedding. Bus driver charged</title>
-    <updated>2026-05-31T15:15:02.782480+00:00</updated>
+    <updated>2026-05-31T16:35:11.562394+00:00</updated>
     <link href="https://apnews.com/article/virginia-bus-crash-family-deaths-c876a390609b6e66cb70020f8f715362"/>
-    <published>2026-05-31T15:15:02.782480+00:00</published>
+    <published>2026-05-31T16:35:11.562394+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/russia-belarus-ukraine-war-lukashenko-putin-zelenskyy-1c084e433e7caa8503a92396b46c6538</id>
     <title>Concerns mount that Belarus could be a launchpad for a new Russian offensive in Ukraine</title>
-    <updated>2026-05-31T15:16:02.782480+00:00</updated>
+    <updated>2026-05-31T16:36:11.562394+00:00</updated>
     <link href="https://apnews.com/article/russia-belarus-ukraine-war-lukashenko-putin-zelenskyy-1c084e433e7caa8503a92396b46c6538"/>
-    <published>2026-05-31T15:16:02.782480+00:00</published>
+    <published>2026-05-31T16:36:11.562394+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/lebanon-israel-capture-castle-beaufort-206c3d6c4dc9a139007f043556a0019b</id>
     <title>Israeli army captures strategic castle in Lebanon in deepest incursion into the country in 26 years</title>
-    <updated>2026-05-31T15:17:02.782480+00:00</updated>
+    <updated>2026-05-31T16:37:11.562394+00:00</updated>
     <link href="https://apnews.com/article/lebanon-israel-capture-castle-beaufort-206c3d6c4dc9a139007f043556a0019b"/>
-    <published>2026-05-31T15:17:02.782480+00:00</published>
+    <published>2026-05-31T16:37:11.562394+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/iran-united-states-war-hormuz-ceasefire-aeea91e1d1682e7e22321512e6e4aa35</id>
     <title>US says it struck a commercial ship trying to breach blockade and reach Iran</title>
-    <updated>2026-05-31T15:18:02.782480+00:00</updated>
+    <updated>2026-05-31T16:38:11.562394+00:00</updated>
     <link href="https://apnews.com/article/iran-united-states-war-hormuz-ceasefire-aeea91e1d1682e7e22321512e6e4aa35"/>
-    <published>2026-05-31T15:18:02.782480+00:00</published>
+    <published>2026-05-31T16:38:11.562394+00:00</published>
   </entry>
 </feed>
