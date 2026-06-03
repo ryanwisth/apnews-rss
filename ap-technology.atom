@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://apnews.com/technology</id>
   <title>AP Technology (unofficial)</title>
-  <updated>2026-06-03T12:04:57.179178+00:00</updated>
+  <updated>2026-06-03T17:12:23.626311+00:00</updated>
   <author>
     <name>AP News (scraped, unofficial)</name>
   </author>
@@ -11,213 +11,213 @@
   <generator>ap-rss scraper</generator>
   <subtitle>Unofficial RSS feed of AP Technology from apnews.com</subtitle>
   <entry>
-    <id>https://apnews.com/article/postpartum-depression-baby-blues-pregnancy-79044a524a59810b23422c5b24b3b596</id>
-    <title>Most new moms get the baby blues. But it could be something more serious: postpartum depression</title>
-    <updated>2026-06-03T11:35:57.179185+00:00</updated>
-    <link href="https://apnews.com/article/postpartum-depression-baby-blues-pregnancy-79044a524a59810b23422c5b24b3b596"/>
-    <published>2026-06-03T11:35:57.179185+00:00</published>
+    <id>https://apnews.com/article/one-photo-0000019e7027d80eaffffa377acf0000</id>
+    <title>At the Kaaba during Hajj, a photographer captures sense of unity and devotion</title>
+    <updated>2026-06-03T16:43:23.626319+00:00</updated>
+    <link href="https://apnews.com/article/one-photo-0000019e7027d80eaffffa377acf0000"/>
+    <published>2026-06-03T16:43:23.626319+00:00</published>
   </entry>
   <entry>
-    <id>https://apnews.com/article/fear-of-flying-8e348402efc654a7248fb9fe4e5df852</id>
-    <title>Worries about flying seem to be taking off. Here's how to cope with in-flight anxiety</title>
-    <updated>2026-06-03T11:36:57.179185+00:00</updated>
-    <link href="https://apnews.com/article/fear-of-flying-8e348402efc654a7248fb9fe4e5df852"/>
-    <published>2026-06-03T11:36:57.179185+00:00</published>
+    <id>https://apnews.com/article/postpartum-depression-baby-blues-pregnancy-79044a524a59810b23422c5b24b3b596</id>
+    <title>Most new moms get the baby blues. But it could be something more serious: postpartum depression</title>
+    <updated>2026-06-03T16:44:23.626319+00:00</updated>
+    <link href="https://apnews.com/article/postpartum-depression-baby-blues-pregnancy-79044a524a59810b23422c5b24b3b596"/>
+    <published>2026-06-03T16:44:23.626319+00:00</published>
+  </entry>
+  <entry>
+    <id>https://apnews.com/article/severe-weather-anxiety-mental-health-08e3e5d1817512d6eaff6393f165ea6e</id>
+    <title>Extreme weather can whip up anxiety. A safety plan can help</title>
+    <updated>2026-06-03T16:45:23.626319+00:00</updated>
+    <link href="https://apnews.com/article/severe-weather-anxiety-mental-health-08e3e5d1817512d6eaff6393f165ea6e"/>
+    <published>2026-06-03T16:45:23.626319+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/healthy-heart-sleep-night-owls-circadian-rhythm-0c520492f5d6fc08c412053419e913f9</id>
     <title>Being a night owl may not be great for your heart but you can do something about it</title>
-    <updated>2026-06-03T11:37:57.179185+00:00</updated>
+    <updated>2026-06-03T16:46:23.626319+00:00</updated>
     <link href="https://apnews.com/article/healthy-heart-sleep-night-owls-circadian-rhythm-0c520492f5d6fc08c412053419e913f9"/>
-    <published>2026-06-03T11:37:57.179185+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/bronx-zoo-elephant-personhood-2622a60362cefcedb52680c0f0c72743</id>
-    <title>Happy is an Asian elephant. But is she also a person?</title>
-    <updated>2026-06-03T11:38:57.179185+00:00</updated>
-    <link href="https://apnews.com/article/bronx-zoo-elephant-personhood-2622a60362cefcedb52680c0f0c72743"/>
-    <published>2026-06-03T11:38:57.179185+00:00</published>
+    <published>2026-06-03T16:46:23.626319+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/drunk-raccoon-liquor-store-bandit-virginia-5109feb2ea9ab9bf8954ec3798689fd0</id>
     <title>Raccoon goes on drunken rampage in Virginia liquor store and passes out on bathroom floor</title>
-    <updated>2026-06-03T11:39:57.179185+00:00</updated>
+    <updated>2026-06-03T16:47:23.626319+00:00</updated>
     <link href="https://apnews.com/article/drunk-raccoon-liquor-store-bandit-virginia-5109feb2ea9ab9bf8954ec3798689fd0"/>
-    <published>2026-06-03T11:39:57.179185+00:00</published>
+    <published>2026-06-03T16:47:23.626319+00:00</published>
+  </entry>
+  <entry>
+    <id>https://apnews.com/article/bronx-zoo-elephant-personhood-2622a60362cefcedb52680c0f0c72743</id>
+    <title>Happy is an Asian elephant. But is she also a person?</title>
+    <updated>2026-06-03T16:48:23.626319+00:00</updated>
+    <link href="https://apnews.com/article/bronx-zoo-elephant-personhood-2622a60362cefcedb52680c0f0c72743"/>
+    <published>2026-06-03T16:48:23.626319+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/nipper-dog-statue-albany-new-york-69a5ca4ec514f837626475b5d5264c1d</id>
     <title>Nipper, stay! The future of a beloved dog statue on a New York warehouse is up in the air</title>
-    <updated>2026-06-03T11:40:57.179185+00:00</updated>
+    <updated>2026-06-03T16:49:23.626319+00:00</updated>
     <link href="https://apnews.com/article/nipper-dog-statue-albany-new-york-69a5ca4ec514f837626475b5d5264c1d"/>
-    <published>2026-06-03T11:40:57.179185+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/chile-kayaking-tourism-whale-b0cafde4b640326f20a9da28003d6c26</id>
-    <title>A humpback whale briefly swallows kayaker in Chilean Patagonia — and it's all captured on camera</title>
-    <updated>2026-06-03T11:41:57.179185+00:00</updated>
-    <link href="https://apnews.com/article/chile-kayaking-tourism-whale-b0cafde4b640326f20a9da28003d6c26"/>
-    <published>2026-06-03T11:41:57.179185+00:00</published>
+    <published>2026-06-03T16:49:23.626319+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/argentina-teenagers-identifying-as-animals-therians-tiktok-54d158c4842f6515e31d83a260cdf31f</id>
     <title>Viral phenomenon in Argentina has young people identifying themselves as animals</title>
-    <updated>2026-06-03T11:42:57.179185+00:00</updated>
+    <updated>2026-06-03T16:50:23.626319+00:00</updated>
     <link href="https://apnews.com/article/argentina-teenagers-identifying-as-animals-therians-tiktok-54d158c4842f6515e31d83a260cdf31f"/>
-    <published>2026-06-03T11:42:57.179185+00:00</published>
+    <published>2026-06-03T16:50:23.626319+00:00</published>
+  </entry>
+  <entry>
+    <id>https://apnews.com/article/chile-kayaking-tourism-whale-b0cafde4b640326f20a9da28003d6c26</id>
+    <title>A humpback whale briefly swallows kayaker in Chilean Patagonia — and it's all captured on camera</title>
+    <updated>2026-06-03T16:51:23.626319+00:00</updated>
+    <link href="https://apnews.com/article/chile-kayaking-tourism-whale-b0cafde4b640326f20a9da28003d6c26"/>
+    <published>2026-06-03T16:51:23.626319+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/australia-frog-lettuce-salad-esperance-4134acf75e814dedd7789c1423c26ab1</id>
     <title>Lettuce introduce you to the live frog found in this grocery store salad bag</title>
-    <updated>2026-06-03T11:43:57.179185+00:00</updated>
+    <updated>2026-06-03T16:52:23.626319+00:00</updated>
     <link href="https://apnews.com/article/australia-frog-lettuce-salad-esperance-4134acf75e814dedd7789c1423c26ab1"/>
-    <published>2026-06-03T11:43:57.179185+00:00</published>
+    <published>2026-06-03T16:52:23.626319+00:00</published>
   </entry>
   <entry>
-    <id>https://apnews.com/article/blue-origin-cohete-explosion-cf0afc40fd155e1c0fc532ccda7bc8f0</id>
-    <title>Blue Origin dice que explosión de cohete no dañó tanques de combustible ni la plataforma</title>
-    <updated>2026-06-03T11:44:57.179185+00:00</updated>
-    <link href="https://apnews.com/article/blue-origin-cohete-explosion-cf0afc40fd155e1c0fc532ccda7bc8f0"/>
-    <published>2026-06-03T11:44:57.179185+00:00</published>
+    <id>https://apnews.com/article/mars-maven-nasa-spacecraft-d4a6f6909076cb7dd7ac81862121e5e1</id>
+    <title>NASA declares its Mars Maven spacecraft dead after six months of silence</title>
+    <updated>2026-06-03T16:53:23.626319+00:00</updated>
+    <link href="https://apnews.com/article/mars-maven-nasa-spacecraft-d4a6f6909076cb7dd7ac81862121e5e1"/>
+    <published>2026-06-03T16:53:23.626319+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/bezos-blue-origin-rocket-explosion-new-glenn-9d7ea73d581ba15d1fe0f9f6e948b663</id>
     <title>Blue Origin says rocket explosion spared fuel tanks and key launch pad parts</title>
-    <updated>2026-06-03T11:45:57.179185+00:00</updated>
+    <updated>2026-06-03T16:54:23.626319+00:00</updated>
     <link href="https://apnews.com/article/bezos-blue-origin-rocket-explosion-new-glenn-9d7ea73d581ba15d1fe0f9f6e948b663"/>
-    <published>2026-06-03T11:45:57.179185+00:00</published>
+    <published>2026-06-03T16:54:23.626319+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/scientists-charges-mpox-virus-lying-14b7cf7635cad30254b0ae1cdb6c0515</id>
     <title>2 scientists charged with bringing deactivated mpox virus into the US and lying to authorities</title>
-    <updated>2026-06-03T11:46:57.179185+00:00</updated>
+    <updated>2026-06-03T16:55:23.626319+00:00</updated>
     <link href="https://apnews.com/article/scientists-charges-mpox-virus-lying-14b7cf7635cad30254b0ae1cdb6c0515"/>
-    <published>2026-06-03T11:46:57.179185+00:00</published>
+    <published>2026-06-03T16:55:23.626319+00:00</published>
   </entry>
   <entry>
-    <id>https://apnews.com/article/trump-ai-executive-order-e41af74f7b0865482f07d10fe7a50fe3</id>
-    <title>Trump signs an executive order that invites vetting of top AI models for national security risks</title>
-    <updated>2026-06-03T11:47:57.179185+00:00</updated>
-    <link href="https://apnews.com/article/trump-ai-executive-order-e41af74f7b0865482f07d10fe7a50fe3"/>
-    <published>2026-06-03T11:47:57.179185+00:00</published>
+    <id>https://apnews.com/article/ford-recall-seat-belt-nhtsa-88df7aa473d20d64fb868ecd438c2e2a</id>
+    <title>Ford recall for seat belt issue and a do-not-drive order for some Bronco Sport and Maverick vehicles</title>
+    <updated>2026-06-03T16:56:23.626319+00:00</updated>
+    <link href="https://apnews.com/article/ford-recall-seat-belt-nhtsa-88df7aa473d20d64fb868ecd438c2e2a"/>
+    <published>2026-06-03T16:56:23.626319+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/trump-tariffs-steel-aluminum-7ca5a76dbe13db7e732fa48462ccde92</id>
     <title>Trump makes changes to steel, aluminum and copper tariffs</title>
-    <updated>2026-06-03T11:48:57.179185+00:00</updated>
+    <updated>2026-06-03T16:57:23.626319+00:00</updated>
     <link href="https://apnews.com/article/trump-tariffs-steel-aluminum-7ca5a76dbe13db7e732fa48462ccde92"/>
-    <published>2026-06-03T11:48:57.179185+00:00</published>
+    <published>2026-06-03T16:57:23.626319+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/trade-tariffs-labor-trump-ustr-4dce10ec32bbbcf3bfdfddb2ec660d65</id>
     <title>US says it plans extra tariffs of 10% or more for most trading partners after forced labor probe</title>
-    <updated>2026-06-03T11:49:57.179185+00:00</updated>
+    <updated>2026-06-03T16:58:23.626319+00:00</updated>
     <link href="https://apnews.com/article/trade-tariffs-labor-trump-ustr-4dce10ec32bbbcf3bfdfddb2ec660d65"/>
-    <published>2026-06-03T11:49:57.179185+00:00</published>
+    <published>2026-06-03T16:58:23.626319+00:00</published>
+  </entry>
+  <entry>
+    <id>https://apnews.com/article/bleak-week-film-festival-2026-c6db57042b3c9209f442a99ce68fc3a6</id>
+    <title>Feeling a little bleak about the world? There’s a film festival for that</title>
+    <updated>2026-06-03T16:59:23.626319+00:00</updated>
+    <link href="https://apnews.com/article/bleak-week-film-festival-2026-c6db57042b3c9209f442a99ce68fc3a6"/>
+    <published>2026-06-03T16:59:23.626319+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/masters-of-universe-movie-review-82f2bf0f585133efdd2455579854f483</id>
     <title>Movie Review: ‘Masters of the Universe’ does not have the power</title>
-    <updated>2026-06-03T11:50:57.179185+00:00</updated>
+    <updated>2026-06-03T17:00:23.626319+00:00</updated>
     <link href="https://apnews.com/article/masters-of-universe-movie-review-82f2bf0f585133efdd2455579854f483"/>
-    <published>2026-06-03T11:50:57.179185+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/bts-iheartradio-music-festival-11c12c93611fc7aa84dbf38c62bfaa64</id>
-    <title>BTS, Cardi B, Lainey Wilson, Muse, Snoop Dogg and others will perform at iHeartRadio Music Festival</title>
-    <updated>2026-06-03T11:51:57.179185+00:00</updated>
-    <link href="https://apnews.com/article/bts-iheartradio-music-festival-11c12c93611fc7aa84dbf38c62bfaa64"/>
-    <published>2026-06-03T11:51:57.179185+00:00</published>
+    <published>2026-06-03T17:00:23.626319+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/peabo-bryson-dies-2a08b2b995a4178ab6f45992cae43f5a</id>
     <title>Peabo Bryson, known for duets from Disney's 'Aladdin' and 'Beauty and the Beast,' has died at 75</title>
-    <updated>2026-06-03T11:52:57.179185+00:00</updated>
+    <updated>2026-06-03T17:01:23.626319+00:00</updated>
     <link href="https://apnews.com/article/peabo-bryson-dies-2a08b2b995a4178ab6f45992cae43f5a"/>
-    <published>2026-06-03T11:52:57.179185+00:00</published>
+    <published>2026-06-03T17:01:23.626319+00:00</published>
   </entry>
   <entry>
-    <id>https://apnews.com/article/afghanistan-womens-team-fifa-9c589099dc333d6664fd422faa3e9c11</id>
-    <title>After escaping the Taliban and years in exile, the Afghan women's soccer team rises again</title>
-    <updated>2026-06-03T11:53:57.179185+00:00</updated>
-    <link href="https://apnews.com/article/afghanistan-womens-team-fifa-9c589099dc333d6664fd422faa3e9c11"/>
-    <published>2026-06-03T11:53:57.179185+00:00</published>
+    <id>https://apnews.com/article/nil-congress-cruz-cantwell-ncaa-sec-big-ten-7200613b49a022dd3b27f53203a5a756</id>
+    <title>Citing 'critical issues,' SEC, Big Ten withhold support for bipartisan college sports bill</title>
+    <updated>2026-06-03T17:02:23.626319+00:00</updated>
+    <link href="https://apnews.com/article/nil-congress-cruz-cantwell-ncaa-sec-big-ten-7200613b49a022dd3b27f53203a5a756"/>
+    <published>2026-06-03T17:02:23.626319+00:00</published>
   </entry>
   <entry>
-    <id>https://apnews.com/article/pope-leo-tennis-2214b071d4996a803ee314c5514f99b8</id>
-    <title>Pope Leo plays tennis religiously as part of an Augustinian devotion to sports and spirituality</title>
-    <updated>2026-06-03T11:54:57.179185+00:00</updated>
-    <link href="https://apnews.com/article/pope-leo-tennis-2214b071d4996a803ee314c5514f99b8"/>
-    <published>2026-06-03T11:54:57.179185+00:00</published>
+    <id>https://apnews.com/article/stanley-cup-hurricanes-golden-knights-score-81a093f7f73f3ce434854caf5693cc48</id>
+    <title>Tomas Hertl's late goal lifts Golden Knights past Hurricanes 5-4 to open Stanley Cup Final</title>
+    <updated>2026-06-03T17:03:23.626319+00:00</updated>
+    <link href="https://apnews.com/article/stanley-cup-hurricanes-golden-knights-score-81a093f7f73f3ce434854caf5693cc48"/>
+    <published>2026-06-03T17:03:23.626319+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/world-cup-whale-mural-dallas-lawsuit-e0e9b0ae7c0824945d214e0d32669618</id>
     <title>Artist suing FIFA over destruction of Dallas whale mural before World Cup</title>
-    <updated>2026-06-03T11:55:57.179185+00:00</updated>
+    <updated>2026-06-03T17:04:23.626319+00:00</updated>
     <link href="https://apnews.com/article/world-cup-whale-mural-dallas-lawsuit-e0e9b0ae7c0824945d214e0d32669618"/>
-    <published>2026-06-03T11:55:57.179185+00:00</published>
+    <published>2026-06-03T17:04:23.626319+00:00</published>
   </entry>
   <entry>
-    <id>https://apnews.com/article/trump-pulte-gabbard-national-intelligence-281fd6ba9992487dc701768803f9c475</id>
-    <title>Trump taps housing regulator Pulte to be acting director of national intelligence</title>
-    <updated>2026-06-03T11:56:57.179185+00:00</updated>
-    <link href="https://apnews.com/article/trump-pulte-gabbard-national-intelligence-281fd6ba9992487dc701768803f9c475"/>
-    <published>2026-06-03T11:56:57.179185+00:00</published>
+    <id>https://apnews.com/article/white-house-oz-briefing-b92d7c24e43247ba32eab9a92c0d2a89</id>
+    <title>'Out of my lane.' Dr. Oz ducks questions during his turn in the White House briefing room</title>
+    <updated>2026-06-03T17:05:23.626319+00:00</updated>
+    <link href="https://apnews.com/article/white-house-oz-briefing-b92d7c24e43247ba32eab9a92c0d2a89"/>
+    <published>2026-06-03T17:05:23.626319+00:00</published>
   </entry>
   <entry>
-    <id>https://apnews.com/article/blanche-fund-justice-department-january-6-c06a4aa4a1052055bc67c4a0a54984e3</id>
-    <title>Trump administration is scrapping $1.8B fund meant to compensate president's allies, Blanche says</title>
-    <updated>2026-06-03T11:57:57.179185+00:00</updated>
-    <link href="https://apnews.com/article/blanche-fund-justice-department-january-6-c06a4aa4a1052055bc67c4a0a54984e3"/>
-    <published>2026-06-03T11:57:57.179185+00:00</published>
+    <id>https://apnews.com/article/alaska-senate-dan-sullivan-name-ballot-peltola-5d807b1c828c338ac3e94b342f47c3ec</id>
+    <title>GOP Sen. Dan Sullivan draws an unusual opponent in Alaska's primary — and he's not happy about it</title>
+    <updated>2026-06-03T17:06:23.626319+00:00</updated>
+    <link href="https://apnews.com/article/alaska-senate-dan-sullivan-name-ballot-peltola-5d807b1c828c338ac3e94b342f47c3ec"/>
+    <published>2026-06-03T17:06:23.626319+00:00</published>
   </entry>
   <entry>
-    <id>https://apnews.com/article/trump-personal-profits-anti-weaponization-fund-7d47cc89f207b0b3749fdeefdf4de4c7</id>
-    <title>Trump’s financial ties face scrutiny after moves benefiting allies and family</title>
-    <updated>2026-06-03T11:58:57.179185+00:00</updated>
-    <link href="https://apnews.com/article/trump-personal-profits-anti-weaponization-fund-7d47cc89f207b0b3749fdeefdf4de4c7"/>
-    <published>2026-06-03T11:58:57.179185+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/george-santos-kalshi-2ea925949a0f3f72ec46411b41344858</id>
-    <title>Kalshi reports Rep. George Santos to prosecutors over suspicious trades, source says</title>
-    <updated>2026-06-03T11:59:57.179185+00:00</updated>
-    <link href="https://apnews.com/article/george-santos-kalshi-2ea925949a0f3f72ec46411b41344858"/>
-    <published>2026-06-03T11:59:57.179185+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/ice-immigration-detention-medical-neglect-dhs-32c3fbeef0c44dfb02fcab890b2c9a96</id>
-    <title>From festering infections to untreated cancer, ICE detainees across the US describe medical neglect</title>
-    <updated>2026-06-03T12:00:57.179185+00:00</updated>
-    <link href="https://apnews.com/article/ice-immigration-detention-medical-neglect-dhs-32c3fbeef0c44dfb02fcab890b2c9a96"/>
-    <published>2026-06-03T12:00:57.179185+00:00</published>
+    <id>https://apnews.com/article/mass-shooting-iowa-muscatine-family-members-03c85292f6bda89b524e7280052f03e1</id>
+    <title>Surviving son addresses vigil after 6 members of Iowa family are killed in domestic violence case</title>
+    <updated>2026-06-03T17:07:23.626319+00:00</updated>
+    <link href="https://apnews.com/article/mass-shooting-iowa-muscatine-family-members-03c85292f6bda89b524e7280052f03e1"/>
+    <published>2026-06-03T17:07:23.626319+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/cbs-news-60-minutes-pelley-fired-db75daea29a1996f9db5e7951e6f5064</id>
-    <title>Scott Pelley fired from '60 Minutes,' deepening turmoil at CBS News</title>
-    <updated>2026-06-03T12:01:57.179185+00:00</updated>
+    <title>Scott Pelley fired from ‘60 Minutes,’ deepening turmoil at CBS News</title>
+    <updated>2026-06-03T17:08:23.626319+00:00</updated>
     <link href="https://apnews.com/article/cbs-news-60-minutes-pelley-fired-db75daea29a1996f9db5e7951e6f5064"/>
-    <published>2026-06-03T12:01:57.179185+00:00</published>
+    <published>2026-06-03T17:08:23.626319+00:00</published>
+  </entry>
+  <entry>
+    <id>https://apnews.com/article/gallup-poll-same-sex-marriage-morality-e12acb151446ac1b7970c0825bf1d072</id>
+    <title>Attitudes toward same-sex marriage and transgender issues are shifting, Gallup poll shows</title>
+    <updated>2026-06-03T17:09:23.626319+00:00</updated>
+    <link href="https://apnews.com/article/gallup-poll-same-sex-marriage-morality-e12acb151446ac1b7970c0825bf1d072"/>
+    <published>2026-06-03T17:09:23.626319+00:00</published>
+  </entry>
+  <entry>
+    <id>https://apnews.com/article/russia-ukraine-petersburg-oil-terminal-putin-drone-887969921c595f3a81c3b6c0b120b5f3</id>
+    <title>Ukrainian drones hit St. Petersburg oil terminal before city hosts Russian economic forum</title>
+    <updated>2026-06-03T17:10:23.626319+00:00</updated>
+    <link href="https://apnews.com/article/russia-ukraine-petersburg-oil-terminal-putin-drone-887969921c595f3a81c3b6c0b120b5f3"/>
+    <published>2026-06-03T17:10:23.626319+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/iran-us-israel-lebanon-war-kuwait-ceasefire-3-june-2026-de2d1814c0f38252bf0383be859c870b</id>
-    <title>Iran and the US trade strikes in the Persian Gulf, further testing the ceasefire</title>
-    <updated>2026-06-03T12:02:57.179185+00:00</updated>
+    <title>Iran strikes Kuwait's main airport and kills 1 as ceasefire is tested again</title>
+    <updated>2026-06-03T17:11:23.626319+00:00</updated>
     <link href="https://apnews.com/article/iran-us-israel-lebanon-war-kuwait-ceasefire-3-june-2026-de2d1814c0f38252bf0383be859c870b"/>
-    <published>2026-06-03T12:02:57.179185+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/iran-us-israel-war-2-june-2026-9bde9a3425d4b9ff70f157bdae0fb982</id>
-    <title>Iran fires missiles and US strikes Iran facility after reports of faltering peace talks</title>
-    <updated>2026-06-03T12:03:57.179185+00:00</updated>
-    <link href="https://apnews.com/article/iran-us-israel-war-2-june-2026-9bde9a3425d4b9ff70f157bdae0fb982"/>
-    <published>2026-06-03T12:03:57.179185+00:00</published>
+    <published>2026-06-03T17:11:23.626319+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/iraq-iran-us-shiite-militia-asaib-ahl-alhaq-0f1747e05dc1384ab988da4d8eb74008</id>
     <title>Powerful Iran-backed militias in Iraq say they will start handing in weapons to authorities</title>
-    <updated>2026-06-03T12:04:57.179185+00:00</updated>
+    <updated>2026-06-03T17:12:23.626319+00:00</updated>
     <link href="https://apnews.com/article/iraq-iran-us-shiite-militia-asaib-ahl-alhaq-0f1747e05dc1384ab988da4d8eb74008"/>
-    <published>2026-06-03T12:04:57.179185+00:00</published>
+    <published>2026-06-03T17:12:23.626319+00:00</published>
   </entry>
 </feed>
