@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://apnews.com/sports</id>
   <title>AP Sports (unofficial)</title>
-  <updated>2026-06-08T12:06:13.278657+00:00</updated>
+  <updated>2026-06-08T16:16:33.051189+00:00</updated>
   <author>
     <name>AP News (scraped, unofficial)</name>
   </author>
@@ -11,213 +11,213 @@
   <generator>ap-rss scraper</generator>
   <subtitle>Unofficial RSS feed of AP Sports from apnews.com</subtitle>
   <entry>
+    <id>https://apnews.com/article/world-cup-climate-change-sustainability-leed-green-buildings-91c6444de864c52902ec741a99b84833</id>
+    <title>World Cup stadiums earn prestigious certifications as green buildings before matches begin</title>
+    <updated>2026-06-08T15:47:33.051196+00:00</updated>
+    <link href="https://apnews.com/article/world-cup-climate-change-sustainability-leed-green-buildings-91c6444de864c52902ec741a99b84833"/>
+    <published>2026-06-08T15:47:33.051196+00:00</published>
+  </entry>
+  <entry>
+    <id>https://apnews.com/article/climate-oceans-data-trump-science-a9539443dfaa32b3a67468a25f8b2674</id>
+    <title>Scientists lose critical climate record as ocean observatory will go dark under Trump funding cuts</title>
+    <updated>2026-06-08T15:48:33.051196+00:00</updated>
+    <link href="https://apnews.com/article/climate-oceans-data-trump-science-a9539443dfaa32b3a67468a25f8b2674"/>
+    <published>2026-06-08T15:48:33.051196+00:00</published>
+  </entry>
+  <entry>
     <id>https://apnews.com/article/brazil-indigenous-wildfires-climate-change-87823ac02fc0af1971dbfc256612baa6</id>
     <title>In Brazil’s Cerrado region, Indigenous fire practices reshape wildfire strategy</title>
-    <updated>2026-06-08T11:37:13.278663+00:00</updated>
+    <updated>2026-06-08T15:49:33.051196+00:00</updated>
     <link href="https://apnews.com/article/brazil-indigenous-wildfires-climate-change-87823ac02fc0af1971dbfc256612baa6"/>
-    <published>2026-06-08T11:37:13.278663+00:00</published>
+    <published>2026-06-08T15:49:33.051196+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/one-photo-0000019e4ff1d68baddfeffb306b0000</id>
     <title>A photo captures tear gas drifting across a mountain road during Bolivia protests</title>
-    <updated>2026-06-08T11:38:13.278663+00:00</updated>
+    <updated>2026-06-08T15:50:33.051196+00:00</updated>
     <link href="https://apnews.com/article/one-photo-0000019e4ff1d68baddfeffb306b0000"/>
-    <published>2026-06-08T11:38:13.278663+00:00</published>
+    <published>2026-06-08T15:50:33.051196+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/one-photo-0000019e7027d80eaffffa377acf0000</id>
     <title>At the Kaaba during Hajj, a photographer captures sense of unity and devotion</title>
-    <updated>2026-06-08T11:39:13.278663+00:00</updated>
+    <updated>2026-06-08T15:51:33.051196+00:00</updated>
     <link href="https://apnews.com/article/one-photo-0000019e7027d80eaffffa377acf0000"/>
-    <published>2026-06-08T11:39:13.278663+00:00</published>
+    <published>2026-06-08T15:51:33.051196+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/one-photo-0000019e9521d8c9afff977f158b0000</id>
     <title>A photo captures a wall of wild horses surging through western Germany</title>
-    <updated>2026-06-08T11:40:13.278663+00:00</updated>
+    <updated>2026-06-08T15:52:33.051196+00:00</updated>
     <link href="https://apnews.com/article/one-photo-0000019e9521d8c9afff977f158b0000"/>
-    <published>2026-06-08T11:40:13.278663+00:00</published>
+    <published>2026-06-08T15:52:33.051196+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/brain-games-dementia-alzheimers-cognition-e4ceb3b4dda84977083d1fc9fbb25ba7</id>
     <title>Challenging your brain helps keep it healthy. Here's how to do it</title>
-    <updated>2026-06-08T11:41:13.278663+00:00</updated>
+    <updated>2026-06-08T15:53:33.051196+00:00</updated>
     <link href="https://apnews.com/article/brain-games-dementia-alzheimers-cognition-e4ceb3b4dda84977083d1fc9fbb25ba7"/>
-    <published>2026-06-08T11:41:13.278663+00:00</published>
+    <published>2026-06-08T15:53:33.051196+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/admin-dates-friends-social-tasks-list-1271a095d6bcd42aa144b280dd4930ed</id>
     <title>A new kind of date makes personal to-do lists a reason to get together with friends</title>
-    <updated>2026-06-08T11:42:13.278663+00:00</updated>
+    <updated>2026-06-08T15:54:33.051196+00:00</updated>
     <link href="https://apnews.com/article/admin-dates-friends-social-tasks-list-1271a095d6bcd42aa144b280dd4930ed"/>
-    <published>2026-06-08T11:42:13.278663+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/nipper-dog-statue-albany-new-york-69a5ca4ec514f837626475b5d5264c1d</id>
-    <title>Nipper, stay! The future of a beloved dog statue on a New York warehouse is up in the air</title>
-    <updated>2026-06-08T11:43:13.278663+00:00</updated>
-    <link href="https://apnews.com/article/nipper-dog-statue-albany-new-york-69a5ca4ec514f837626475b5d5264c1d"/>
-    <published>2026-06-08T11:43:13.278663+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/adventure-car-africa-record-reliant-robin-0328f6a9dbcb407d539fe7aabf23a915</id>
-    <title>How 2 men claimed an absurd record by driving an old 3-wheel car the length of Africa</title>
-    <updated>2026-06-08T11:44:13.278663+00:00</updated>
-    <link href="https://apnews.com/article/adventure-car-africa-record-reliant-robin-0328f6a9dbcb407d539fe7aabf23a915"/>
-    <published>2026-06-08T11:44:13.278663+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/drunk-raccoon-liquor-store-bandit-virginia-5109feb2ea9ab9bf8954ec3798689fd0</id>
-    <title>Raccoon goes on drunken rampage in Virginia liquor store and passes out on bathroom floor</title>
-    <updated>2026-06-08T11:45:13.278663+00:00</updated>
-    <link href="https://apnews.com/article/drunk-raccoon-liquor-store-bandit-virginia-5109feb2ea9ab9bf8954ec3798689fd0"/>
-    <published>2026-06-08T11:45:13.278663+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/chile-kayaking-tourism-whale-b0cafde4b640326f20a9da28003d6c26</id>
-    <title>A humpback whale briefly swallows kayaker in Chilean Patagonia — and it's all captured on camera</title>
-    <updated>2026-06-08T11:46:13.278663+00:00</updated>
-    <link href="https://apnews.com/article/chile-kayaking-tourism-whale-b0cafde4b640326f20a9da28003d6c26"/>
-    <published>2026-06-08T11:46:13.278663+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/argentina-teenagers-identifying-as-animals-therians-tiktok-54d158c4842f6515e31d83a260cdf31f</id>
-    <title>Viral phenomenon in Argentina has young people identifying themselves as animals</title>
-    <updated>2026-06-08T11:47:13.278663+00:00</updated>
-    <link href="https://apnews.com/article/argentina-teenagers-identifying-as-animals-therians-tiktok-54d158c4842f6515e31d83a260cdf31f"/>
-    <published>2026-06-08T11:47:13.278663+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/australia-frog-lettuce-salad-esperance-4134acf75e814dedd7789c1423c26ab1</id>
-    <title>Lettuce introduce you to the live frog found in this grocery store salad bag</title>
-    <updated>2026-06-08T11:48:13.278663+00:00</updated>
-    <link href="https://apnews.com/article/australia-frog-lettuce-salad-esperance-4134acf75e814dedd7789c1423c26ab1"/>
-    <published>2026-06-08T11:48:13.278663+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/apple-siri-wwdc-iphone-aa25d07c06d366ec5b62643a1f5b0db9</id>
-    <title>Apple expected to unveil new AI features at last developers conference with CEO Tim Cook</title>
-    <updated>2026-06-08T11:49:13.278663+00:00</updated>
-    <link href="https://apnews.com/article/apple-siri-wwdc-iphone-aa25d07c06d366ec5b62643a1f5b0db9"/>
-    <published>2026-06-08T11:49:13.278663+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/stock-markets-rates-iran-economy-a4b9336d67a15d19d9aa5394e5a30be6</id>
-    <title>Oil prices surge as Iran conflict flares, while global stocks skid on selling of tech shares</title>
-    <updated>2026-06-08T11:50:13.278663+00:00</updated>
-    <link href="https://apnews.com/article/stock-markets-rates-iran-economy-a4b9336d67a15d19d9aa5394e5a30be6"/>
-    <published>2026-06-08T11:50:13.278663+00:00</published>
+    <published>2026-06-08T15:54:33.051196+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/repair-cafes-economy-anticonsumerism-affordability-buy-nothing-d3acac3ec2aae5e85294b34f0f4764b8</id>
     <title>Broken speaker? Finicky zipper? Anticonsumerist Repair Cafes urge you to fix it instead of pitch it</title>
-    <updated>2026-06-08T11:51:13.278663+00:00</updated>
+    <updated>2026-06-08T15:55:33.051196+00:00</updated>
     <link href="https://apnews.com/article/repair-cafes-economy-anticonsumerism-affordability-buy-nothing-d3acac3ec2aae5e85294b34f0f4764b8"/>
-    <published>2026-06-08T11:51:13.278663+00:00</published>
+    <published>2026-06-08T15:55:33.051196+00:00</published>
+  </entry>
+  <entry>
+    <id>https://apnews.com/article/nipper-dog-statue-albany-new-york-69a5ca4ec514f837626475b5d5264c1d</id>
+    <title>Nipper, stay! The future of a beloved dog statue on a New York warehouse is up in the air</title>
+    <updated>2026-06-08T15:56:33.051196+00:00</updated>
+    <link href="https://apnews.com/article/nipper-dog-statue-albany-new-york-69a5ca4ec514f837626475b5d5264c1d"/>
+    <published>2026-06-08T15:56:33.051196+00:00</published>
+  </entry>
+  <entry>
+    <id>https://apnews.com/article/adventure-car-africa-record-reliant-robin-0328f6a9dbcb407d539fe7aabf23a915</id>
+    <title>How 2 men claimed an absurd record by driving an old 3-wheel car the length of Africa</title>
+    <updated>2026-06-08T15:57:33.051196+00:00</updated>
+    <link href="https://apnews.com/article/adventure-car-africa-record-reliant-robin-0328f6a9dbcb407d539fe7aabf23a915"/>
+    <published>2026-06-08T15:57:33.051196+00:00</published>
+  </entry>
+  <entry>
+    <id>https://apnews.com/article/drunk-raccoon-liquor-store-bandit-virginia-5109feb2ea9ab9bf8954ec3798689fd0</id>
+    <title>Raccoon goes on drunken rampage in Virginia liquor store and passes out on bathroom floor</title>
+    <updated>2026-06-08T15:58:33.051196+00:00</updated>
+    <link href="https://apnews.com/article/drunk-raccoon-liquor-store-bandit-virginia-5109feb2ea9ab9bf8954ec3798689fd0"/>
+    <published>2026-06-08T15:58:33.051196+00:00</published>
+  </entry>
+  <entry>
+    <id>https://apnews.com/article/chile-kayaking-tourism-whale-b0cafde4b640326f20a9da28003d6c26</id>
+    <title>A humpback whale briefly swallows kayaker in Chilean Patagonia — and it's all captured on camera</title>
+    <updated>2026-06-08T15:59:33.051196+00:00</updated>
+    <link href="https://apnews.com/article/chile-kayaking-tourism-whale-b0cafde4b640326f20a9da28003d6c26"/>
+    <published>2026-06-08T15:59:33.051196+00:00</published>
+  </entry>
+  <entry>
+    <id>https://apnews.com/article/argentina-teenagers-identifying-as-animals-therians-tiktok-54d158c4842f6515e31d83a260cdf31f</id>
+    <title>Viral phenomenon in Argentina has young people identifying themselves as animals</title>
+    <updated>2026-06-08T16:00:33.051196+00:00</updated>
+    <link href="https://apnews.com/article/argentina-teenagers-identifying-as-animals-therians-tiktok-54d158c4842f6515e31d83a260cdf31f"/>
+    <published>2026-06-08T16:00:33.051196+00:00</published>
+  </entry>
+  <entry>
+    <id>https://apnews.com/article/australia-frog-lettuce-salad-esperance-4134acf75e814dedd7789c1423c26ab1</id>
+    <title>Lettuce introduce you to the live frog found in this grocery store salad bag</title>
+    <updated>2026-06-08T16:01:33.051196+00:00</updated>
+    <link href="https://apnews.com/article/australia-frog-lettuce-salad-esperance-4134acf75e814dedd7789c1423c26ab1"/>
+    <published>2026-06-08T16:01:33.051196+00:00</published>
+  </entry>
+  <entry>
+    <id>https://apnews.com/article/apple-siri-wwdc-iphone-aa25d07c06d366ec5b62643a1f5b0db9</id>
+    <title>Apple expected to unveil new AI features at last developers conference with CEO Tim Cook</title>
+    <updated>2026-06-08T16:02:33.051196+00:00</updated>
+    <link href="https://apnews.com/article/apple-siri-wwdc-iphone-aa25d07c06d366ec5b62643a1f5b0db9"/>
+    <published>2026-06-08T16:02:33.051196+00:00</published>
+  </entry>
+  <entry>
+    <id>https://apnews.com/article/stock-markets-rates-iran-economy-a4b9336d67a15d19d9aa5394e5a30be6</id>
+    <title>AI stocks recover some of last week's sell-off, while oil prices come off their overnight highs</title>
+    <updated>2026-06-08T16:03:33.051196+00:00</updated>
+    <link href="https://apnews.com/article/stock-markets-rates-iran-economy-a4b9336d67a15d19d9aa5394e5a30be6"/>
+    <published>2026-06-08T16:03:33.051196+00:00</published>
+  </entry>
+  <entry>
+    <id>https://apnews.com/article/tony-awards-schmigadoon-pink-ragtime-5774d8b78360e0ca2861e6b37e30ffac</id>
+    <title>Tony winners thank voice teachers and babysitters as Broadway crowns 'Schmigadoon!'</title>
+    <updated>2026-06-08T16:04:33.051196+00:00</updated>
+    <link href="https://apnews.com/article/tony-awards-schmigadoon-pink-ragtime-5774d8b78360e0ca2861e6b37e30ffac"/>
+    <published>2026-06-08T16:04:33.051196+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/tony-awards-2026-list-winners-best-actor-80d2e349203d0bb3fb008209ea4f5ebe</id>
     <title>A select list of winners at the 2026 Tony Awards</title>
-    <updated>2026-06-08T11:52:13.278663+00:00</updated>
+    <updated>2026-06-08T16:05:33.051196+00:00</updated>
     <link href="https://apnews.com/article/tony-awards-2026-list-winners-best-actor-80d2e349203d0bb3fb008209ea4f5ebe"/>
-    <published>2026-06-08T11:52:13.278663+00:00</published>
+    <published>2026-06-08T16:05:33.051196+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/scary-movie-box-office-e50df318b505136cd8996aa0e02b2303</id>
     <title>'Scary Movie' tops box office, slaying 'Masters of the Universe' and adding to low-budget streak</title>
-    <updated>2026-06-08T11:53:13.278663+00:00</updated>
+    <updated>2026-06-08T16:06:33.051196+00:00</updated>
     <link href="https://apnews.com/article/scary-movie-box-office-e50df318b505136cd8996aa0e02b2303"/>
-    <published>2026-06-08T11:53:13.278663+00:00</published>
+    <published>2026-06-08T16:06:33.051196+00:00</published>
   </entry>
   <entry>
-    <id>https://apnews.com/article/tony-awards-2026-broadway-plays-980347242888f35a0298bdf63ed9a36c</id>
-    <title>Broadway revivals and 'Liberation' win big at the Tony Awards, hosted by Pink</title>
-    <updated>2026-06-08T11:54:13.278663+00:00</updated>
-    <link href="https://apnews.com/article/tony-awards-2026-broadway-plays-980347242888f35a0298bdf63ed9a36c"/>
-    <published>2026-06-08T11:54:13.278663+00:00</published>
+    <id>https://apnews.com/article/stacey-king-dead-chicago-bulls-ffac96730334dedbfff0f2824858c238</id>
+    <title>Stacey King, longtime Bulls broadcaster who played on three NBA championship teams, dies at 59</title>
+    <updated>2026-06-08T16:07:33.051196+00:00</updated>
+    <link href="https://apnews.com/article/stacey-king-dead-chicago-bulls-ffac96730334dedbfff0f2824858c238"/>
+    <published>2026-06-08T16:07:33.051196+00:00</published>
   </entry>
   <entry>
-    <id>https://apnews.com/article/zverev-cobolli-french-open-roland-garros-afbf92e0f000b2eddef08643ef68e139</id>
-    <title>Years of pent-up emotions came flooding out of Alexander Zverev when he finally won the French Open</title>
-    <updated>2026-06-08T11:55:13.278663+00:00</updated>
-    <link href="https://apnews.com/article/zverev-cobolli-french-open-roland-garros-afbf92e0f000b2eddef08643ef68e139"/>
-    <published>2026-06-08T11:55:13.278663+00:00</published>
+    <id>https://apnews.com/article/fifa-world-cup-infantino-trump-d189c71b80951d84c565014e376fc75d</id>
+    <title>FIFA and Infantino draw bipartisan skepticism ahead of the World Cup</title>
+    <updated>2026-06-08T16:08:33.051196+00:00</updated>
+    <link href="https://apnews.com/article/fifa-world-cup-infantino-trump-d189c71b80951d84c565014e376fc75d"/>
+    <published>2026-06-08T16:08:33.051196+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/eriksen-collapses-denmark-ukraine-soccer-4678269ffdca091bc696cd5caf9baf3c</id>
     <title>Christian Eriksen 'conscious' after another on-field collapse in Denmark match, national team says</title>
-    <updated>2026-06-08T11:56:13.278663+00:00</updated>
+    <updated>2026-06-08T16:09:33.051196+00:00</updated>
     <link href="https://apnews.com/article/eriksen-collapses-denmark-ukraine-soccer-4678269ffdca091bc696cd5caf9baf3c"/>
-    <published>2026-06-08T11:56:13.278663+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/trump-knicks-nba-finals-new-york-b367a391f419c4ff862ac16b95de8dc3</id>
-    <title>Donald Trump, Knicks fan, heads back to New York to root on his team</title>
-    <updated>2026-06-08T11:57:13.278663+00:00</updated>
-    <link href="https://apnews.com/article/trump-knicks-nba-finals-new-york-b367a391f419c4ff862ac16b95de8dc3"/>
-    <published>2026-06-08T11:57:13.278663+00:00</published>
+    <published>2026-06-08T16:09:33.051196+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/los-angeles-mayor-2026-election-10ac639fd7ab9a313cd89d2ca6fbbbb1</id>
     <title>Nithya Raman and Spencer Pratt locked in tight race to make runoff for Los Angeles mayor</title>
-    <updated>2026-06-08T11:58:13.278663+00:00</updated>
+    <updated>2026-06-08T16:10:33.051196+00:00</updated>
     <link href="https://apnews.com/article/los-angeles-mayor-2026-election-10ac639fd7ab9a313cd89d2ca6fbbbb1"/>
-    <published>2026-06-08T11:58:13.278663+00:00</published>
+    <published>2026-06-08T16:10:33.051196+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/trump-iran-war-settlement-fund-california-election-a0517d4d0f0d38abd8d403b42ef5da0e</id>
     <title>Trump dismisses idea that Iran betrays his 'no new wars' campaign message</title>
-    <updated>2026-06-08T11:59:13.278663+00:00</updated>
+    <updated>2026-06-08T16:11:33.051196+00:00</updated>
     <link href="https://apnews.com/article/trump-iran-war-settlement-fund-california-election-a0517d4d0f0d38abd8d403b42ef5da0e"/>
-    <published>2026-06-08T11:59:13.278663+00:00</published>
+    <published>2026-06-08T16:11:33.051196+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/white-house-ufc-fight-lawsuit-trump-birthday-da95554d7137ca297dd47951a3b95cc8</id>
     <title>Lawsuit seeks to stop the UFC fight on the White House South Lawn for Trump's birthday</title>
-    <updated>2026-06-08T12:00:13.278663+00:00</updated>
+    <updated>2026-06-08T16:12:33.051196+00:00</updated>
     <link href="https://apnews.com/article/white-house-ufc-fight-lawsuit-trump-birthday-da95554d7137ca297dd47951a3b95cc8"/>
-    <published>2026-06-08T12:00:13.278663+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/bob-packwood-obituary-ab7feaea89a34f1188f325ab1684d1f7</id>
-    <title>Maverick Republican Sen. Bob Packwood of Oregon, who resigned after sexual harassment scandal, dies</title>
-    <updated>2026-06-08T12:01:13.278663+00:00</updated>
-    <link href="https://apnews.com/article/bob-packwood-obituary-ab7feaea89a34f1188f325ab1684d1f7"/>
-    <published>2026-06-08T12:01:13.278663+00:00</published>
+    <published>2026-06-08T16:12:33.051196+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/toledo-ohio-shooting-6fdbf9e7033b3eab21052070c9598e27</id>
     <title>Police search for suspects in Ohio shooting that wounded 12 near a street festival</title>
-    <updated>2026-06-08T12:02:13.278663+00:00</updated>
+    <updated>2026-06-08T16:13:33.051196+00:00</updated>
     <link href="https://apnews.com/article/toledo-ohio-shooting-6fdbf9e7033b3eab21052070c9598e27"/>
-    <published>2026-06-08T12:02:13.278663+00:00</published>
+    <published>2026-06-08T16:13:33.051196+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/penn-station-stabbings-new-york-city-c06008f819b9cb04de611be65898ea14</id>
     <title>6 people hurt in stabbings at New York's Penn Station with a suspect in custody, authorities says</title>
-    <updated>2026-06-08T12:03:13.278663+00:00</updated>
+    <updated>2026-06-08T16:14:33.051196+00:00</updated>
     <link href="https://apnews.com/article/penn-station-stabbings-new-york-city-c06008f819b9cb04de611be65898ea14"/>
-    <published>2026-06-08T12:03:13.278663+00:00</published>
+    <published>2026-06-08T16:14:33.051196+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-c16dc4917512f7436a3921a4b044b98b</id>
     <title>Israel and Iran trade strikes, threatening to drag the region back into full-scale war</title>
-    <updated>2026-06-08T12:04:13.278663+00:00</updated>
+    <updated>2026-06-08T16:15:33.051196+00:00</updated>
     <link href="https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-c16dc4917512f7436a3921a4b044b98b"/>
-    <published>2026-06-08T12:04:13.278663+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-28d80744e192ae0d5cce73a5a08af906</id>
-    <title>Israel says Iran launched missiles at it in first such bombardment since fragile ceasefire</title>
-    <updated>2026-06-08T12:05:13.278663+00:00</updated>
-    <link href="https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-28d80744e192ae0d5cce73a5a08af906"/>
-    <published>2026-06-08T12:05:13.278663+00:00</published>
+    <published>2026-06-08T16:15:33.051196+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/philippines-earthquake-mindanao-6e489739402863eaf40cbfd30a1b1cc7</id>
-    <title>A 7.8 magnitude quake in the Philippines kills at least 32, collapses buildings and sparks tsunami</title>
-    <updated>2026-06-08T12:06:13.278663+00:00</updated>
+    <title>A 7.8 magnitude quake in the Philippines kills at least 35, collapses buildings and sparks tsunami</title>
+    <updated>2026-06-08T16:16:33.051196+00:00</updated>
     <link href="https://apnews.com/article/philippines-earthquake-mindanao-6e489739402863eaf40cbfd30a1b1cc7"/>
-    <published>2026-06-08T12:06:13.278663+00:00</published>
+    <published>2026-06-08T16:16:33.051196+00:00</published>
   </entry>
 </feed>
