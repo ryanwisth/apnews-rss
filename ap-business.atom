@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://apnews.com/business</id>
   <title>AP Business (unofficial)</title>
-  <updated>2026-07-08T13:07:04.520671+00:00</updated>
+  <updated>2026-07-08T15:31:54.111567+00:00</updated>
   <author>
     <name>AP News (scraped, unofficial)</name>
   </author>
@@ -11,213 +11,213 @@
   <generator>ap-rss scraper</generator>
   <subtitle>Unofficial RSS feed of AP Business from apnews.com</subtitle>
   <entry>
+    <id>https://apnews.com/article/china-tornado-tormenta-hubei-9f2cbe1baf397065406e10bfa80c0ffe</id>
+    <title>Tornados y tormentas en el centro de China dejan al menos 11 muertos</title>
+    <updated>2026-07-08T15:02:54.111574+00:00</updated>
+    <link href="https://apnews.com/article/china-tornado-tormenta-hubei-9f2cbe1baf397065406e10bfa80c0ffe"/>
+    <published>2026-07-08T15:02:54.111574+00:00</published>
+  </entry>
+  <entry>
     <id>https://apnews.com/article/white-house-ufc-fight-extraordinary-photo</id>
     <title>On the South Lawn, a UFC fighter’s victory frames an unusual White House scene</title>
-    <updated>2026-07-08T12:38:04.520681+00:00</updated>
+    <updated>2026-07-08T15:03:54.111574+00:00</updated>
     <link href="https://apnews.com/article/white-house-ufc-fight-extraordinary-photo"/>
-    <published>2026-07-08T12:38:04.520681+00:00</published>
+    <published>2026-07-08T15:03:54.111574+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/one-photo-0000019e9521d8c9afff977f158b0000</id>
     <title>A photo captures a wall of wild horses surging through western Germany</title>
-    <updated>2026-07-08T12:39:04.520681+00:00</updated>
+    <updated>2026-07-08T15:04:54.111574+00:00</updated>
     <link href="https://apnews.com/article/one-photo-0000019e9521d8c9afff977f158b0000"/>
-    <published>2026-07-08T12:39:04.520681+00:00</published>
+    <published>2026-07-08T15:04:54.111574+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/one-photo-0000019e7027d80eaffffa377acf0000</id>
     <title>At the Kaaba during Hajj, a photographer captures sense of unity and devotion</title>
-    <updated>2026-07-08T12:40:04.520681+00:00</updated>
+    <updated>2026-07-08T15:05:54.111574+00:00</updated>
     <link href="https://apnews.com/article/one-photo-0000019e7027d80eaffffa377acf0000"/>
-    <published>2026-07-08T12:40:04.520681+00:00</published>
+    <published>2026-07-08T15:05:54.111574+00:00</published>
   </entry>
   <entry>
-    <id>https://apnews.com/article/drowning-children-stew-leonards-6e627bdbfc58fffbc5ac7b4e4a8978ef</id>
-    <title>A child can drown in seconds. Doctors want more families to be prepared</title>
-    <updated>2026-07-08T12:41:04.520681+00:00</updated>
-    <link href="https://apnews.com/article/drowning-children-stew-leonards-6e627bdbfc58fffbc5ac7b4e4a8978ef"/>
-    <published>2026-07-08T12:41:04.520681+00:00</published>
+    <id>https://apnews.com/article/scratch-itch-mosquito-rash-antihistamine-23f9217afac22f78ebd43c9aa4efa90a</id>
+    <title>Scratching that bug bite might feel good at first but science explains why it's a bad idea</title>
+    <updated>2026-07-08T15:06:54.111574+00:00</updated>
+    <link href="https://apnews.com/article/scratch-itch-mosquito-rash-antihistamine-23f9217afac22f78ebd43c9aa4efa90a"/>
+    <published>2026-07-08T15:06:54.111574+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/air-conditioning-settings-savings-heat-wave-535f0b7d38a2e1e68812d4c23450cef8</id>
     <title>This air conditioning strategy is the sweet spot for saving energy and money, experts say</title>
-    <updated>2026-07-08T12:42:04.520681+00:00</updated>
+    <updated>2026-07-08T15:07:54.111574+00:00</updated>
     <link href="https://apnews.com/article/air-conditioning-settings-savings-heat-wave-535f0b7d38a2e1e68812d4c23450cef8"/>
-    <published>2026-07-08T12:42:04.520681+00:00</published>
+    <published>2026-07-08T15:07:54.111574+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/calories-high-glycemic-ultraprocessed-foods-diet-657df932e6e6134a59d2adb58ad377b0</id>
     <title>Why losing weight isn't just about counting calories — and what to do about it</title>
-    <updated>2026-07-08T12:43:04.520681+00:00</updated>
+    <updated>2026-07-08T15:08:54.111574+00:00</updated>
     <link href="https://apnews.com/article/calories-high-glycemic-ultraprocessed-foods-diet-657df932e6e6134a59d2adb58ad377b0"/>
-    <published>2026-07-08T12:43:04.520681+00:00</published>
+    <published>2026-07-08T15:08:54.111574+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/australia-frog-lettuce-salad-esperance-4134acf75e814dedd7789c1423c26ab1</id>
     <title>Lettuce introduce you to the live frog found in this grocery store salad bag</title>
-    <updated>2026-07-08T12:44:04.520681+00:00</updated>
+    <updated>2026-07-08T15:09:54.111574+00:00</updated>
     <link href="https://apnews.com/article/australia-frog-lettuce-salad-esperance-4134acf75e814dedd7789c1423c26ab1"/>
-    <published>2026-07-08T12:44:04.520681+00:00</published>
+    <published>2026-07-08T15:09:54.111574+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/gorilla-germany-fatou-berlin-zoo-0196b95f3b6d48593bb7c872cab51adf</id>
     <title>Fatou, the world's oldest gorilla living in captivity, celebrates her 69th birthday at Berlin Zoo</title>
-    <updated>2026-07-08T12:45:04.520681+00:00</updated>
+    <updated>2026-07-08T15:10:54.111574+00:00</updated>
     <link href="https://apnews.com/article/gorilla-germany-fatou-berlin-zoo-0196b95f3b6d48593bb7c872cab51adf"/>
-    <published>2026-07-08T12:45:04.520681+00:00</published>
+    <published>2026-07-08T15:10:54.111574+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/nipper-dog-statue-albany-new-york-69a5ca4ec514f837626475b5d5264c1d</id>
     <title>Nipper, stay! The future of a beloved dog statue on a New York warehouse is up in the air</title>
-    <updated>2026-07-08T12:46:04.520681+00:00</updated>
+    <updated>2026-07-08T15:11:54.111574+00:00</updated>
     <link href="https://apnews.com/article/nipper-dog-statue-albany-new-york-69a5ca4ec514f837626475b5d5264c1d"/>
-    <published>2026-07-08T12:46:04.520681+00:00</published>
+    <published>2026-07-08T15:11:54.111574+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/drunk-raccoon-liquor-store-bandit-virginia-5109feb2ea9ab9bf8954ec3798689fd0</id>
     <title>Raccoon goes on drunken rampage in Virginia liquor store and passes out on bathroom floor</title>
-    <updated>2026-07-08T12:47:04.520681+00:00</updated>
+    <updated>2026-07-08T15:12:54.111574+00:00</updated>
     <link href="https://apnews.com/article/drunk-raccoon-liquor-store-bandit-virginia-5109feb2ea9ab9bf8954ec3798689fd0"/>
-    <published>2026-07-08T12:47:04.520681+00:00</published>
+    <published>2026-07-08T15:12:54.111574+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/ghana-fantasy-coffins-funerals-accra-tradition-01220db5b2e240a12ae8e4ba8820f993</id>
     <title>Ghana's fantasy coffins are a colorful celebration of life and legacy</title>
-    <updated>2026-07-08T12:48:04.520681+00:00</updated>
+    <updated>2026-07-08T15:13:54.111574+00:00</updated>
     <link href="https://apnews.com/article/ghana-fantasy-coffins-funerals-accra-tradition-01220db5b2e240a12ae8e4ba8820f993"/>
-    <published>2026-07-08T12:48:04.520681+00:00</published>
+    <published>2026-07-08T15:13:54.111574+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/argentina-teenagers-identifying-as-animals-therians-tiktok-54d158c4842f6515e31d83a260cdf31f</id>
     <title>Viral phenomenon in Argentina has young people identifying themselves as animals</title>
-    <updated>2026-07-08T12:49:04.520681+00:00</updated>
+    <updated>2026-07-08T15:14:54.111574+00:00</updated>
     <link href="https://apnews.com/article/argentina-teenagers-identifying-as-animals-therians-tiktok-54d158c4842f6515e31d83a260cdf31f"/>
-    <published>2026-07-08T12:49:04.520681+00:00</published>
+    <published>2026-07-08T15:14:54.111574+00:00</published>
+  </entry>
+  <entry>
+    <id>https://apnews.com/article/spacex-wall-street-analysts-elon-musk-d2806149f0a111cfbb198d28416b5a4f</id>
+    <title>Wall Street banks are sky-high about SpaceX, but investors remain cautious</title>
+    <updated>2026-07-08T15:15:54.111574+00:00</updated>
+    <link href="https://apnews.com/article/spacex-wall-street-analysts-elon-musk-d2806149f0a111cfbb198d28416b5a4f"/>
+    <published>2026-07-08T15:15:54.111574+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/sedan-car-shopping-15000-986c03066f1606a7e46acdb1f2cb1b14</id>
     <title>The best used sedans for under $15,000, according to Edmunds</title>
-    <updated>2026-07-08T12:50:04.520681+00:00</updated>
+    <updated>2026-07-08T15:16:54.111574+00:00</updated>
     <link href="https://apnews.com/article/sedan-car-shopping-15000-986c03066f1606a7e46acdb1f2cb1b14"/>
-    <published>2026-07-08T12:50:04.520681+00:00</published>
+    <published>2026-07-08T15:16:54.111574+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/stocks-rates-oil-iran-ai-671d9c94b302f7db533f46baa18387d3</id>
-    <title>US markets retreat, oil prices jump more than 5% after Trump says ceasefire with Iran is 'over'</title>
-    <updated>2026-07-08T12:51:04.520681+00:00</updated>
+    <title>Oil prices rise 7%, and stocks drop worldwide after Trump says ceasefire with Iran is 'over'</title>
+    <updated>2026-07-08T15:17:54.111574+00:00</updated>
     <link href="https://apnews.com/article/stocks-rates-oil-iran-ai-671d9c94b302f7db533f46baa18387d3"/>
-    <published>2026-07-08T12:51:04.520681+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/china-louis-ipr-fashion-trademark-6b579f6cd9ec5b5b4aae2412f8fb5348</id>
-    <title>Louis Vuitton court victory against Chinese tea chain stirs up a debate over copyrights</title>
-    <updated>2026-07-08T12:52:04.520681+00:00</updated>
-    <link href="https://apnews.com/article/china-louis-ipr-fashion-trademark-6b579f6cd9ec5b5b4aae2412f8fb5348"/>
-    <published>2026-07-08T12:52:04.520681+00:00</published>
+    <published>2026-07-08T15:17:54.111574+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/chanel-paris-fashion-couture-celebrities-90e10d115f3d01c93fc309d7a7ea9f61</id>
     <title>Chanel turns the Grand Palais into a dark fairy tale for Matthieu Blazy’s 2nd couture show</title>
-    <updated>2026-07-08T12:53:04.520681+00:00</updated>
+    <updated>2026-07-08T15:18:54.111574+00:00</updated>
     <link href="https://apnews.com/article/chanel-paris-fashion-couture-celebrities-90e10d115f3d01c93fc309d7a7ea9f61"/>
-    <published>2026-07-08T12:53:04.520681+00:00</published>
+    <published>2026-07-08T15:18:54.111574+00:00</published>
   </entry>
   <entry>
-    <id>https://apnews.com/article/tiff-opening-night-being-heumann-toronto-film-f11642a566bc535845c9448d760cd934</id>
-    <title>'Being Heumann,' about a disability rights activist, to open Toronto film festival</title>
-    <updated>2026-07-08T12:54:04.520681+00:00</updated>
-    <link href="https://apnews.com/article/tiff-opening-night-being-heumann-toronto-film-f11642a566bc535845c9448d760cd934"/>
-    <published>2026-07-08T12:54:04.520681+00:00</published>
+    <id>https://apnews.com/article/emmy-nominations-pluribus-beef-hacks-pitt-7d21700a43d7d5da1a662898e3646d46</id>
+    <title>'The Pitt' and 'Pluribus' are poised to compete for top honors as Emmy nominations are announced</title>
+    <updated>2026-07-08T15:19:54.111574+00:00</updated>
+    <link href="https://apnews.com/article/emmy-nominations-pluribus-beef-hacks-pitt-7d21700a43d7d5da1a662898e3646d46"/>
+    <published>2026-07-08T15:19:54.111574+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/abc-view-fcc-equal-time-9c0449a4bf7340afb0c09fe8f466a356</id>
     <title>ABC fights back against FCC regulators in dispute over 'The View' and equal time rules</title>
-    <updated>2026-07-08T12:55:04.520681+00:00</updated>
+    <updated>2026-07-08T15:20:54.111574+00:00</updated>
     <link href="https://apnews.com/article/abc-view-fcc-equal-time-9c0449a4bf7340afb0c09fe8f466a356"/>
-    <published>2026-07-08T12:55:04.520681+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/ishowspeed-world-cup-fifa-e6a93908ed4f8c1b9dea5865142ed2fa</id>
-    <title>FIFA is investigating an incident between a fan and streamer IShowSpeed at a World Cup match</title>
-    <updated>2026-07-08T12:56:04.520681+00:00</updated>
-    <link href="https://apnews.com/article/ishowspeed-world-cup-fifa-e6a93908ed4f8c1b9dea5865142ed2fa"/>
-    <published>2026-07-08T12:56:04.520681+00:00</published>
+    <published>2026-07-08T15:20:54.111574+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/eu-parliament-infantino-world-cup-investigation-be5a0c37e1220a6bcc120a092e859311</id>
     <title>EU lawmakers call for investigation of FIFA boss over Trump contact before US-Belgium match</title>
-    <updated>2026-07-08T12:57:04.520681+00:00</updated>
+    <updated>2026-07-08T15:21:54.111574+00:00</updated>
     <link href="https://apnews.com/article/eu-parliament-infantino-world-cup-investigation-be5a0c37e1220a6bcc120a092e859311"/>
-    <published>2026-07-08T12:57:04.520681+00:00</published>
+    <published>2026-07-08T15:21:54.111574+00:00</published>
+  </entry>
+  <entry>
+    <id>https://apnews.com/article/ishowspeed-world-cup-fifa-e6a93908ed4f8c1b9dea5865142ed2fa</id>
+    <title>FIFA is investigating an incident between a fan and streamer IShowSpeed at a World Cup match</title>
+    <updated>2026-07-08T15:22:54.111574+00:00</updated>
+    <link href="https://apnews.com/article/ishowspeed-world-cup-fifa-e6a93908ed4f8c1b9dea5865142ed2fa"/>
+    <published>2026-07-08T15:22:54.111574+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/us-soccer-world-cup-staff-suspensions-3d4348957ccbf4a25e031cd5ea905e8c</id>
     <title>Two US soccer team staff members suspended by FIFA for Belgium World Cup game</title>
-    <updated>2026-07-08T12:58:04.520681+00:00</updated>
+    <updated>2026-07-08T15:23:54.111574+00:00</updated>
     <link href="https://apnews.com/article/us-soccer-world-cup-staff-suspensions-3d4348957ccbf4a25e031cd5ea905e8c"/>
-    <published>2026-07-08T12:58:04.520681+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/israel-poll-democrats-republicans-b91cdc0aaf31f6bc226a0584115b886f</id>
-    <title>AP-NORC poll: About 3 in 10 US adults believe Israel has committed genocide against Palestinians</title>
-    <updated>2026-07-08T12:59:04.520681+00:00</updated>
-    <link href="https://apnews.com/article/israel-poll-democrats-republicans-b91cdc0aaf31f6bc226a0584115b886f"/>
-    <published>2026-07-08T12:59:04.520681+00:00</published>
+    <published>2026-07-08T15:23:54.111574+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/maine-graham-platner-election-5ce04e85fc3f43a3faa90366dc3cd3a3</id>
     <title>Succession fight is already underway as calls mount for Platner to drop out of Maine Senate race</title>
-    <updated>2026-07-08T13:00:04.520681+00:00</updated>
+    <updated>2026-07-08T15:24:54.111574+00:00</updated>
     <link href="https://apnews.com/article/maine-graham-platner-election-5ce04e85fc3f43a3faa90366dc3cd3a3"/>
-    <published>2026-07-08T13:00:04.520681+00:00</published>
+    <published>2026-07-08T15:24:54.111574+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/mcconnell-health-hospital-senate-21a76f059653c6c713e660abb7722c5e</id>
     <title>Speculation swirls around hospitalized McConnell's health as he speaks to GOP leaders</title>
-    <updated>2026-07-08T13:01:04.520681+00:00</updated>
+    <updated>2026-07-08T15:25:54.111574+00:00</updated>
     <link href="https://apnews.com/article/mcconnell-health-hospital-senate-21a76f059653c6c713e660abb7722c5e"/>
-    <published>2026-07-08T13:01:04.520681+00:00</published>
+    <published>2026-07-08T15:25:54.111574+00:00</published>
   </entry>
   <entry>
-    <id>https://apnews.com/article/wisconsin-voting-records-supreme-court-cd79bb6dd2ab432c483777383e5dae15</id>
-    <title>Wisconsin Supreme Court refuses to release voter records sought by conservative activist</title>
-    <updated>2026-07-08T13:02:04.520681+00:00</updated>
-    <link href="https://apnews.com/article/wisconsin-voting-records-supreme-court-cd79bb6dd2ab432c483777383e5dae15"/>
-    <published>2026-07-08T13:02:04.520681+00:00</published>
+    <id>https://apnews.com/article/nolan-xavier-wells-horn-island-c9389a642ec6e8fde60faadfc442a0bb</id>
+    <title>Family of Nolan Wells, who was found dead off Mississippi island, retains noted lawyer Ben Crump</title>
+    <updated>2026-07-08T15:26:54.111574+00:00</updated>
+    <link href="https://apnews.com/article/nolan-xavier-wells-horn-island-c9389a642ec6e8fde60faadfc442a0bb"/>
+    <published>2026-07-08T15:26:54.111574+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/iran-lawsuit-asylum-seekers-information-leaked-b7481c1b5ba349f1bfe3529a44822f2d</id>
     <title>Lawsuit says US illegally shared confidential information on Iranian asylum seekers with Iran</title>
-    <updated>2026-07-08T13:03:04.520681+00:00</updated>
+    <updated>2026-07-08T15:27:54.111574+00:00</updated>
     <link href="https://apnews.com/article/iran-lawsuit-asylum-seekers-information-leaked-b7481c1b5ba349f1bfe3529a44822f2d"/>
-    <published>2026-07-08T13:03:04.520681+00:00</published>
+    <published>2026-07-08T15:27:54.111574+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/nyc-manhattan-building-collapse-risk-04dfeb966e0daa2caba74006ad174ea1</id>
     <title>Manhattan high-rise deemed stable after columns buckled, and some evacuations are lifted</title>
-    <updated>2026-07-08T13:04:04.520681+00:00</updated>
+    <updated>2026-07-08T15:28:54.111574+00:00</updated>
     <link href="https://apnews.com/article/nyc-manhattan-building-collapse-risk-04dfeb966e0daa2caba74006ad174ea1"/>
-    <published>2026-07-08T13:04:04.520681+00:00</published>
+    <published>2026-07-08T15:28:54.111574+00:00</published>
   </entry>
   <entry>
-    <id>https://apnews.com/article/rahm-emanuel-israel-speech-criticism-netanyahu-60357c348e611a93a70949f5e69fce6e</id>
-    <title>Rahm Emanuel will assail Netanyahu in Tel Aviv speech as American politics shift against Israel</title>
-    <updated>2026-07-08T13:05:04.520681+00:00</updated>
-    <link href="https://apnews.com/article/rahm-emanuel-israel-speech-criticism-netanyahu-60357c348e611a93a70949f5e69fce6e"/>
-    <published>2026-07-08T13:05:04.520681+00:00</published>
+    <id>https://apnews.com/article/greenland-denmark-security-trump-arctic-north-nato-95f6d033dc24938a8cb61f463175e6d7</id>
+    <title>Why Trump covets Greenland</title>
+    <updated>2026-07-08T15:29:54.111574+00:00</updated>
+    <link href="https://apnews.com/article/greenland-denmark-security-trump-arctic-north-nato-95f6d033dc24938a8cb61f463175e6d7"/>
+    <published>2026-07-08T15:29:54.111574+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/nato-trump-iran-ukraine-turkey-d393e8ef6103e32c984c4337a82930b1</id>
-    <title>Trump blasts NATO for rejecting his efforts to claim Greenland as leaders hold a summit in Turkey</title>
-    <updated>2026-07-08T13:06:04.520681+00:00</updated>
+    <title>Trump says the U.S. will give license to Ukraine to produce Patriot defense systems</title>
+    <updated>2026-07-08T15:30:54.111574+00:00</updated>
     <link href="https://apnews.com/article/nato-trump-iran-ukraine-turkey-d393e8ef6103e32c984c4337a82930b1"/>
-    <published>2026-07-08T13:06:04.520681+00:00</published>
+    <published>2026-07-08T15:30:54.111574+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/iran-us-israel-war-oil-july-8-2026-fee04dcea661c08de12c04914ff2751b</id>
-    <title>Iran and US trade fire and Trump calls the ceasefire into question</title>
-    <updated>2026-07-08T13:07:04.520681+00:00</updated>
+    <title>Trump warns Iran that US is preparing for more strikes after saying ceasefire is over</title>
+    <updated>2026-07-08T15:31:54.111574+00:00</updated>
     <link href="https://apnews.com/article/iran-us-israel-war-oil-july-8-2026-fee04dcea661c08de12c04914ff2751b"/>
-    <published>2026-07-08T13:07:04.520681+00:00</published>
+    <published>2026-07-08T15:31:54.111574+00:00</published>
   </entry>
 </feed>
