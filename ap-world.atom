@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://apnews.com/world-news</id>
   <title>AP World News (unofficial)</title>
-  <updated>2026-07-19T15:10:58.669987+00:00</updated>
+  <updated>2026-07-19T16:10:21.371206+00:00</updated>
   <author>
     <name>AP News (scraped, unofficial)</name>
   </author>
@@ -11,213 +11,213 @@
   <generator>ap-rss scraper</generator>
   <subtitle>Unofficial RSS feed of AP World News from apnews.com</subtitle>
   <entry>
-    <id>https://apnews.com/article/cyclospora-lettuce-taco-bell-cdc-fda-13d9e9ebdc46a4d05a58da2ae8e8d0de</id>
-    <title>Lettuce at Taco Bell in 5 states confirmed as a source of diarrhea-causing parasite</title>
-    <updated>2026-07-19T14:41:58.669994+00:00</updated>
-    <link href="https://apnews.com/article/cyclospora-lettuce-taco-bell-cdc-fda-13d9e9ebdc46a4d05a58da2ae8e8d0de"/>
-    <published>2026-07-19T14:41:58.669994+00:00</published>
-  </entry>
-  <entry>
     <id>https://apnews.com/article/wildfire-smoke-sick-dying-asthma-heartattack-climate-65b51f04cd29648d952a7e41160841d3</id>
     <title>Wildfire smoke kills tens of thousands of people a year. Here's how it attacks the body</title>
-    <updated>2026-07-19T14:42:58.669994+00:00</updated>
+    <updated>2026-07-19T15:41:21.371214+00:00</updated>
     <link href="https://apnews.com/article/wildfire-smoke-sick-dying-asthma-heartattack-climate-65b51f04cd29648d952a7e41160841d3"/>
-    <published>2026-07-19T14:42:58.669994+00:00</published>
+    <published>2026-07-19T15:41:21.371214+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/canada-minnesota-wildfires-smoke-251365af55a5111d8178b24a4d15e0af</id>
     <title>Wildfire smoke from Canada and Minnesota pushes farther into the US and engulfs DC in haze</title>
-    <updated>2026-07-19T14:43:58.669994+00:00</updated>
+    <updated>2026-07-19T15:42:21.371214+00:00</updated>
     <link href="https://apnews.com/article/canada-minnesota-wildfires-smoke-251365af55a5111d8178b24a4d15e0af"/>
-    <published>2026-07-19T14:43:58.669994+00:00</published>
+    <published>2026-07-19T15:42:21.371214+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/world-cup-final-smoke-21b616e6fef1af907abef4aba6f5dfb4</id>
     <title>Thunderstorms will clear wildfire smoke from Northeast ahead of World Cup final, meteorologists say</title>
-    <updated>2026-07-19T14:44:58.669994+00:00</updated>
+    <updated>2026-07-19T15:43:21.371214+00:00</updated>
     <link href="https://apnews.com/article/world-cup-final-smoke-21b616e6fef1af907abef4aba6f5dfb4"/>
-    <published>2026-07-19T14:44:58.669994+00:00</published>
+    <published>2026-07-19T15:43:21.371214+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/one-photo-0000019f4839dc0ba5df7d79cec10000</id>
     <title>How this photographer's second camera caught a blast of lightning among the fireworks</title>
-    <updated>2026-07-19T14:45:58.669994+00:00</updated>
+    <updated>2026-07-19T15:44:21.371214+00:00</updated>
     <link href="https://apnews.com/article/one-photo-0000019f4839dc0ba5df7d79cec10000"/>
-    <published>2026-07-19T14:45:58.669994+00:00</published>
+    <published>2026-07-19T15:44:21.371214+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/one-photo-0000019e7027d80eaffffa377acf0000</id>
     <title>At the Kaaba during Hajj, a photographer captures sense of unity and devotion</title>
-    <updated>2026-07-19T14:46:58.669994+00:00</updated>
+    <updated>2026-07-19T15:45:21.371214+00:00</updated>
     <link href="https://apnews.com/article/one-photo-0000019e7027d80eaffffa377acf0000"/>
-    <published>2026-07-19T14:46:58.669994+00:00</published>
+    <published>2026-07-19T15:45:21.371214+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/one-photo-0000019f707ed1f4ab9f7aff27840000</id>
     <title>How a photographer captured the speed and danger of Pamplona’s bull run</title>
-    <updated>2026-07-19T14:47:58.669994+00:00</updated>
+    <updated>2026-07-19T15:46:21.371214+00:00</updated>
     <link href="https://apnews.com/article/one-photo-0000019f707ed1f4ab9f7aff27840000"/>
-    <published>2026-07-19T14:47:58.669994+00:00</published>
+    <published>2026-07-19T15:46:21.371214+00:00</published>
   </entry>
   <entry>
-    <id>https://apnews.com/article/healthy-heart-sleep-night-owls-circadian-rhythm-0c520492f5d6fc08c412053419e913f9</id>
-    <title>Being a night owl may not be great for your heart but you can do something about it</title>
-    <updated>2026-07-19T14:48:58.669994+00:00</updated>
-    <link href="https://apnews.com/article/healthy-heart-sleep-night-owls-circadian-rhythm-0c520492f5d6fc08c412053419e913f9"/>
-    <published>2026-07-19T14:48:58.669994+00:00</published>
+    <id>https://apnews.com/article/wildfires-smoke-filters-e39f285bec1eccfdb0fbc33b753a987a</id>
+    <title>How to keep the air inside your home clean during wildfires</title>
+    <updated>2026-07-19T15:47:21.371214+00:00</updated>
+    <link href="https://apnews.com/article/wildfires-smoke-filters-e39f285bec1eccfdb0fbc33b753a987a"/>
+    <published>2026-07-19T15:47:21.371214+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/fear-of-flying-8e348402efc654a7248fb9fe4e5df852</id>
     <title>Worries about flying seem to be taking off. Here's how to cope with in-flight anxiety</title>
-    <updated>2026-07-19T14:49:58.669994+00:00</updated>
+    <updated>2026-07-19T15:48:21.371214+00:00</updated>
     <link href="https://apnews.com/article/fear-of-flying-8e348402efc654a7248fb9fe4e5df852"/>
-    <published>2026-07-19T14:49:58.669994+00:00</published>
+    <published>2026-07-19T15:48:21.371214+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/too-many-choices-making-decisions-8ae0bfaac1d51cc5fc7b2e59336ff0dd</id>
     <title>Cut the number of choices you make each day. Your brain will thank you</title>
-    <updated>2026-07-19T14:50:58.669994+00:00</updated>
+    <updated>2026-07-19T15:49:21.371214+00:00</updated>
     <link href="https://apnews.com/article/too-many-choices-making-decisions-8ae0bfaac1d51cc5fc7b2e59336ff0dd"/>
-    <published>2026-07-19T14:50:58.669994+00:00</published>
+    <published>2026-07-19T15:49:21.371214+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/boneless-chicken-wings-lawsuit-ohio-supreme-court-231002ea50d8157aeadf093223d539f8</id>
     <title>Chicken wings advertised as 'boneless' can have bones, Ohio Supreme Court decides</title>
-    <updated>2026-07-19T14:51:58.669994+00:00</updated>
+    <updated>2026-07-19T15:50:21.371214+00:00</updated>
     <link href="https://apnews.com/article/boneless-chicken-wings-lawsuit-ohio-supreme-court-231002ea50d8157aeadf093223d539f8"/>
-    <published>2026-07-19T14:51:58.669994+00:00</published>
+    <published>2026-07-19T15:50:21.371214+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/gorilla-germany-fatou-berlin-zoo-0196b95f3b6d48593bb7c872cab51adf</id>
     <title>Fatou, the world's oldest gorilla living in captivity, celebrates her 69th birthday at Berlin Zoo</title>
-    <updated>2026-07-19T14:52:58.669994+00:00</updated>
+    <updated>2026-07-19T15:51:21.371214+00:00</updated>
     <link href="https://apnews.com/article/gorilla-germany-fatou-berlin-zoo-0196b95f3b6d48593bb7c872cab51adf"/>
-    <published>2026-07-19T14:52:58.669994+00:00</published>
+    <published>2026-07-19T15:51:21.371214+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/australia-frog-lettuce-salad-esperance-4134acf75e814dedd7789c1423c26ab1</id>
     <title>Lettuce introduce you to the live frog found in this grocery store salad bag</title>
-    <updated>2026-07-19T14:53:58.669994+00:00</updated>
+    <updated>2026-07-19T15:52:21.371214+00:00</updated>
     <link href="https://apnews.com/article/australia-frog-lettuce-salad-esperance-4134acf75e814dedd7789c1423c26ab1"/>
-    <published>2026-07-19T14:53:58.669994+00:00</published>
+    <published>2026-07-19T15:52:21.371214+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/ghana-fantasy-coffins-funerals-accra-tradition-01220db5b2e240a12ae8e4ba8820f993</id>
     <title>Ghana's fantasy coffins are a colorful celebration of life and legacy</title>
-    <updated>2026-07-19T14:54:58.669994+00:00</updated>
+    <updated>2026-07-19T15:53:21.371214+00:00</updated>
     <link href="https://apnews.com/article/ghana-fantasy-coffins-funerals-accra-tradition-01220db5b2e240a12ae8e4ba8820f993"/>
-    <published>2026-07-19T14:54:58.669994+00:00</published>
+    <published>2026-07-19T15:53:21.371214+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/argentina-teenagers-identifying-as-animals-therians-tiktok-54d158c4842f6515e31d83a260cdf31f</id>
     <title>Viral phenomenon in Argentina has young people identifying themselves as animals</title>
-    <updated>2026-07-19T14:55:58.669994+00:00</updated>
+    <updated>2026-07-19T15:54:21.371214+00:00</updated>
     <link href="https://apnews.com/article/argentina-teenagers-identifying-as-animals-therians-tiktok-54d158c4842f6515e31d83a260cdf31f"/>
-    <published>2026-07-19T14:55:58.669994+00:00</published>
+    <published>2026-07-19T15:54:21.371214+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/drunk-raccoon-liquor-store-bandit-virginia-5109feb2ea9ab9bf8954ec3798689fd0</id>
     <title>Raccoon goes on drunken rampage in Virginia liquor store and passes out on bathroom floor</title>
-    <updated>2026-07-19T14:56:58.669994+00:00</updated>
+    <updated>2026-07-19T15:55:21.371214+00:00</updated>
     <link href="https://apnews.com/article/drunk-raccoon-liquor-store-bandit-virginia-5109feb2ea9ab9bf8954ec3798689fd0"/>
-    <published>2026-07-19T14:56:58.669994+00:00</published>
+    <published>2026-07-19T15:55:21.371214+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/china-corruption-ouyang-weimin-development-bank-8599e009cba0e50bc79cb3ec76e1c996</id>
     <title>Former China Development Bank president is under anti-corruption probe</title>
-    <updated>2026-07-19T14:57:58.669994+00:00</updated>
+    <updated>2026-07-19T15:56:21.371214+00:00</updated>
     <link href="https://apnews.com/article/china-corruption-ouyang-weimin-development-bank-8599e009cba0e50bc79cb3ec76e1c996"/>
-    <published>2026-07-19T14:57:58.669994+00:00</published>
+    <published>2026-07-19T15:56:21.371214+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/inflation-economy-iran-trump-unemployment-ai-c8ed0b54d80fe1bdaa5edcef671e6608</id>
     <title>America In Focus: US inflation cooled in June, but AI build-out poses latest threat</title>
-    <updated>2026-07-19T14:58:58.669994+00:00</updated>
+    <updated>2026-07-19T15:57:21.371214+00:00</updated>
     <link href="https://apnews.com/article/inflation-economy-iran-trump-unemployment-ai-c8ed0b54d80fe1bdaa5edcef671e6608"/>
-    <published>2026-07-19T14:58:58.669994+00:00</published>
+    <published>2026-07-19T15:57:21.371214+00:00</published>
   </entry>
   <entry>
-    <id>https://apnews.com/article/messi-spain-argentina-world-cup-final-bd35b9beccfc120ec0a78fd72162f33c</id>
-    <title>The World Cup final awaits, with Messi and defending champion Argentina set to face Spain</title>
-    <updated>2026-07-19T14:59:58.669994+00:00</updated>
-    <link href="https://apnews.com/article/messi-spain-argentina-world-cup-final-bd35b9beccfc120ec0a78fd72162f33c"/>
-    <published>2026-07-19T14:59:58.669994+00:00</published>
+    <id>https://apnews.com/article/odyssey-christopher-nolan-greek-translators-ea67da1d543d021773824bd7e8de8abe</id>
+    <title>Not Greek to them. Scholars question Christopher Nolan's 'The Odyssey'</title>
+    <updated>2026-07-19T15:58:21.371214+00:00</updated>
+    <link href="https://apnews.com/article/odyssey-christopher-nolan-greek-translators-ea67da1d543d021773824bd7e8de8abe"/>
+    <published>2026-07-19T15:58:21.371214+00:00</published>
+  </entry>
+  <entry>
+    <id>https://apnews.com/article/argentina-spain-world-cup-final-score-messi-fccc26aa12d9226e63d06b601b770617</id>
+    <title>The World Cup final is here, with Argentina taking on Spain in soccer's showdown</title>
+    <updated>2026-07-19T15:59:21.371214+00:00</updated>
+    <link href="https://apnews.com/article/argentina-spain-world-cup-final-score-messi-fccc26aa12d9226e63d06b601b770617"/>
+    <published>2026-07-19T15:59:21.371214+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/british-open-mcilroy-dechambeau-6359283ae929c13cc204b4cb9351f118</id>
     <title>McIlroy accuses DeChambeau of trying to 'hold the tournament hostage' at British Open</title>
-    <updated>2026-07-19T15:00:58.669994+00:00</updated>
+    <updated>2026-07-19T16:00:21.371214+00:00</updated>
     <link href="https://apnews.com/article/british-open-mcilroy-dechambeau-6359283ae929c13cc204b4cb9351f118"/>
-    <published>2026-07-19T15:00:58.669994+00:00</published>
+    <published>2026-07-19T16:00:21.371214+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/mile-josh-kerr-world-record-04b2764c4994417b9a50dcdc2363c6c7</id>
     <title>Josh Kerr of Britain breaks the men’s mile world record that stood since 1999</title>
-    <updated>2026-07-19T15:01:58.669994+00:00</updated>
+    <updated>2026-07-19T16:01:21.371214+00:00</updated>
     <link href="https://apnews.com/article/mile-josh-kerr-world-record-04b2764c4994417b9a50dcdc2363c6c7"/>
-    <published>2026-07-19T15:01:58.669994+00:00</published>
+    <published>2026-07-19T16:01:21.371214+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/jon-ossoff-donald-trump-mike-collins-b35cc90ec52f00194333aa47e093e8bd</id>
     <title>Sen. Ossoff fuels reelection campaign with attacks on Trump</title>
-    <updated>2026-07-19T15:02:58.669994+00:00</updated>
+    <updated>2026-07-19T16:02:21.371214+00:00</updated>
     <link href="https://apnews.com/article/jon-ossoff-donald-trump-mike-collins-b35cc90ec52f00194333aa47e093e8bd"/>
-    <published>2026-07-19T15:02:58.669994+00:00</published>
+    <published>2026-07-19T16:02:21.371214+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/american-jews-poll-israel-trump-antisemitism-7c5cf25033917f17a93e14f184cf1320</id>
     <title>Takeaways from the AP-NORC poll of more than 1,000 Jewish Americans</title>
-    <updated>2026-07-19T15:03:58.669994+00:00</updated>
+    <updated>2026-07-19T16:03:21.371214+00:00</updated>
     <link href="https://apnews.com/article/american-jews-poll-israel-trump-antisemitism-7c5cf25033917f17a93e14f184cf1320"/>
-    <published>2026-07-19T15:03:58.669994+00:00</published>
+    <published>2026-07-19T16:03:21.371214+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/trump-carter-iran-inflation-71fab887b88febc073c89a8c8db595f3</id>
     <title>Trump shifts his tone on Jimmy Carter while grappling with Iran, inflation and his own legacy</title>
-    <updated>2026-07-19T15:04:58.669994+00:00</updated>
+    <updated>2026-07-19T16:04:21.371214+00:00</updated>
     <link href="https://apnews.com/article/trump-carter-iran-inflation-71fab887b88febc073c89a8c8db595f3"/>
-    <published>2026-07-19T15:04:58.669994+00:00</published>
+    <published>2026-07-19T16:04:21.371214+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/cuba-dissident-artist-exiled-490cb7cb8e672592ee16593678273a26</id>
     <title>Cuban artist and dissident exiled from country after 5 years in prison arrives in US</title>
-    <updated>2026-07-19T15:05:58.669994+00:00</updated>
+    <updated>2026-07-19T16:05:21.371214+00:00</updated>
     <link href="https://apnews.com/article/cuba-dissident-artist-exiled-490cb7cb8e672592ee16593678273a26"/>
-    <published>2026-07-19T15:05:58.669994+00:00</published>
+    <published>2026-07-19T16:05:21.371214+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/forest-service-workers-kidnapped-california-fd63ca6262e817b237eb85fb5412c7af</id>
     <title>Father and son arrested after holding 2 Forest Service workers at gunpoint</title>
-    <updated>2026-07-19T15:06:58.669994+00:00</updated>
+    <updated>2026-07-19T16:06:21.371214+00:00</updated>
     <link href="https://apnews.com/article/forest-service-workers-kidnapped-california-fd63ca6262e817b237eb85fb5412c7af"/>
-    <published>2026-07-19T15:06:58.669994+00:00</published>
+    <published>2026-07-19T16:06:21.371214+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/tate-brothers-social-influencers-arrest-82b6638219839dcf653c09309da66f16</id>
     <title>Social media influencers Andrew and Tristan Tate arrested in Miami, US Marshals Service tells AP</title>
-    <updated>2026-07-19T15:07:58.669994+00:00</updated>
+    <updated>2026-07-19T16:07:21.371214+00:00</updated>
     <link href="https://apnews.com/article/tate-brothers-social-influencers-arrest-82b6638219839dcf653c09309da66f16"/>
-    <published>2026-07-19T15:07:58.669994+00:00</published>
+    <published>2026-07-19T16:07:21.371214+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/hungary-president-amendment-term-sulyok-magyar-b720492c8e007468e6a97519f8809394</id>
     <title>Hungary’s president signs a constitutional amendment ending his term</title>
-    <updated>2026-07-19T15:08:58.669994+00:00</updated>
+    <updated>2026-07-19T16:08:21.371214+00:00</updated>
     <link href="https://apnews.com/article/hungary-president-amendment-term-sulyok-magyar-b720492c8e007468e6a97519f8809394"/>
-    <published>2026-07-19T15:08:58.669994+00:00</published>
+    <published>2026-07-19T16:08:21.371214+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/trump-world-cup-final-ad67ea3f25163bbb1d779d17b04da115</id>
     <title>Trump celebrates the World Cup as a US victory as he prepares to present trophy to the winning team</title>
-    <updated>2026-07-19T15:09:58.669994+00:00</updated>
+    <updated>2026-07-19T16:09:21.371214+00:00</updated>
     <link href="https://apnews.com/article/trump-world-cup-final-ad67ea3f25163bbb1d779d17b04da115"/>
-    <published>2026-07-19T15:09:58.669994+00:00</published>
+    <published>2026-07-19T16:09:21.371214+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/iran-us-hormuz-strait-war-july-19-2026-63996576847424ab5f22887f38037ce8</id>
     <title>US strikes Iran over troop deaths as Israel warns Tehran's attacks are coming close</title>
-    <updated>2026-07-19T15:10:58.669994+00:00</updated>
+    <updated>2026-07-19T16:10:21.371214+00:00</updated>
     <link href="https://apnews.com/article/iran-us-hormuz-strait-war-july-19-2026-63996576847424ab5f22887f38037ce8"/>
-    <published>2026-07-19T15:10:58.669994+00:00</published>
+    <published>2026-07-19T16:10:21.371214+00:00</published>
   </entry>
 </feed>
