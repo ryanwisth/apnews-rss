@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://apnews.com/health</id>
   <title>AP Health (unofficial)</title>
-  <updated>2026-07-20T12:36:34.206618+00:00</updated>
+  <updated>2026-07-20T14:54:19.553176+00:00</updated>
   <author>
     <name>AP News (scraped, unofficial)</name>
   </author>
@@ -11,213 +11,213 @@
   <generator>ap-rss scraper</generator>
   <subtitle>Unofficial RSS feed of AP Health from apnews.com</subtitle>
   <entry>
-    <id>https://apnews.com/article/hottest-city-india-heat-banda-climate-change-d090f23b5b6a30fdde339a656e7ceddf</id>
-    <title>What living in one of the world's hottest towns feels like</title>
-    <updated>2026-07-20T12:07:34.206628+00:00</updated>
-    <link href="https://apnews.com/article/hottest-city-india-heat-banda-climate-change-d090f23b5b6a30fdde339a656e7ceddf"/>
-    <published>2026-07-20T12:07:34.206628+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/world-cup-final-smoke-21b616e6fef1af907abef4aba6f5dfb4</id>
-    <title>Thunderstorms will clear wildfire smoke from Northeast ahead of World Cup final, meteorologists say</title>
-    <updated>2026-07-20T12:08:34.206628+00:00</updated>
-    <link href="https://apnews.com/article/world-cup-final-smoke-21b616e6fef1af907abef4aba6f5dfb4"/>
-    <published>2026-07-20T12:08:34.206628+00:00</published>
-  </entry>
-  <entry>
     <id>https://apnews.com/article/tropical-storm-fausto-elida-pacific-3721ae5b5abcc3efd64fe68eb5b80064</id>
     <title>Tropical Storm Fausto forms off Mexico's Pacific as tropical depression swirls in Gulf of Mexico</title>
-    <updated>2026-07-20T12:09:34.206628+00:00</updated>
+    <updated>2026-07-20T14:25:19.553185+00:00</updated>
     <link href="https://apnews.com/article/tropical-storm-fausto-elida-pacific-3721ae5b5abcc3efd64fe68eb5b80064"/>
-    <published>2026-07-20T12:09:34.206628+00:00</published>
+    <published>2026-07-20T14:25:19.553185+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/one-photo-0000019f4839dc0ba5df7d79cec10000</id>
     <title>How this photographer's second camera caught a blast of lightning among the fireworks</title>
-    <updated>2026-07-20T12:10:34.206628+00:00</updated>
+    <updated>2026-07-20T14:26:19.553185+00:00</updated>
     <link href="https://apnews.com/article/one-photo-0000019f4839dc0ba5df7d79cec10000"/>
-    <published>2026-07-20T12:10:34.206628+00:00</published>
+    <published>2026-07-20T14:26:19.553185+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/one-photo-0000019e7027d80eaffffa377acf0000</id>
     <title>At the Kaaba during Hajj, a photographer captures sense of unity and devotion</title>
-    <updated>2026-07-20T12:11:34.206628+00:00</updated>
+    <updated>2026-07-20T14:27:19.553185+00:00</updated>
     <link href="https://apnews.com/article/one-photo-0000019e7027d80eaffffa377acf0000"/>
-    <published>2026-07-20T12:11:34.206628+00:00</published>
+    <published>2026-07-20T14:27:19.553185+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/one-photo-0000019f707ed1f4ab9f7aff27840000</id>
     <title>How a photographer captured the speed and danger of Pamplona’s bull run</title>
-    <updated>2026-07-20T12:12:34.206628+00:00</updated>
+    <updated>2026-07-20T14:28:19.553185+00:00</updated>
     <link href="https://apnews.com/article/one-photo-0000019f707ed1f4ab9f7aff27840000"/>
-    <published>2026-07-20T12:12:34.206628+00:00</published>
+    <published>2026-07-20T14:28:19.553185+00:00</published>
   </entry>
   <entry>
-    <id>https://apnews.com/article/healthy-heart-sleep-night-owls-circadian-rhythm-0c520492f5d6fc08c412053419e913f9</id>
-    <title>Being a night owl may not be great for your heart but you can do something about it</title>
-    <updated>2026-07-20T12:13:34.206628+00:00</updated>
-    <link href="https://apnews.com/article/healthy-heart-sleep-night-owls-circadian-rhythm-0c520492f5d6fc08c412053419e913f9"/>
-    <published>2026-07-20T12:13:34.206628+00:00</published>
+    <id>https://apnews.com/article/fear-of-flying-8e348402efc654a7248fb9fe4e5df852</id>
+    <title>Worries about flying seem to be taking off. Here's how to cope with in-flight anxiety</title>
+    <updated>2026-07-20T14:29:19.553185+00:00</updated>
+    <link href="https://apnews.com/article/fear-of-flying-8e348402efc654a7248fb9fe4e5df852"/>
+    <published>2026-07-20T14:29:19.553185+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/wildfires-smoke-filters-e39f285bec1eccfdb0fbc33b753a987a</id>
     <title>How to keep the air inside your home clean during wildfires</title>
-    <updated>2026-07-20T12:14:34.206628+00:00</updated>
+    <updated>2026-07-20T14:30:19.553185+00:00</updated>
     <link href="https://apnews.com/article/wildfires-smoke-filters-e39f285bec1eccfdb0fbc33b753a987a"/>
-    <published>2026-07-20T12:14:34.206628+00:00</published>
+    <published>2026-07-20T14:30:19.553185+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/too-many-choices-making-decisions-8ae0bfaac1d51cc5fc7b2e59336ff0dd</id>
     <title>Cut the number of choices you make each day. Your brain will thank you</title>
-    <updated>2026-07-20T12:15:34.206628+00:00</updated>
+    <updated>2026-07-20T14:31:19.553185+00:00</updated>
     <link href="https://apnews.com/article/too-many-choices-making-decisions-8ae0bfaac1d51cc5fc7b2e59336ff0dd"/>
-    <published>2026-07-20T12:15:34.206628+00:00</published>
+    <published>2026-07-20T14:31:19.553185+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/boneless-chicken-wings-lawsuit-ohio-supreme-court-231002ea50d8157aeadf093223d539f8</id>
     <title>Chicken wings advertised as 'boneless' can have bones, Ohio Supreme Court decides</title>
-    <updated>2026-07-20T12:16:34.206628+00:00</updated>
+    <updated>2026-07-20T14:32:19.553185+00:00</updated>
     <link href="https://apnews.com/article/boneless-chicken-wings-lawsuit-ohio-supreme-court-231002ea50d8157aeadf093223d539f8"/>
-    <published>2026-07-20T12:16:34.206628+00:00</published>
+    <published>2026-07-20T14:32:19.553185+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/australia-frog-lettuce-salad-esperance-4134acf75e814dedd7789c1423c26ab1</id>
     <title>Lettuce introduce you to the live frog found in this grocery store salad bag</title>
-    <updated>2026-07-20T12:17:34.206628+00:00</updated>
+    <updated>2026-07-20T14:33:19.553185+00:00</updated>
     <link href="https://apnews.com/article/australia-frog-lettuce-salad-esperance-4134acf75e814dedd7789c1423c26ab1"/>
-    <published>2026-07-20T12:17:34.206628+00:00</published>
+    <published>2026-07-20T14:33:19.553185+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/ghana-fantasy-coffins-funerals-accra-tradition-01220db5b2e240a12ae8e4ba8820f993</id>
     <title>Ghana's fantasy coffins are a colorful celebration of life and legacy</title>
-    <updated>2026-07-20T12:18:34.206628+00:00</updated>
+    <updated>2026-07-20T14:34:19.553185+00:00</updated>
     <link href="https://apnews.com/article/ghana-fantasy-coffins-funerals-accra-tradition-01220db5b2e240a12ae8e4ba8820f993"/>
-    <published>2026-07-20T12:18:34.206628+00:00</published>
+    <published>2026-07-20T14:34:19.553185+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/gorilla-germany-fatou-berlin-zoo-0196b95f3b6d48593bb7c872cab51adf</id>
     <title>Fatou, the world's oldest gorilla living in captivity, celebrates her 69th birthday at Berlin Zoo</title>
-    <updated>2026-07-20T12:19:34.206628+00:00</updated>
+    <updated>2026-07-20T14:35:19.553185+00:00</updated>
     <link href="https://apnews.com/article/gorilla-germany-fatou-berlin-zoo-0196b95f3b6d48593bb7c872cab51adf"/>
-    <published>2026-07-20T12:19:34.206628+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/argentina-teenagers-identifying-as-animals-therians-tiktok-54d158c4842f6515e31d83a260cdf31f</id>
-    <title>Viral phenomenon in Argentina has young people identifying themselves as animals</title>
-    <updated>2026-07-20T12:20:34.206628+00:00</updated>
-    <link href="https://apnews.com/article/argentina-teenagers-identifying-as-animals-therians-tiktok-54d158c4842f6515e31d83a260cdf31f"/>
-    <published>2026-07-20T12:20:34.206628+00:00</published>
+    <published>2026-07-20T14:35:19.553185+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/drunk-raccoon-liquor-store-bandit-virginia-5109feb2ea9ab9bf8954ec3798689fd0</id>
     <title>Raccoon goes on drunken rampage in Virginia liquor store and passes out on bathroom floor</title>
-    <updated>2026-07-20T12:21:34.206628+00:00</updated>
+    <updated>2026-07-20T14:36:19.553185+00:00</updated>
     <link href="https://apnews.com/article/drunk-raccoon-liquor-store-bandit-virginia-5109feb2ea9ab9bf8954ec3798689fd0"/>
-    <published>2026-07-20T12:21:34.206628+00:00</published>
+    <published>2026-07-20T14:36:19.553185+00:00</published>
+  </entry>
+  <entry>
+    <id>https://apnews.com/article/argentina-teenagers-identifying-as-animals-therians-tiktok-54d158c4842f6515e31d83a260cdf31f</id>
+    <title>Viral phenomenon in Argentina has young people identifying themselves as animals</title>
+    <updated>2026-07-20T14:37:19.553185+00:00</updated>
+    <link href="https://apnews.com/article/argentina-teenagers-identifying-as-animals-therians-tiktok-54d158c4842f6515e31d83a260cdf31f"/>
+    <published>2026-07-20T14:37:19.553185+00:00</published>
+  </entry>
+  <entry>
+    <id>https://apnews.com/article/aliexpress-europe-fine-digital-services-counterfeit-648226ac1df90879063d12ffabd83886</id>
+    <title>EU hits AliExpress with a record 550 million-euro fine over unsafe and counterfeit goods</title>
+    <updated>2026-07-20T14:38:19.553185+00:00</updated>
+    <link href="https://apnews.com/article/aliexpress-europe-fine-digital-services-counterfeit-648226ac1df90879063d12ffabd83886"/>
+    <published>2026-07-20T14:38:19.553185+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/stocks-market-ai-oil-iran-war-15939a01f378bcec5eec2868e8100ca9</id>
-    <title>World shares are mixed and South Korea's Kospi drops 4.5% as some AI stocks swoon</title>
-    <updated>2026-07-20T12:22:34.206628+00:00</updated>
+    <title>Wall Street steadies as AI stocks recover some of last week's sharp losses</title>
+    <updated>2026-07-20T14:39:19.553185+00:00</updated>
     <link href="https://apnews.com/article/stocks-market-ai-oil-iran-war-15939a01f378bcec5eec2868e8100ca9"/>
-    <published>2026-07-20T12:22:34.206628+00:00</published>
+    <published>2026-07-20T14:39:19.553185+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/gas-prices-iran-war-4-gallon-4b82825734ec3ded192351e53a4be69e</id>
-    <title>US gas prices hit an average of $4 a gallon again as the US and Iran launch attacks</title>
-    <updated>2026-07-20T12:23:34.206628+00:00</updated>
+    <title>US gas prices back up to an average of $4 a gallon as Iran war heats up</title>
+    <updated>2026-07-20T14:40:19.553185+00:00</updated>
     <link href="https://apnews.com/article/gas-prices-iran-war-4-gallon-4b82825734ec3ded192351e53a4be69e"/>
-    <published>2026-07-20T12:23:34.206628+00:00</published>
+    <published>2026-07-20T14:40:19.553185+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/odyssey-box-office-christopher-nolan-923bf602d99b1c9c4aeb462d377b59c4</id>
     <title>Nolan’s 'The Odyssey' storms the box office with a $264.1 million global debut</title>
-    <updated>2026-07-20T12:24:34.206628+00:00</updated>
+    <updated>2026-07-20T14:41:19.553185+00:00</updated>
     <link href="https://apnews.com/article/odyssey-box-office-christopher-nolan-923bf602d99b1c9c4aeb462d377b59c4"/>
-    <published>2026-07-20T12:24:34.206628+00:00</published>
+    <published>2026-07-20T14:41:19.553185+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/odyssey-christopher-nolan-greek-translators-ea67da1d543d021773824bd7e8de8abe</id>
     <title>Not Greek to them. Scholars question Christopher Nolan's 'The Odyssey'</title>
-    <updated>2026-07-20T12:25:34.206628+00:00</updated>
+    <updated>2026-07-20T14:42:19.553185+00:00</updated>
     <link href="https://apnews.com/article/odyssey-christopher-nolan-greek-translators-ea67da1d543d021773824bd7e8de8abe"/>
-    <published>2026-07-20T12:25:34.206628+00:00</published>
+    <published>2026-07-20T14:42:19.553185+00:00</published>
+  </entry>
+  <entry>
+    <id>https://apnews.com/article/world-cup-final-performances-halftime-show-0e9e3bc37939c901be92441b73d7b4e6</id>
+    <title>Shakira, Madonna and many Muppets take the World Cup stage, along with BTS and Bieber</title>
+    <updated>2026-07-20T14:43:19.553185+00:00</updated>
+    <link href="https://apnews.com/article/world-cup-final-performances-halftime-show-0e9e3bc37939c901be92441b73d7b4e6"/>
+    <published>2026-07-20T14:43:19.553185+00:00</published>
+  </entry>
+  <entry>
+    <id>https://apnews.com/article/world-cup-prize-money-explainer-38dffaf95bf0130f14a7b5c9e8f274a9</id>
+    <title>The World Cup winner will earn $51 million under expanded purse</title>
+    <updated>2026-07-20T14:44:19.553185+00:00</updated>
+    <link href="https://apnews.com/article/world-cup-prize-money-explainer-38dffaf95bf0130f14a7b5c9e8f274a9"/>
+    <published>2026-07-20T14:44:19.553185+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/fifa-council-europe-f92fa4a96b248a9062bc73987520391f</id>
     <title>World Cup integrity questioned by European rights body urging FIFA to help protect 2030 tournament</title>
-    <updated>2026-07-20T12:26:34.206628+00:00</updated>
+    <updated>2026-07-20T14:45:19.553185+00:00</updated>
     <link href="https://apnews.com/article/fifa-council-europe-f92fa4a96b248a9062bc73987520391f"/>
-    <published>2026-07-20T12:26:34.206628+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/argentina-spain-world-cup-final-score-messi-fccc26aa12d9226e63d06b601b770617</id>
-    <title>Spain wins the World Cup by beating Argentina 1-0 on Ferran Torres' goal in extra time</title>
-    <updated>2026-07-20T12:27:34.206628+00:00</updated>
-    <link href="https://apnews.com/article/argentina-spain-world-cup-final-score-messi-fccc26aa12d9226e63d06b601b770617"/>
-    <published>2026-07-20T12:27:34.206628+00:00</published>
+    <published>2026-07-20T14:45:19.553185+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/arizona-governor-primary-schweikert-biggs-05e95d5671b5a9e78ce6653c31676da9</id>
     <title>Andy Biggs and David Schweikert offer competing visions for Republican Party in Arizona primary</title>
-    <updated>2026-07-20T12:28:34.206628+00:00</updated>
+    <updated>2026-07-20T14:46:19.553185+00:00</updated>
     <link href="https://apnews.com/article/arizona-governor-primary-schweikert-biggs-05e95d5671b5a9e78ce6653c31676da9"/>
-    <published>2026-07-20T12:28:34.206628+00:00</published>
+    <published>2026-07-20T14:46:19.553185+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/aipac-michigan-senate-stevens-elsayed-588bb869eb557643950bf68d6a0d7a10</id>
     <title>AIPAC has spent a record amount on Michigan's Senate primary, the biggest test of its influence yet</title>
-    <updated>2026-07-20T12:29:34.206628+00:00</updated>
+    <updated>2026-07-20T14:47:19.553185+00:00</updated>
     <link href="https://apnews.com/article/aipac-michigan-senate-stevens-elsayed-588bb869eb557643950bf68d6a0d7a10"/>
-    <published>2026-07-20T12:29:34.206628+00:00</published>
+    <published>2026-07-20T14:47:19.553185+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/jd-usha-vance-baby-family-b488eb2e698ea2159d15427ad97e1151</id>
     <title>JD and Usha Vance welcome a baby boy, the first child born to a sitting VP in more than 150 years</title>
-    <updated>2026-07-20T12:30:34.206628+00:00</updated>
+    <updated>2026-07-20T14:48:19.553185+00:00</updated>
     <link href="https://apnews.com/article/jd-usha-vance-baby-family-b488eb2e698ea2159d15427ad97e1151"/>
-    <published>2026-07-20T12:30:34.206628+00:00</published>
+    <published>2026-07-20T14:48:19.553185+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/legionnaires-disease-new-york-78365fb2954c0781181216e409b78718</id>
     <title>Second death reported in Legionnaires’ disease outbreak in New York City</title>
-    <updated>2026-07-20T12:31:34.206628+00:00</updated>
+    <updated>2026-07-20T14:49:19.553185+00:00</updated>
     <link href="https://apnews.com/article/legionnaires-disease-new-york-78365fb2954c0781181216e409b78718"/>
-    <published>2026-07-20T12:31:34.206628+00:00</published>
+    <published>2026-07-20T14:49:19.553185+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/hannah-rapp-boxer-killed-5285ec30765cc7576d31b537e1fcbdf1</id>
     <title>Rising professional boxer killed by vehicle while riding her bicycle in rural Texas</title>
-    <updated>2026-07-20T12:32:34.206628+00:00</updated>
+    <updated>2026-07-20T14:50:19.553185+00:00</updated>
     <link href="https://apnews.com/article/hannah-rapp-boxer-killed-5285ec30765cc7576d31b537e1fcbdf1"/>
-    <published>2026-07-20T12:32:34.206628+00:00</published>
+    <published>2026-07-20T14:50:19.553185+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/utah-canyon-flood-family-killed-b5ef63531a366110169777377757acfd</id>
     <title>5 family members found dead after flash flood in a scenic Utah canyon, authorities say</title>
-    <updated>2026-07-20T12:33:34.206628+00:00</updated>
+    <updated>2026-07-20T14:51:19.553185+00:00</updated>
     <link href="https://apnews.com/article/utah-canyon-flood-family-killed-b5ef63531a366110169777377757acfd"/>
-    <published>2026-07-20T12:33:34.206628+00:00</published>
+    <published>2026-07-20T14:51:19.553185+00:00</published>
   </entry>
   <entry>
-    <id>https://apnews.com/article/india-cockroach-janta-party-sonam-wangchuk-hunger-strike-cbeb4773e89d67250f0bcad1670fcd38</id>
-    <title>India police use tear gas to stop march on Parliament by Cockroach movement supporters</title>
-    <updated>2026-07-20T12:34:34.206628+00:00</updated>
-    <link href="https://apnews.com/article/india-cockroach-janta-party-sonam-wangchuk-hunger-strike-cbeb4773e89d67250f0bcad1670fcd38"/>
-    <published>2026-07-20T12:34:34.206628+00:00</published>
+    <id>https://apnews.com/article/russia-ukraine-war-drones-missiles-zelenskyy-f42baa61109fcb43b7efabf5334c4f50</id>
+    <title>Ukraine fires 400 drones toward Moscow as Zelenskyy grapples with protests</title>
+    <updated>2026-07-20T14:52:19.553185+00:00</updated>
+    <link href="https://apnews.com/article/russia-ukraine-war-drones-missiles-zelenskyy-f42baa61109fcb43b7efabf5334c4f50"/>
+    <published>2026-07-20T14:52:19.553185+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/tate-brothers-andrew-tristan-arrest-us-britain-0e0cb09047b75ce10ae210c86092c287</id>
     <title>What to know about the Tate brothers, social media influencers facing rape and trafficking charges</title>
-    <updated>2026-07-20T12:35:34.206628+00:00</updated>
+    <updated>2026-07-20T14:53:19.553185+00:00</updated>
     <link href="https://apnews.com/article/tate-brothers-andrew-tristan-arrest-us-britain-0e0cb09047b75ce10ae210c86092c287"/>
-    <published>2026-07-20T12:35:34.206628+00:00</published>
+    <published>2026-07-20T14:53:19.553185+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/iran-us-hormuz-strait-war-july-20-2026-8b37952906cbec6351fdcc47a0fa6297</id>
-    <title>US bombing of Iran expands as American troops killed and Tehran retaliates against the Gulf states</title>
-    <updated>2026-07-20T12:36:34.206628+00:00</updated>
+    <title>Expansion of US strikes on Iran leads to more retaliation across the Gulf</title>
+    <updated>2026-07-20T14:54:19.553185+00:00</updated>
     <link href="https://apnews.com/article/iran-us-hormuz-strait-war-july-20-2026-8b37952906cbec6351fdcc47a0fa6297"/>
-    <published>2026-07-20T12:36:34.206628+00:00</published>
+    <published>2026-07-20T14:54:19.553185+00:00</published>
   </entry>
 </feed>
