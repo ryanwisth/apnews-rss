@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://apnews.com/politics</id>
   <title>AP Politics (unofficial)</title>
-  <updated>2026-07-24T21:43:57.763874+00:00</updated>
+  <updated>2026-07-24T22:44:09.203746+00:00</updated>
   <author>
     <name>AP News (scraped, unofficial)</name>
   </author>
@@ -11,213 +11,213 @@
   <generator>ap-rss scraper</generator>
   <subtitle>Unofficial RSS feed of AP Politics from apnews.com</subtitle>
   <entry>
+    <id>https://apnews.com/article/cyclospora-outbreak-fda-diarrhea-8eb2e66498136ea4dd170118ef1a8a4e</id>
+    <title>US health officials are investigating a new outbreak of a diarrhea-causing parasite</title>
+    <updated>2026-07-24T22:15:09.203757+00:00</updated>
+    <link href="https://apnews.com/article/cyclospora-outbreak-fda-diarrhea-8eb2e66498136ea4dd170118ef1a8a4e"/>
+    <published>2026-07-24T22:15:09.203757+00:00</published>
+  </entry>
+  <entry>
     <id>https://apnews.com/article/bigger-private-boat-docks-public-saltmarsh-challenge-cb12ebfb1b026c009dcc2027bae0a31d</id>
     <title>New rules could double size of private docks in Coastal Georgia</title>
-    <updated>2026-07-24T21:14:57.763881+00:00</updated>
+    <updated>2026-07-24T22:16:09.203757+00:00</updated>
     <link href="https://apnews.com/article/bigger-private-boat-docks-public-saltmarsh-challenge-cb12ebfb1b026c009dcc2027bae0a31d"/>
-    <published>2026-07-24T21:14:57.763881+00:00</published>
+    <published>2026-07-24T22:16:09.203757+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/lake-powell-colorado-river-climate-change-drought-2d30b7625db946a2cf61658567f62121</id>
     <title>As Lake Powell shrinks, marinas are having to adapt to dwindling water levels</title>
-    <updated>2026-07-24T21:15:57.763881+00:00</updated>
+    <updated>2026-07-24T22:17:09.203757+00:00</updated>
     <link href="https://apnews.com/article/lake-powell-colorado-river-climate-change-drought-2d30b7625db946a2cf61658567f62121"/>
-    <published>2026-07-24T21:15:57.763881+00:00</published>
+    <published>2026-07-24T22:17:09.203757+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/el-nino-climate-hurricane-heat-drought-rain-d9b3de8acc849198fbb1097fbb0eb4f6</id>
     <title>What to know about the predictions for a potentially record-breaking El Nino</title>
-    <updated>2026-07-24T21:16:57.763881+00:00</updated>
+    <updated>2026-07-24T22:18:09.203757+00:00</updated>
     <link href="https://apnews.com/article/el-nino-climate-hurricane-heat-drought-rain-d9b3de8acc849198fbb1097fbb0eb4f6"/>
-    <published>2026-07-24T21:16:57.763881+00:00</published>
+    <published>2026-07-24T22:18:09.203757+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/one-photo-0000019e7027d80eaffffa377acf0000</id>
     <title>At the Kaaba during Hajj, a photographer captures sense of unity and devotion</title>
-    <updated>2026-07-24T21:17:57.763881+00:00</updated>
+    <updated>2026-07-24T22:19:09.203757+00:00</updated>
     <link href="https://apnews.com/article/one-photo-0000019e7027d80eaffffa377acf0000"/>
-    <published>2026-07-24T21:17:57.763881+00:00</published>
+    <published>2026-07-24T22:19:09.203757+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/one-photo-0000019f707ed1f4ab9f7aff27840000</id>
     <title>How a photographer captured the speed and danger of Pamplona’s bull run</title>
-    <updated>2026-07-24T21:18:57.763881+00:00</updated>
+    <updated>2026-07-24T22:20:09.203757+00:00</updated>
     <link href="https://apnews.com/article/one-photo-0000019f707ed1f4ab9f7aff27840000"/>
-    <published>2026-07-24T21:18:57.763881+00:00</published>
+    <published>2026-07-24T22:20:09.203757+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/one-photo-0000019f91bcd867a5df9bbe35ff0000</id>
     <title>One frame captures a mother’s anguish during a search through a collapsed building in Venezuela</title>
-    <updated>2026-07-24T21:19:57.763881+00:00</updated>
+    <updated>2026-07-24T22:21:09.203757+00:00</updated>
     <link href="https://apnews.com/article/one-photo-0000019f91bcd867a5df9bbe35ff0000"/>
-    <published>2026-07-24T21:19:57.763881+00:00</published>
+    <published>2026-07-24T22:21:09.203757+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/healthy-heart-sleep-night-owls-circadian-rhythm-0c520492f5d6fc08c412053419e913f9</id>
     <title>Being a night owl may not be great for your heart but you can do something about it</title>
-    <updated>2026-07-24T21:20:57.763881+00:00</updated>
+    <updated>2026-07-24T22:22:09.203757+00:00</updated>
     <link href="https://apnews.com/article/healthy-heart-sleep-night-owls-circadian-rhythm-0c520492f5d6fc08c412053419e913f9"/>
-    <published>2026-07-24T21:20:57.763881+00:00</published>
+    <published>2026-07-24T22:22:09.203757+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/too-many-choices-making-decisions-8ae0bfaac1d51cc5fc7b2e59336ff0dd</id>
     <title>Cut the number of choices you make each day. Your brain will thank you</title>
-    <updated>2026-07-24T21:21:57.763881+00:00</updated>
+    <updated>2026-07-24T22:23:09.203757+00:00</updated>
     <link href="https://apnews.com/article/too-many-choices-making-decisions-8ae0bfaac1d51cc5fc7b2e59336ff0dd"/>
-    <published>2026-07-24T21:21:57.763881+00:00</published>
+    <published>2026-07-24T22:23:09.203757+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/bike-commuting-tips-safety-hygeine-work-159abea5ad767a4b9c443f506d63e5e0</id>
     <title>Biking to work: Tips to get started, stay safe and look presentable when you arrive</title>
-    <updated>2026-07-24T21:22:57.763881+00:00</updated>
+    <updated>2026-07-24T22:24:09.203757+00:00</updated>
     <link href="https://apnews.com/article/bike-commuting-tips-safety-hygeine-work-159abea5ad767a4b9c443f506d63e5e0"/>
-    <published>2026-07-24T21:22:57.763881+00:00</published>
+    <published>2026-07-24T22:24:09.203757+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/australia-frog-lettuce-salad-esperance-4134acf75e814dedd7789c1423c26ab1</id>
     <title>Lettuce introduce you to the live frog found in this grocery store salad bag</title>
-    <updated>2026-07-24T21:23:57.763881+00:00</updated>
+    <updated>2026-07-24T22:25:09.203757+00:00</updated>
     <link href="https://apnews.com/article/australia-frog-lettuce-salad-esperance-4134acf75e814dedd7789c1423c26ab1"/>
-    <published>2026-07-24T21:23:57.763881+00:00</published>
+    <published>2026-07-24T22:25:09.203757+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/boneless-chicken-wings-lawsuit-ohio-supreme-court-231002ea50d8157aeadf093223d539f8</id>
     <title>Chicken wings advertised as 'boneless' can have bones, Ohio Supreme Court decides</title>
-    <updated>2026-07-24T21:24:57.763881+00:00</updated>
+    <updated>2026-07-24T22:26:09.203757+00:00</updated>
     <link href="https://apnews.com/article/boneless-chicken-wings-lawsuit-ohio-supreme-court-231002ea50d8157aeadf093223d539f8"/>
-    <published>2026-07-24T21:24:57.763881+00:00</published>
+    <published>2026-07-24T22:26:09.203757+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/ghana-fantasy-coffins-funerals-accra-tradition-01220db5b2e240a12ae8e4ba8820f993</id>
     <title>Ghana's fantasy coffins are a colorful celebration of life and legacy</title>
-    <updated>2026-07-24T21:25:57.763881+00:00</updated>
+    <updated>2026-07-24T22:27:09.203757+00:00</updated>
     <link href="https://apnews.com/article/ghana-fantasy-coffins-funerals-accra-tradition-01220db5b2e240a12ae8e4ba8820f993"/>
-    <published>2026-07-24T21:25:57.763881+00:00</published>
+    <published>2026-07-24T22:27:09.203757+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/gorilla-germany-fatou-berlin-zoo-0196b95f3b6d48593bb7c872cab51adf</id>
     <title>Fatou, the world's oldest gorilla living in captivity, celebrates her 69th birthday at Berlin Zoo</title>
-    <updated>2026-07-24T21:26:57.763881+00:00</updated>
+    <updated>2026-07-24T22:28:09.203757+00:00</updated>
     <link href="https://apnews.com/article/gorilla-germany-fatou-berlin-zoo-0196b95f3b6d48593bb7c872cab51adf"/>
-    <published>2026-07-24T21:26:57.763881+00:00</published>
+    <published>2026-07-24T22:28:09.203757+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/drunk-raccoon-liquor-store-bandit-virginia-5109feb2ea9ab9bf8954ec3798689fd0</id>
     <title>Raccoon goes on drunken rampage in Virginia liquor store and passes out on bathroom floor</title>
-    <updated>2026-07-24T21:27:57.763881+00:00</updated>
+    <updated>2026-07-24T22:29:09.203757+00:00</updated>
     <link href="https://apnews.com/article/drunk-raccoon-liquor-store-bandit-virginia-5109feb2ea9ab9bf8954ec3798689fd0"/>
-    <published>2026-07-24T21:27:57.763881+00:00</published>
+    <published>2026-07-24T22:29:09.203757+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/argentina-teenagers-identifying-as-animals-therians-tiktok-54d158c4842f6515e31d83a260cdf31f</id>
     <title>Viral phenomenon in Argentina has young people identifying themselves as animals</title>
-    <updated>2026-07-24T21:28:57.763881+00:00</updated>
+    <updated>2026-07-24T22:30:09.203757+00:00</updated>
     <link href="https://apnews.com/article/argentina-teenagers-identifying-as-animals-therians-tiktok-54d158c4842f6515e31d83a260cdf31f"/>
-    <published>2026-07-24T21:28:57.763881+00:00</published>
+    <published>2026-07-24T22:30:09.203757+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/fact-check-obama-immigrant-illegal-vote-election-589b797402682b7aa6c8376bccc86e18</id>
     <title>FACT FOCUS: Posts falsely claim Obama urged noncitizens to vote in 2016</title>
-    <updated>2026-07-24T21:29:57.763881+00:00</updated>
+    <updated>2026-07-24T22:31:09.203757+00:00</updated>
     <link href="https://apnews.com/article/fact-check-obama-immigrant-illegal-vote-election-589b797402682b7aa6c8376bccc86e18"/>
-    <published>2026-07-24T21:29:57.763881+00:00</published>
+    <published>2026-07-24T22:31:09.203757+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/canada-us-trump-carney-tariffs-0591038f6084d8a4210d57bca94de8d3</id>
     <title>Prime Minister Carney says Canada is ready to respond if Trump's new tariffs go into effect</title>
-    <updated>2026-07-24T21:30:57.763881+00:00</updated>
+    <updated>2026-07-24T22:32:09.203757+00:00</updated>
     <link href="https://apnews.com/article/canada-us-trump-carney-tariffs-0591038f6084d8a4210d57bca94de8d3"/>
-    <published>2026-07-24T21:30:57.763881+00:00</published>
+    <published>2026-07-24T22:32:09.203757+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/us-tariffs-trump-labor-reaction-china-asia-b178ead12f022009817c60010ac07eb3</id>
     <title>New US tariffs linked to claims of foreign forced labor dismay and anger trading partners</title>
-    <updated>2026-07-24T21:31:57.763881+00:00</updated>
+    <updated>2026-07-24T22:33:09.203757+00:00</updated>
     <link href="https://apnews.com/article/us-tariffs-trump-labor-reaction-china-asia-b178ead12f022009817c60010ac07eb3"/>
-    <published>2026-07-24T21:31:57.763881+00:00</published>
+    <published>2026-07-24T22:33:09.203757+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/trump-tariffs-supreme-court-forced-labor-4ea091eeee3fa1bfbe55af3f482e6bc1</id>
     <title>Trump imposes double-digit tariffs on dozens of countries as his 10% levies are set to expire Friday</title>
-    <updated>2026-07-24T21:32:57.763881+00:00</updated>
+    <updated>2026-07-24T22:34:09.203757+00:00</updated>
     <link href="https://apnews.com/article/trump-tariffs-supreme-court-forced-labor-4ea091eeee3fa1bfbe55af3f482e6bc1"/>
-    <published>2026-07-24T21:32:57.763881+00:00</published>
+    <published>2026-07-24T22:34:09.203757+00:00</published>
+  </entry>
+  <entry>
+    <id>https://apnews.com/article/72-hours-movie-review-netflix-87f2fa74f3002b712f6f1477ed218053</id>
+    <title>Movie Review: In '72 Hours,' the bachelor party has an unlikely plus-one</title>
+    <updated>2026-07-24T22:35:09.203757+00:00</updated>
+    <link href="https://apnews.com/article/72-hours-movie-review-netflix-87f2fa74f3002b712f6f1477ed218053"/>
+    <published>2026-07-24T22:35:09.203757+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/d4vd-burke-hearing-celeste-rivas-hernandez-65647a24c7808bebc0b6ff9040f50615</id>
     <title>DNA expert ties 14-year-old Celeste Rivas Hernandez to blood stains found in D4vd's garage</title>
-    <updated>2026-07-24T21:33:57.763881+00:00</updated>
+    <updated>2026-07-24T22:36:09.203757+00:00</updated>
     <link href="https://apnews.com/article/d4vd-burke-hearing-celeste-rivas-hernandez-65647a24c7808bebc0b6ff9040f50615"/>
-    <published>2026-07-24T21:33:57.763881+00:00</published>
+    <published>2026-07-24T22:36:09.203757+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/obama-wnba-all-stars-fe5ff9d58d8cf87816b3dfe48bfacc07</id>
     <title>Former President Barack Obama surprises WNBA All-Stars at their practice at his Presidential Center</title>
-    <updated>2026-07-24T21:34:57.763881+00:00</updated>
+    <updated>2026-07-24T22:37:09.203757+00:00</updated>
     <link href="https://apnews.com/article/obama-wnba-all-stars-fe5ff9d58d8cf87816b3dfe48bfacc07"/>
-    <published>2026-07-24T21:34:57.763881+00:00</published>
+    <published>2026-07-24T22:37:09.203757+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/tony-romo-owi-arrest-4921d7e507874b060c841ec7c1eaba2f</id>
     <title>Former Cowboys QB Tony Romo arrested on suspicion of operating a vehicle while under the influence</title>
-    <updated>2026-07-24T21:35:57.763881+00:00</updated>
+    <updated>2026-07-24T22:38:09.203757+00:00</updated>
     <link href="https://apnews.com/article/tony-romo-owi-arrest-4921d7e507874b060c841ec7c1eaba2f"/>
-    <published>2026-07-24T21:35:57.763881+00:00</published>
+    <published>2026-07-24T22:38:09.203757+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/lebron-james-76ers-1db738a3a8c29aab2be24b1bc8082ae9</id>
     <title>LeBron James is heading to the Philadelphia 76ers, saying it will be his 'last decision'</title>
-    <updated>2026-07-24T21:36:57.763881+00:00</updated>
+    <updated>2026-07-24T22:39:09.203757+00:00</updated>
     <link href="https://apnews.com/article/lebron-james-76ers-1db738a3a8c29aab2be24b1bc8082ae9"/>
-    <published>2026-07-24T21:36:57.763881+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/laura-loomer-ukraine-russia-zelenskyy-trump-8ae91d7f5bfb3940388de800301b34ce</id>
-    <title>Laura Loomer meets Zelenskyy in Ukraine after her major reversal on the war</title>
-    <updated>2026-07-24T21:37:57.763881+00:00</updated>
-    <link href="https://apnews.com/article/laura-loomer-ukraine-russia-zelenskyy-trump-8ae91d7f5bfb3940388de800301b34ce"/>
-    <published>2026-07-24T21:37:57.763881+00:00</published>
+    <published>2026-07-24T22:39:09.203757+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/california-primary-rejected-mail-ballots-voting-2291684fe4544cab2301f8965abc8f79</id>
     <title>Nearly 150,000 mail ballots rejected in California's primary despite efforts to count every vote</title>
-    <updated>2026-07-24T21:38:57.763881+00:00</updated>
+    <updated>2026-07-24T22:40:09.203757+00:00</updated>
     <link href="https://apnews.com/article/california-primary-rejected-mail-ballots-voting-2291684fe4544cab2301f8965abc8f79"/>
-    <published>2026-07-24T21:38:57.763881+00:00</published>
+    <published>2026-07-24T22:40:09.203757+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/apalachee-georgia-school-shooting-colt-gray-8be7ba5efae9cce53e0f8c61253a5f1b</id>
     <title>Teen pleads guilty to murder in a 2024 shooting that left 4 dead at Georgia's Apalachee High School</title>
-    <updated>2026-07-24T21:39:57.763881+00:00</updated>
+    <updated>2026-07-24T22:41:09.203757+00:00</updated>
     <link href="https://apnews.com/article/apalachee-georgia-school-shooting-colt-gray-8be7ba5efae9cce53e0f8c61253a5f1b"/>
-    <published>2026-07-24T21:39:57.763881+00:00</published>
+    <published>2026-07-24T22:41:09.203757+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/usmediatimesair-force-one-42429e4d4da8accc42b6c3ddf3f4fed5</id>
     <title>Government withdraws subpoenas of 3 reporters for The New York Times after admitting legal errors</title>
-    <updated>2026-07-24T21:40:57.763881+00:00</updated>
+    <updated>2026-07-24T22:42:09.203757+00:00</updated>
     <link href="https://apnews.com/article/usmediatimesair-force-one-42429e4d4da8accc42b6c3ddf3f4fed5"/>
-    <published>2026-07-24T21:40:57.763881+00:00</published>
+    <published>2026-07-24T22:42:09.203757+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/spain-wildfires-emergency-54c3d375fa1cca8399ea2645a8e119b0</id>
     <title>More than 200,000 people flee raging wildfires in France and Spain, some escaping by boat</title>
-    <updated>2026-07-24T21:41:57.763881+00:00</updated>
+    <updated>2026-07-24T22:43:09.203757+00:00</updated>
     <link href="https://apnews.com/article/spain-wildfires-emergency-54c3d375fa1cca8399ea2645a8e119b0"/>
-    <published>2026-07-24T21:41:57.763881+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/usvi-lawsuit-guns-concealed-2nd-amendment-1039052c4389483e4be4ed23f30ef82b</id>
-    <title>US Virgin Islands faces second lawsuit over right to bear arms as Florida resident seeks license</title>
-    <updated>2026-07-24T21:42:57.763881+00:00</updated>
-    <link href="https://apnews.com/article/usvi-lawsuit-guns-concealed-2nd-amendment-1039052c4389483e4be4ed23f30ef82b"/>
-    <published>2026-07-24T21:42:57.763881+00:00</published>
+    <published>2026-07-24T22:43:09.203757+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/iran-us-hormuz-strait-war-24-july-2026-78c2dbf538f6e61ab816479a4d9bdd85</id>
-    <title>Iran targets American strongholds around the Gulf while US hits more Iranian military sites</title>
-    <updated>2026-07-24T21:43:57.763881+00:00</updated>
+    <title>US military says it fired on another merchant vessel trying to breach blockade of Iranian ports</title>
+    <updated>2026-07-24T22:44:09.203757+00:00</updated>
     <link href="https://apnews.com/article/iran-us-hormuz-strait-war-24-july-2026-78c2dbf538f6e61ab816479a4d9bdd85"/>
-    <published>2026-07-24T21:43:57.763881+00:00</published>
+    <published>2026-07-24T22:44:09.203757+00:00</published>
   </entry>
 </feed>
