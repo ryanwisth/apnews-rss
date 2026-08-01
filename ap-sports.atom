@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://apnews.com/sports</id>
   <title>AP Sports (unofficial)</title>
-  <updated>2026-08-01T12:03:11.269806+00:00</updated>
+  <updated>2026-08-01T13:47:27.912908+00:00</updated>
   <author>
     <name>AP News (scraped, unofficial)</name>
   </author>
@@ -11,213 +11,213 @@
   <generator>ap-rss scraper</generator>
   <subtitle>Unofficial RSS feed of AP Sports from apnews.com</subtitle>
   <entry>
-    <id>https://apnews.com/article/el-nino-climate-change-warming-drought-un-554b976f05fa0a5583ab73c9d57467ff</id>
-    <title>UN, scientists warn that strong El Nino will add fuel to 'a planet already on fire'</title>
-    <updated>2026-08-01T11:34:11.269814+00:00</updated>
-    <link href="https://apnews.com/article/el-nino-climate-change-warming-drought-un-554b976f05fa0a5583ab73c9d57467ff"/>
-    <published>2026-08-01T11:34:11.269814+00:00</published>
-  </entry>
-  <entry>
     <id>https://apnews.com/article/colorado-river-drought-reclamation-interior-arizona-california-8a5e69b34135be73224532c54d581e8a</id>
     <title>Arizona, California and Nevada would share cuts under federal proposal to manage the Colorado River</title>
-    <updated>2026-08-01T11:35:11.269814+00:00</updated>
+    <updated>2026-08-01T13:18:27.912916+00:00</updated>
     <link href="https://apnews.com/article/colorado-river-drought-reclamation-interior-arizona-california-8a5e69b34135be73224532c54d581e8a"/>
-    <published>2026-08-01T11:35:11.269814+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/one-photo-0000019e7027d80eaffffa377acf0000</id>
-    <title>At the Kaaba during Hajj, a photographer captures sense of unity and devotion</title>
-    <updated>2026-08-01T11:36:11.269814+00:00</updated>
-    <link href="https://apnews.com/article/one-photo-0000019e7027d80eaffffa377acf0000"/>
-    <published>2026-08-01T11:36:11.269814+00:00</published>
+    <published>2026-08-01T13:18:27.912916+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/one-photo-0000019f91bcd867a5df9bbe35ff0000</id>
     <title>One frame captures a mother’s anguish during a search through a collapsed building in Venezuela</title>
-    <updated>2026-08-01T11:37:11.269814+00:00</updated>
+    <updated>2026-08-01T13:19:27.912916+00:00</updated>
     <link href="https://apnews.com/article/one-photo-0000019f91bcd867a5df9bbe35ff0000"/>
-    <published>2026-08-01T11:37:11.269814+00:00</published>
+    <published>2026-08-01T13:19:27.912916+00:00</published>
+  </entry>
+  <entry>
+    <id>https://apnews.com/article/one-photo-0000019e7027d80eaffffa377acf0000</id>
+    <title>At the Kaaba during Hajj, a photographer captures sense of unity and devotion</title>
+    <updated>2026-08-01T13:20:27.912916+00:00</updated>
+    <link href="https://apnews.com/article/one-photo-0000019e7027d80eaffffa377acf0000"/>
+    <published>2026-08-01T13:20:27.912916+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/one-photo-0000019fb805d6ebad9ffa7d2bf90000</id>
     <title>A slow shutter captures the Tour de France at full speed</title>
-    <updated>2026-08-01T11:38:11.269814+00:00</updated>
+    <updated>2026-08-01T13:21:27.912916+00:00</updated>
     <link href="https://apnews.com/article/one-photo-0000019fb805d6ebad9ffa7d2bf90000"/>
-    <published>2026-08-01T11:38:11.269814+00:00</published>
+    <published>2026-08-01T13:21:27.912916+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/tanning-beds-sun-teens-skin-cancer-trends-4ae3015a66dd90817ce30b34e6556e5e</id>
     <title>Tanning is getting hot again. Here's what it really does to your skin</title>
-    <updated>2026-08-01T11:39:11.269814+00:00</updated>
+    <updated>2026-08-01T13:22:27.912916+00:00</updated>
     <link href="https://apnews.com/article/tanning-beds-sun-teens-skin-cancer-trends-4ae3015a66dd90817ce30b34e6556e5e"/>
-    <published>2026-08-01T11:39:11.269814+00:00</published>
+    <published>2026-08-01T13:22:27.912916+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/date-labels-food-safety-bb24663c6d37c10075270658e8df6c7b</id>
     <title>Do you toss food once the date on the label has passed? Experts say that's often a waste</title>
-    <updated>2026-08-01T11:40:11.269814+00:00</updated>
+    <updated>2026-08-01T13:23:27.912916+00:00</updated>
     <link href="https://apnews.com/article/date-labels-food-safety-bb24663c6d37c10075270658e8df6c7b"/>
-    <published>2026-08-01T11:40:11.269814+00:00</published>
+    <published>2026-08-01T13:23:27.912916+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/jet-lag-eating-travel-destination-dd65300e117448e0e37d3e36fe56fb97</id>
     <title>Jetting off for a summer vacation? How to eat and drink to minimize jet lag</title>
-    <updated>2026-08-01T11:41:11.269814+00:00</updated>
+    <updated>2026-08-01T13:24:27.912916+00:00</updated>
     <link href="https://apnews.com/article/jet-lag-eating-travel-destination-dd65300e117448e0e37d3e36fe56fb97"/>
-    <published>2026-08-01T11:41:11.269814+00:00</published>
+    <published>2026-08-01T13:24:27.912916+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/australia-frog-lettuce-salad-esperance-4134acf75e814dedd7789c1423c26ab1</id>
     <title>Lettuce introduce you to the live frog found in this grocery store salad bag</title>
-    <updated>2026-08-01T11:42:11.269814+00:00</updated>
+    <updated>2026-08-01T13:25:27.912916+00:00</updated>
     <link href="https://apnews.com/article/australia-frog-lettuce-salad-esperance-4134acf75e814dedd7789c1423c26ab1"/>
-    <published>2026-08-01T11:42:11.269814+00:00</published>
+    <published>2026-08-01T13:25:27.912916+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/ghana-fantasy-coffins-funerals-accra-tradition-01220db5b2e240a12ae8e4ba8820f993</id>
     <title>Ghana's fantasy coffins are a colorful celebration of life and legacy</title>
-    <updated>2026-08-01T11:43:11.269814+00:00</updated>
+    <updated>2026-08-01T13:26:27.912916+00:00</updated>
     <link href="https://apnews.com/article/ghana-fantasy-coffins-funerals-accra-tradition-01220db5b2e240a12ae8e4ba8820f993"/>
-    <published>2026-08-01T11:43:11.269814+00:00</published>
+    <published>2026-08-01T13:26:27.912916+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/boneless-chicken-wings-lawsuit-ohio-supreme-court-231002ea50d8157aeadf093223d539f8</id>
     <title>Chicken wings advertised as 'boneless' can have bones, Ohio Supreme Court decides</title>
-    <updated>2026-08-01T11:44:11.269814+00:00</updated>
+    <updated>2026-08-01T13:27:27.912916+00:00</updated>
     <link href="https://apnews.com/article/boneless-chicken-wings-lawsuit-ohio-supreme-court-231002ea50d8157aeadf093223d539f8"/>
-    <published>2026-08-01T11:44:11.269814+00:00</published>
+    <published>2026-08-01T13:27:27.912916+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/gorilla-germany-fatou-berlin-zoo-0196b95f3b6d48593bb7c872cab51adf</id>
     <title>Fatou, the world's oldest gorilla living in captivity, celebrates her 69th birthday at Berlin Zoo</title>
-    <updated>2026-08-01T11:45:11.269814+00:00</updated>
+    <updated>2026-08-01T13:28:27.912916+00:00</updated>
     <link href="https://apnews.com/article/gorilla-germany-fatou-berlin-zoo-0196b95f3b6d48593bb7c872cab51adf"/>
-    <published>2026-08-01T11:45:11.269814+00:00</published>
+    <published>2026-08-01T13:28:27.912916+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/drunk-raccoon-liquor-store-bandit-virginia-5109feb2ea9ab9bf8954ec3798689fd0</id>
     <title>Raccoon goes on drunken rampage in Virginia liquor store and passes out on bathroom floor</title>
-    <updated>2026-08-01T11:46:11.269814+00:00</updated>
+    <updated>2026-08-01T13:29:27.912916+00:00</updated>
     <link href="https://apnews.com/article/drunk-raccoon-liquor-store-bandit-virginia-5109feb2ea9ab9bf8954ec3798689fd0"/>
-    <published>2026-08-01T11:46:11.269814+00:00</published>
+    <published>2026-08-01T13:29:27.912916+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/argentina-teenagers-identifying-as-animals-therians-tiktok-54d158c4842f6515e31d83a260cdf31f</id>
     <title>Viral phenomenon in Argentina has young people identifying themselves as animals</title>
-    <updated>2026-08-01T11:47:11.269814+00:00</updated>
+    <updated>2026-08-01T13:30:27.912916+00:00</updated>
     <link href="https://apnews.com/article/argentina-teenagers-identifying-as-animals-therians-tiktok-54d158c4842f6515e31d83a260cdf31f"/>
-    <published>2026-08-01T11:47:11.269814+00:00</published>
+    <published>2026-08-01T13:30:27.912916+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/fact-check-trump-minnesota-prescriptions-immigration-7adb2340586cabc2162c39d6f4bc9d92</id>
     <title>FACT FOCUS: Trump blames Minnesota governor for cyberattacks against the state. Cites no evidence</title>
-    <updated>2026-08-01T11:48:11.269814+00:00</updated>
+    <updated>2026-08-01T13:31:27.912916+00:00</updated>
     <link href="https://apnews.com/article/fact-check-trump-minnesota-prescriptions-immigration-7adb2340586cabc2162c39d6f4bc9d92"/>
-    <published>2026-08-01T11:48:11.269814+00:00</published>
+    <published>2026-08-01T13:31:27.912916+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/spain-migration-ceuta-morocco-facts-50baa964ecfb07a2d19223d7ec375b91</id>
     <title>FACT FOCUS: Migrant crossing in Spain's Ceuta breeds unsubstantiated claims</title>
-    <updated>2026-08-01T11:49:11.269814+00:00</updated>
+    <updated>2026-08-01T13:32:27.912916+00:00</updated>
     <link href="https://apnews.com/article/spain-migration-ceuta-morocco-facts-50baa964ecfb07a2d19223d7ec375b91"/>
-    <published>2026-08-01T11:49:11.269814+00:00</published>
+    <published>2026-08-01T13:32:27.912916+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/spacex-rocket-moon-crash-512c4dd708b4cda1160d30b764f9fdb5</id>
     <title>A discarded SpaceX rocket is on a high-speed collision course with the moon</title>
-    <updated>2026-08-01T11:50:11.269814+00:00</updated>
+    <updated>2026-08-01T13:33:27.912916+00:00</updated>
     <link href="https://apnews.com/article/spacex-rocket-moon-crash-512c4dd708b4cda1160d30b764f9fdb5"/>
-    <published>2026-08-01T11:50:11.269814+00:00</published>
+    <published>2026-08-01T13:33:27.912916+00:00</published>
+  </entry>
+  <entry>
+    <id>https://apnews.com/article/trump-truth-social-media-insider-trading-posts-feeds-traders-25c2c5be926f2650d0610c84100cffb8</id>
+    <title>Trump stands to profit off US policy announcements by selling fast access to his social media posts</title>
+    <updated>2026-08-01T13:34:27.912916+00:00</updated>
+    <link href="https://apnews.com/article/trump-truth-social-media-insider-trading-posts-feeds-traders-25c2c5be926f2650d0610c84100cffb8"/>
+    <published>2026-08-01T13:34:27.912916+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/community-reinvestment-act-banks-ncrc-occ-fdic-5ddb1b4dfcd08eaa0243b0b80cceb0ff</id>
     <title>Regulators propose overhaul to law governing how banks lend to low-and-middle income communities</title>
-    <updated>2026-08-01T11:51:11.269814+00:00</updated>
+    <updated>2026-08-01T13:35:27.912916+00:00</updated>
     <link href="https://apnews.com/article/community-reinvestment-act-banks-ncrc-occ-fdic-5ddb1b4dfcd08eaa0243b0b80cceb0ff"/>
-    <published>2026-08-01T11:51:11.269814+00:00</published>
+    <published>2026-08-01T13:35:27.912916+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/fcc-brendan-carr-abc-licenses-59a1af6fd76ed310a89b9764ae1fad8b</id>
     <title>FCC chairman defends actions against ABC, says broadcasters must operate 'in the public interest'</title>
-    <updated>2026-08-01T11:52:11.269814+00:00</updated>
+    <updated>2026-08-01T13:36:27.912916+00:00</updated>
     <link href="https://apnews.com/article/fcc-brendan-carr-abc-licenses-59a1af6fd76ed310a89b9764ae1fad8b"/>
-    <published>2026-08-01T11:52:11.269814+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/giants-harrison-bader-4c0e9f5b8b666d04e9e1d521024e680f</id>
-    <title>Giants suspend pay to injured outfielder Harrison Bader following scooter accident</title>
-    <updated>2026-08-01T11:53:11.269814+00:00</updated>
-    <link href="https://apnews.com/article/giants-harrison-bader-4c0e9f5b8b666d04e9e1d521024e680f"/>
-    <published>2026-08-01T11:53:11.269814+00:00</published>
+    <published>2026-08-01T13:36:27.912916+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/world-cup-infantino-fifa-investors-8aba1b529f220c27d02d326e8fd9e377</id>
     <title>Infantino abandons plans to sell World Cup profits to private equity following massive pushback</title>
-    <updated>2026-08-01T11:54:11.269814+00:00</updated>
+    <updated>2026-08-01T13:37:27.912916+00:00</updated>
     <link href="https://apnews.com/article/world-cup-infantino-fifa-investors-8aba1b529f220c27d02d326e8fd9e377"/>
-    <published>2026-08-01T11:54:11.269814+00:00</published>
+    <published>2026-08-01T13:37:27.912916+00:00</published>
+  </entry>
+  <entry>
+    <id>https://apnews.com/article/giants-harrison-bader-4c0e9f5b8b666d04e9e1d521024e680f</id>
+    <title>Giants suspend pay to injured outfielder Harrison Bader following scooter accident</title>
+    <updated>2026-08-01T13:38:27.912916+00:00</updated>
+    <link href="https://apnews.com/article/giants-harrison-bader-4c0e9f5b8b666d04e9e1d521024e680f"/>
+    <published>2026-08-01T13:38:27.912916+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/cordeiro-infantino-fifa-executive-world-cup-4cff20f6e2dda925e6d5395b56dcf9ab</id>
     <title>Senior FIFA executive says staff were deceived over Infantino's World Cup sell-off plan</title>
-    <updated>2026-08-01T11:55:11.269814+00:00</updated>
+    <updated>2026-08-01T13:39:27.912916+00:00</updated>
     <link href="https://apnews.com/article/cordeiro-infantino-fifa-executive-world-cup-4cff20f6e2dda925e6d5395b56dcf9ab"/>
-    <published>2026-08-01T11:55:11.269814+00:00</published>
+    <published>2026-08-01T13:39:27.912916+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/camp-david-history-timeline-photos-51da027a4555ea59ad07746f6ff189ee</id>
     <title>Camp David, the president's rustic Maryland mountain retreat, through the years</title>
-    <updated>2026-08-01T11:56:11.269814+00:00</updated>
+    <updated>2026-08-01T13:40:27.912916+00:00</updated>
     <link href="https://apnews.com/article/camp-david-history-timeline-photos-51da027a4555ea59ad07746f6ff189ee"/>
-    <published>2026-08-01T11:56:11.269814+00:00</published>
+    <published>2026-08-01T13:40:27.912916+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/blanche-tillis-cornyn-trump-attorney-general-settlement-0f214c3da82c5d5ee971ef83565a344b</id>
     <title>Trump says anti-weaponization fund in IRS settlement is 'dead' even as he defends it</title>
-    <updated>2026-08-01T11:57:11.269814+00:00</updated>
+    <updated>2026-08-01T13:41:27.912916+00:00</updated>
     <link href="https://apnews.com/article/blanche-tillis-cornyn-trump-attorney-general-settlement-0f214c3da82c5d5ee971ef83565a344b"/>
-    <published>2026-08-01T11:57:11.269814+00:00</published>
+    <published>2026-08-01T13:41:27.912916+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/reflecting-pool-damage-olympian-hearn-trump-21d997b5b55e6adf01862d7c5292476d</id>
     <title>Justice Department moves to drop case against ex-Olympian charged with damaging Reflecting Pool</title>
-    <updated>2026-08-01T11:58:11.269814+00:00</updated>
+    <updated>2026-08-01T13:42:27.912916+00:00</updated>
     <link href="https://apnews.com/article/reflecting-pool-damage-olympian-hearn-trump-21d997b5b55e6adf01862d7c5292476d"/>
-    <published>2026-08-01T11:58:11.269814+00:00</published>
+    <published>2026-08-01T13:42:27.912916+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/marine-corp-f35-jet-crash-miramar-8731483556a42c793ec2796327d8986c</id>
     <title>Marine Corps says F-35B stealth fighter crashed in California, pilot ejected safely</title>
-    <updated>2026-08-01T11:59:11.269814+00:00</updated>
+    <updated>2026-08-01T13:43:27.912916+00:00</updated>
     <link href="https://apnews.com/article/marine-corp-f35-jet-crash-miramar-8731483556a42c793ec2796327d8986c"/>
-    <published>2026-08-01T11:59:11.269814+00:00</published>
+    <published>2026-08-01T13:43:27.912916+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/savannah-nancy-guthrie-missing-mom-ransom-note-7a53c668597233ef4dbc82204118067f</id>
     <title>Authorities release early ransom note in Nancy Guthrie case, hoping someone recognizes it</title>
-    <updated>2026-08-01T12:00:11.269814+00:00</updated>
+    <updated>2026-08-01T13:44:27.912916+00:00</updated>
     <link href="https://apnews.com/article/savannah-nancy-guthrie-missing-mom-ransom-note-7a53c668597233ef4dbc82204118067f"/>
-    <published>2026-08-01T12:00:11.269814+00:00</published>
+    <published>2026-08-01T13:44:27.912916+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/hungary-nuclear-power-plant-shutdown-danube-drought-aebc3b54c9c5987e99c489b4652c91fe</id>
     <title>Hungary braces for a full shutdown of the Paks nuclear plant as the Danube River hits record lows</title>
-    <updated>2026-08-01T12:01:11.269814+00:00</updated>
+    <updated>2026-08-01T13:45:27.912916+00:00</updated>
     <link href="https://apnews.com/article/hungary-nuclear-power-plant-shutdown-danube-drought-aebc3b54c9c5987e99c489b4652c91fe"/>
-    <published>2026-08-01T12:01:11.269814+00:00</published>
+    <published>2026-08-01T13:45:27.912916+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/mideast-gaza-iran-israel-palestinians-strait-hormuz-9304893b474a48d18913d6f70fae4a8e</id>
     <title>White House signals Trump is weighing new strikes on Iran, and other developments in the Middle East</title>
-    <updated>2026-08-01T12:02:11.269814+00:00</updated>
+    <updated>2026-08-01T13:46:27.912916+00:00</updated>
     <link href="https://apnews.com/article/mideast-gaza-iran-israel-palestinians-strait-hormuz-9304893b474a48d18913d6f70fae4a8e"/>
-    <published>2026-08-01T12:02:11.269814+00:00</published>
+    <published>2026-08-01T13:46:27.912916+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/south-africa-oprah-winfrey-school-closure-8869f220df77c92d875911740557bdf5</id>
     <title>Oprah Winfrey says she will close her school for girls in South Africa next year</title>
-    <updated>2026-08-01T12:03:11.269814+00:00</updated>
+    <updated>2026-08-01T13:47:27.912916+00:00</updated>
     <link href="https://apnews.com/article/south-africa-oprah-winfrey-school-closure-8869f220df77c92d875911740557bdf5"/>
-    <published>2026-08-01T12:03:11.269814+00:00</published>
+    <published>2026-08-01T13:47:27.912916+00:00</published>
   </entry>
 </feed>
