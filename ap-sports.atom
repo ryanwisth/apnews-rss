@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://apnews.com/sports</id>
   <title>AP Sports (unofficial)</title>
-  <updated>2026-08-09T19:59:28.873956+00:00</updated>
+  <updated>2026-08-09T20:43:14.975898+00:00</updated>
   <author>
     <name>AP News (scraped, unofficial)</name>
   </author>
@@ -11,213 +11,213 @@
   <generator>ap-rss scraper</generator>
   <subtitle>Unofficial RSS feed of AP Sports from apnews.com</subtitle>
   <entry>
+    <id>https://apnews.com/article/deadly-flesh-eating-bacteria-vibrio-louisiana-florida-e062a1a834ebd6f05ff79ae352b041e2</id>
+    <title>Health officials urge caution for Gulf Coast beachgoers during surge of deadly bacterial infections</title>
+    <updated>2026-08-09T20:14:14.975905+00:00</updated>
+    <link href="https://apnews.com/article/deadly-flesh-eating-bacteria-vibrio-louisiana-florida-e062a1a834ebd6f05ff79ae352b041e2"/>
+    <published>2026-08-09T20:14:14.975905+00:00</published>
+  </entry>
+  <entry>
     <id>https://apnews.com/article/colorado-river-humpback-chub-cool-water-mix-e7744293ecbba8287c50353dadd9f029</id>
     <title>Officials will not release cool water from a Colorado River reservoir to protect threatened fish</title>
-    <updated>2026-08-09T19:30:28.873964+00:00</updated>
+    <updated>2026-08-09T20:15:14.975905+00:00</updated>
     <link href="https://apnews.com/article/colorado-river-humpback-chub-cool-water-mix-e7744293ecbba8287c50353dadd9f029"/>
-    <published>2026-08-09T19:30:28.873964+00:00</published>
+    <published>2026-08-09T20:15:14.975905+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/trump-musk-xai-environment-citizen-lawsuits-a46d8e3f20d0500175fe2ee981998323</id>
     <title>A pillar of environmental enforcement is targeted by Trump and Musk's AI company</title>
-    <updated>2026-08-09T19:31:28.873964+00:00</updated>
+    <updated>2026-08-09T20:16:14.975905+00:00</updated>
     <link href="https://apnews.com/article/trump-musk-xai-environment-citizen-lawsuits-a46d8e3f20d0500175fe2ee981998323"/>
-    <published>2026-08-09T19:31:28.873964+00:00</published>
+    <published>2026-08-09T20:16:14.975905+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/colorado-river-lake-mead-record-low-fa402842e76ed624f71360f467b2579d</id>
     <title>Lake Mead hits historic low water level as Colorado River struggles</title>
-    <updated>2026-08-09T19:32:28.873964+00:00</updated>
+    <updated>2026-08-09T20:17:14.975905+00:00</updated>
     <link href="https://apnews.com/article/colorado-river-lake-mead-record-low-fa402842e76ed624f71360f467b2579d"/>
-    <published>2026-08-09T19:32:28.873964+00:00</published>
+    <published>2026-08-09T20:17:14.975905+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/one-photo-0000019f707ed1f4ab9f7aff27840000</id>
     <title>How a photographer captured the speed and danger of Pamplona’s bull run</title>
-    <updated>2026-08-09T19:33:28.873964+00:00</updated>
+    <updated>2026-08-09T20:18:14.975905+00:00</updated>
     <link href="https://apnews.com/article/one-photo-0000019f707ed1f4ab9f7aff27840000"/>
-    <published>2026-08-09T19:33:28.873964+00:00</published>
+    <published>2026-08-09T20:18:14.975905+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/one-photo-0000019fdc2cdceba79fdf3fd03e0000</id>
     <title>How a photographer centered one woman amid the destruction of a Spokane wildfire</title>
-    <updated>2026-08-09T19:34:28.873964+00:00</updated>
+    <updated>2026-08-09T20:19:14.975905+00:00</updated>
     <link href="https://apnews.com/article/one-photo-0000019fdc2cdceba79fdf3fd03e0000"/>
-    <published>2026-08-09T19:34:28.873964+00:00</published>
+    <published>2026-08-09T20:19:14.975905+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/glp1-weight-loss-healthy-habit-41e4c84a7fed9586057b9b49fc4738dc</id>
     <title>As demand for GLP-1 pills and shots surges, healthy habits are still key</title>
-    <updated>2026-08-09T19:35:28.873964+00:00</updated>
+    <updated>2026-08-09T20:20:14.975905+00:00</updated>
     <link href="https://apnews.com/article/glp1-weight-loss-healthy-habit-41e4c84a7fed9586057b9b49fc4738dc"/>
-    <published>2026-08-09T19:35:28.873964+00:00</published>
+    <published>2026-08-09T20:20:14.975905+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/brain-games-dementia-alzheimers-cognition-e4ceb3b4dda84977083d1fc9fbb25ba7</id>
     <title>Challenging your brain helps keep it healthy. Here's how to do it</title>
-    <updated>2026-08-09T19:36:28.873964+00:00</updated>
+    <updated>2026-08-09T20:21:14.975905+00:00</updated>
     <link href="https://apnews.com/article/brain-games-dementia-alzheimers-cognition-e4ceb3b4dda84977083d1fc9fbb25ba7"/>
-    <published>2026-08-09T19:36:28.873964+00:00</published>
+    <published>2026-08-09T20:21:14.975905+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/healthy-heart-sleep-night-owls-circadian-rhythm-0c520492f5d6fc08c412053419e913f9</id>
     <title>Being a night owl may not be great for your heart but you can do something about it</title>
-    <updated>2026-08-09T19:37:28.873964+00:00</updated>
+    <updated>2026-08-09T20:22:14.975905+00:00</updated>
     <link href="https://apnews.com/article/healthy-heart-sleep-night-owls-circadian-rhythm-0c520492f5d6fc08c412053419e913f9"/>
-    <published>2026-08-09T19:37:28.873964+00:00</published>
+    <published>2026-08-09T20:22:14.975905+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/gorilla-germany-fatou-berlin-zoo-0196b95f3b6d48593bb7c872cab51adf</id>
     <title>Fatou, the world's oldest gorilla living in captivity, celebrates her 69th birthday at Berlin Zoo</title>
-    <updated>2026-08-09T19:38:28.873964+00:00</updated>
+    <updated>2026-08-09T20:23:14.975905+00:00</updated>
     <link href="https://apnews.com/article/gorilla-germany-fatou-berlin-zoo-0196b95f3b6d48593bb7c872cab51adf"/>
-    <published>2026-08-09T19:38:28.873964+00:00</published>
+    <published>2026-08-09T20:23:14.975905+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/boneless-chicken-wings-lawsuit-ohio-supreme-court-231002ea50d8157aeadf093223d539f8</id>
     <title>Chicken wings advertised as 'boneless' can have bones, Ohio Supreme Court decides</title>
-    <updated>2026-08-09T19:39:28.873964+00:00</updated>
+    <updated>2026-08-09T20:24:14.975905+00:00</updated>
     <link href="https://apnews.com/article/boneless-chicken-wings-lawsuit-ohio-supreme-court-231002ea50d8157aeadf093223d539f8"/>
-    <published>2026-08-09T19:39:28.873964+00:00</published>
+    <published>2026-08-09T20:24:14.975905+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/whale-breach-boat-capsize-new-hampshire-efe8cbfae49b93f6325c4331db8999ae</id>
     <title>Whale surfaces, capsizes fishing boat off New Hampshire coast</title>
-    <updated>2026-08-09T19:40:28.873964+00:00</updated>
+    <updated>2026-08-09T20:25:14.975905+00:00</updated>
     <link href="https://apnews.com/article/whale-breach-boat-capsize-new-hampshire-efe8cbfae49b93f6325c4331db8999ae"/>
-    <published>2026-08-09T19:40:28.873964+00:00</published>
+    <published>2026-08-09T20:25:14.975905+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/chile-kayaking-tourism-whale-b0cafde4b640326f20a9da28003d6c26</id>
     <title>A humpback whale briefly swallows kayaker in Chilean Patagonia — and it's all captured on camera</title>
-    <updated>2026-08-09T19:41:28.873964+00:00</updated>
+    <updated>2026-08-09T20:26:14.975905+00:00</updated>
     <link href="https://apnews.com/article/chile-kayaking-tourism-whale-b0cafde4b640326f20a9da28003d6c26"/>
-    <published>2026-08-09T19:41:28.873964+00:00</published>
+    <published>2026-08-09T20:26:14.975905+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/argentina-teenagers-identifying-as-animals-therians-tiktok-54d158c4842f6515e31d83a260cdf31f</id>
     <title>Viral phenomenon in Argentina has young people identifying themselves as animals</title>
-    <updated>2026-08-09T19:42:28.873964+00:00</updated>
+    <updated>2026-08-09T20:27:14.975905+00:00</updated>
     <link href="https://apnews.com/article/argentina-teenagers-identifying-as-animals-therians-tiktok-54d158c4842f6515e31d83a260cdf31f"/>
-    <published>2026-08-09T19:42:28.873964+00:00</published>
+    <published>2026-08-09T20:27:14.975905+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/brazil-capybaras-lawmakers-herd-fec574aa45b80b76d4993f8eda86d94b</id>
     <title>Capybaras keep their chill while crashing Brazilian legislature</title>
-    <updated>2026-08-09T19:43:28.873964+00:00</updated>
+    <updated>2026-08-09T20:28:14.975905+00:00</updated>
     <link href="https://apnews.com/article/brazil-capybaras-lawmakers-herd-fec574aa45b80b76d4993f8eda86d94b"/>
-    <published>2026-08-09T19:43:28.873964+00:00</published>
+    <published>2026-08-09T20:28:14.975905+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/perseid-meteor-shower-2026-where-to-see-b8b8679bb5baed6461e012b8c8fa4634</id>
     <title>How to spot the Perseid meteor shower, a summer light show that promises to dazzle</title>
-    <updated>2026-08-09T19:44:28.873964+00:00</updated>
+    <updated>2026-08-09T20:29:14.975905+00:00</updated>
     <link href="https://apnews.com/article/perseid-meteor-shower-2026-where-to-see-b8b8679bb5baed6461e012b8c8fa4634"/>
-    <published>2026-08-09T19:44:28.873964+00:00</published>
+    <published>2026-08-09T20:29:14.975905+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/cyprus-natural-gas-eu-egypt-exxonmobil-total-eb6bc94433c6374d17d3ec54db5becb3</id>
     <title>Cyprus natural gas to supply Europe by first half of 2028, minister says, as EU seeks new sources</title>
-    <updated>2026-08-09T19:45:28.873964+00:00</updated>
+    <updated>2026-08-09T20:30:14.975905+00:00</updated>
     <link href="https://apnews.com/article/cyprus-natural-gas-eu-egypt-exxonmobil-total-eb6bc94433c6374d17d3ec54db5becb3"/>
-    <published>2026-08-09T19:45:28.873964+00:00</published>
+    <published>2026-08-09T20:30:14.975905+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/mercedes-amg-lawsuit-logo-burns-c6896bba3d6ae337ff3a19479970cfb3</id>
     <title>Two drivers of Mercedes AMG cars file class action lawsuit over an alleged  burn hazard in its logo</title>
-    <updated>2026-08-09T19:46:28.873964+00:00</updated>
+    <updated>2026-08-09T20:31:14.975905+00:00</updated>
     <link href="https://apnews.com/article/mercedes-amg-lawsuit-logo-burns-c6896bba3d6ae337ff3a19479970cfb3"/>
-    <published>2026-08-09T19:46:28.873964+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/spiderman-odyssey-nolan-imax-box-office-record-4fe684597b2d272bbe45db9f78089a24</id>
-    <title>'Spider-Man: Brand New Day' keeps record pace, ‘The Odyssey’ sets new high for Nolan</title>
-    <updated>2026-08-09T19:47:28.873964+00:00</updated>
-    <link href="https://apnews.com/article/spiderman-odyssey-nolan-imax-box-office-record-4fe684597b2d272bbe45db9f78089a24"/>
-    <published>2026-08-09T19:47:28.873964+00:00</published>
+    <published>2026-08-09T20:31:14.975905+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/greece-ancient-theater-accessibility-odyssey-homer-353553292cf006c6e734978dfe9e931c</id>
     <title>As the world rediscovers 'The Odyssey,' disabled actors in Greece explore the pain of war</title>
-    <updated>2026-08-09T19:48:28.873964+00:00</updated>
+    <updated>2026-08-09T20:32:14.975905+00:00</updated>
     <link href="https://apnews.com/article/greece-ancient-theater-accessibility-odyssey-homer-353553292cf006c6e734978dfe9e931c"/>
-    <published>2026-08-09T19:48:28.873964+00:00</published>
+    <published>2026-08-09T20:32:14.975905+00:00</published>
+  </entry>
+  <entry>
+    <id>https://apnews.com/article/spiderman-odyssey-nolan-imax-box-office-record-4fe684597b2d272bbe45db9f78089a24</id>
+    <title>'Spider-Man: Brand New Day' keeps record pace, ‘The Odyssey’ sets new high for Nolan</title>
+    <updated>2026-08-09T20:33:14.975905+00:00</updated>
+    <link href="https://apnews.com/article/spiderman-odyssey-nolan-imax-box-office-record-4fe684597b2d272bbe45db9f78089a24"/>
+    <published>2026-08-09T20:33:14.975905+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/whitney-houston-interview-clive-davis-dcada2dd2d535d304aa0c12f5a132c37</id>
     <title>Whitney Houston's new No. 1s album, first-ever Barbie, Clive Davis and more: A Q&amp;A with Pat Houston</title>
-    <updated>2026-08-09T19:49:28.873964+00:00</updated>
+    <updated>2026-08-09T20:34:14.975905+00:00</updated>
     <link href="https://apnews.com/article/whitney-houston-interview-clive-davis-dcada2dd2d535d304aa0c12f5a132c37"/>
-    <published>2026-08-09T19:49:28.873964+00:00</published>
+    <published>2026-08-09T20:34:14.975905+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/fever-caitlin-clark-technical-fouls-78f023fd1db1e30b1cc2c8b44289a673</id>
     <title>WNBA quickly rescinds technical on Fever's Caitlin Clark that would have forced 1-game suspension</title>
-    <updated>2026-08-09T19:50:28.873964+00:00</updated>
+    <updated>2026-08-09T20:35:14.975905+00:00</updated>
     <link href="https://apnews.com/article/fever-caitlin-clark-technical-fouls-78f023fd1db1e30b1cc2c8b44289a673"/>
-    <published>2026-08-09T19:50:28.873964+00:00</published>
+    <published>2026-08-09T20:35:14.975905+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/raiders-cousins-crosby-suspend-practice-kubiak-0d9e213d0185c92dd667f5d0d5ad3fac</id>
     <title>Raiders suspend Kirk Cousins and Maxx Crosby from team drills after practice fight</title>
-    <updated>2026-08-09T19:51:28.873964+00:00</updated>
+    <updated>2026-08-09T20:36:14.975905+00:00</updated>
     <link href="https://apnews.com/article/raiders-cousins-crosby-suspend-practice-kubiak-0d9e213d0185c92dd667f5d0d5ad3fac"/>
-    <published>2026-08-09T19:51:28.873964+00:00</published>
+    <published>2026-08-09T20:36:14.975905+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/dijonai-carrington-ejection-sophie-cunningham-a1bb6cc3ae0c98ff0f22dee3751d2932</id>
     <title>Chicago’s DiJonai Carrington ejected for foul on Fever's Cunningham and posts 'white privilege'</title>
-    <updated>2026-08-09T19:52:28.873964+00:00</updated>
+    <updated>2026-08-09T20:37:14.975905+00:00</updated>
     <link href="https://apnews.com/article/dijonai-carrington-ejection-sophie-cunningham-a1bb6cc3ae0c98ff0f22dee3751d2932"/>
-    <published>2026-08-09T19:52:28.873964+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/darline-graham-campaign-south-carolina-senate-7faae372fd831368c0f2a1af40e5c703</id>
-    <title>Darline Graham tests value of a famous name vs. lack of experience in South Carolina primary</title>
-    <updated>2026-08-09T19:53:28.873964+00:00</updated>
-    <link href="https://apnews.com/article/darline-graham-campaign-south-carolina-senate-7faae372fd831368c0f2a1af40e5c703"/>
-    <published>2026-08-09T19:53:28.873964+00:00</published>
+    <published>2026-08-09T20:37:14.975905+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/iran-war-weapons-stockpile-pentagon-defense-industry-c98e042bfd0fd22cd97d15b1fffa322c</id>
     <title>Pentagon pushes defense companies to boost weapons production after concerns of depleted stocks</title>
-    <updated>2026-08-09T19:54:28.873964+00:00</updated>
+    <updated>2026-08-09T20:38:14.975905+00:00</updated>
     <link href="https://apnews.com/article/iran-war-weapons-stockpile-pentagon-defense-industry-c98e042bfd0fd22cd97d15b1fffa322c"/>
-    <published>2026-08-09T19:54:28.873964+00:00</published>
+    <published>2026-08-09T20:38:14.975905+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/wildfires-helicopter-crash-mt-rainier-utah-a8a570c9caf8357ee3c809e040a009b7</id>
     <title>Pilots of helicopter that crashed while fighting wildfire in Utah are dead, officials say</title>
-    <updated>2026-08-09T19:55:28.873964+00:00</updated>
+    <updated>2026-08-09T20:39:14.975905+00:00</updated>
     <link href="https://apnews.com/article/wildfires-helicopter-crash-mt-rainier-utah-a8a570c9caf8357ee3c809e040a009b7"/>
-    <published>2026-08-09T19:55:28.873964+00:00</published>
+    <published>2026-08-09T20:39:14.975905+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/new-york-harbor-baby-woman-capsized-boat-226cd727f7211f8a292b0a4ea1001fe4</id>
     <title>Boat capsizes in New York Harbor, woman and 5-month-old baby die</title>
-    <updated>2026-08-09T19:56:28.873964+00:00</updated>
+    <updated>2026-08-09T20:40:14.975905+00:00</updated>
     <link href="https://apnews.com/article/new-york-harbor-baby-woman-capsized-boat-226cd727f7211f8a292b0a4ea1001fe4"/>
-    <published>2026-08-09T19:56:28.873964+00:00</published>
+    <published>2026-08-09T20:40:14.975905+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/ice-body-camera-policy-associated-press-84a5b1eaa26a4d0e165f4a31a7ed9773</id>
     <title>ICE says it expects to equip every field officer with body cameras by the end of August</title>
-    <updated>2026-08-09T19:57:28.873964+00:00</updated>
+    <updated>2026-08-09T20:41:14.975905+00:00</updated>
     <link href="https://apnews.com/article/ice-body-camera-policy-associated-press-84a5b1eaa26a4d0e165f4a31a7ed9773"/>
-    <published>2026-08-09T19:57:28.873964+00:00</published>
+    <published>2026-08-09T20:41:14.975905+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/turkey-defense-pact-does-not-target-third-countries-1fd785d1c261621f8dcb33010c4f14e2</id>
     <title>Turkey says defense pact with Saudi Arabia and Pakistan is not aimed at Iran or any other country</title>
-    <updated>2026-08-09T19:58:28.873964+00:00</updated>
+    <updated>2026-08-09T20:42:14.975905+00:00</updated>
     <link href="https://apnews.com/article/turkey-defense-pact-does-not-target-third-countries-1fd785d1c261621f8dcb33010c4f14e2"/>
-    <published>2026-08-09T19:58:28.873964+00:00</published>
+    <published>2026-08-09T20:42:14.975905+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/yemen-houthis-iran-hormuz-mideast-roundup-aug-9-2026-6c5aa0c5debcca3fa36316a8b0b67400</id>
     <title>Israel rejects Trump's Gaza plan, more details emerge on the Strait of Hormuz and other Mideast news</title>
-    <updated>2026-08-09T19:59:28.873964+00:00</updated>
+    <updated>2026-08-09T20:43:14.975905+00:00</updated>
     <link href="https://apnews.com/article/yemen-houthis-iran-hormuz-mideast-roundup-aug-9-2026-6c5aa0c5debcca3fa36316a8b0b67400"/>
-    <published>2026-08-09T19:59:28.873964+00:00</published>
+    <published>2026-08-09T20:43:14.975905+00:00</published>
   </entry>
 </feed>
