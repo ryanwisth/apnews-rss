@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://apnews.com/science</id>
   <title>AP Science (unofficial)</title>
-  <updated>2026-08-10T19:59:27.455831+00:00</updated>
+  <updated>2026-08-10T20:53:43.875385+00:00</updated>
   <author>
     <name>AP News (scraped, unofficial)</name>
   </author>
@@ -11,213 +11,213 @@
   <generator>ap-rss scraper</generator>
   <subtitle>Unofficial RSS feed of AP Science from apnews.com</subtitle>
   <entry>
+    <id>https://apnews.com/article/trump-musk-xai-environment-citizen-lawsuits-a46d8e3f20d0500175fe2ee981998323</id>
+    <title>A pillar of environmental enforcement is targeted by Trump and Musk's AI company</title>
+    <updated>2026-08-10T20:24:43.875392+00:00</updated>
+    <link href="https://apnews.com/article/trump-musk-xai-environment-citizen-lawsuits-a46d8e3f20d0500175fe2ee981998323"/>
+    <published>2026-08-10T20:24:43.875392+00:00</published>
+  </entry>
+  <entry>
     <id>https://apnews.com/article/colorado-river-lake-mead-record-low-fa402842e76ed624f71360f467b2579d</id>
     <title>Lake Mead hits historic low water level as Colorado River struggles</title>
-    <updated>2026-08-10T19:30:27.455840+00:00</updated>
+    <updated>2026-08-10T20:25:43.875392+00:00</updated>
     <link href="https://apnews.com/article/colorado-river-lake-mead-record-low-fa402842e76ed624f71360f467b2579d"/>
-    <published>2026-08-10T19:30:27.455840+00:00</published>
+    <published>2026-08-10T20:25:43.875392+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/europe-weather-climate-change-f4f6ecf0953d423e0a70b74cd477c81a</id>
     <title>UK and France prepare for another heat wave as western Europe sets new temperature record</title>
-    <updated>2026-08-10T19:31:27.455840+00:00</updated>
+    <updated>2026-08-10T20:26:43.875392+00:00</updated>
     <link href="https://apnews.com/article/europe-weather-climate-change-f4f6ecf0953d423e0a70b74cd477c81a"/>
-    <published>2026-08-10T19:31:27.455840+00:00</published>
+    <published>2026-08-10T20:26:43.875392+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/one-photo-0000019f707ed1f4ab9f7aff27840000</id>
     <title>How a photographer captured the speed and danger of Pamplona’s bull run</title>
-    <updated>2026-08-10T19:32:27.455840+00:00</updated>
+    <updated>2026-08-10T20:27:43.875392+00:00</updated>
     <link href="https://apnews.com/article/one-photo-0000019f707ed1f4ab9f7aff27840000"/>
-    <published>2026-08-10T19:32:27.455840+00:00</published>
+    <published>2026-08-10T20:27:43.875392+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/one-photo-0000019fdc2cdceba79fdf3fd03e0000</id>
     <title>How a photographer centered one woman amid the destruction of a Spokane wildfire</title>
-    <updated>2026-08-10T19:33:27.455840+00:00</updated>
+    <updated>2026-08-10T20:28:43.875392+00:00</updated>
     <link href="https://apnews.com/article/one-photo-0000019fdc2cdceba79fdf3fd03e0000"/>
-    <published>2026-08-10T19:33:27.455840+00:00</published>
+    <published>2026-08-10T20:28:43.875392+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/jet-lag-eating-travel-destination-dd65300e117448e0e37d3e36fe56fb97</id>
     <title>Jetting off for a summer vacation? How to eat and drink to minimize jet lag</title>
-    <updated>2026-08-10T19:34:27.455840+00:00</updated>
+    <updated>2026-08-10T20:29:43.875392+00:00</updated>
     <link href="https://apnews.com/article/jet-lag-eating-travel-destination-dd65300e117448e0e37d3e36fe56fb97"/>
-    <published>2026-08-10T19:34:27.455840+00:00</published>
+    <published>2026-08-10T20:29:43.875392+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/healthy-heart-sleep-night-owls-circadian-rhythm-0c520492f5d6fc08c412053419e913f9</id>
     <title>Being a night owl may not be great for your heart but you can do something about it</title>
-    <updated>2026-08-10T19:35:27.455840+00:00</updated>
+    <updated>2026-08-10T20:30:43.875392+00:00</updated>
     <link href="https://apnews.com/article/healthy-heart-sleep-night-owls-circadian-rhythm-0c520492f5d6fc08c412053419e913f9"/>
-    <published>2026-08-10T19:35:27.455840+00:00</published>
+    <published>2026-08-10T20:30:43.875392+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/brain-games-dementia-alzheimers-cognition-e4ceb3b4dda84977083d1fc9fbb25ba7</id>
     <title>Challenging your brain helps keep it healthy. Here's how to do it</title>
-    <updated>2026-08-10T19:36:27.455840+00:00</updated>
+    <updated>2026-08-10T20:31:43.875392+00:00</updated>
     <link href="https://apnews.com/article/brain-games-dementia-alzheimers-cognition-e4ceb3b4dda84977083d1fc9fbb25ba7"/>
-    <published>2026-08-10T19:36:27.455840+00:00</published>
+    <published>2026-08-10T20:31:43.875392+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/boneless-chicken-wings-lawsuit-ohio-supreme-court-231002ea50d8157aeadf093223d539f8</id>
     <title>Chicken wings advertised as 'boneless' can have bones, Ohio Supreme Court decides</title>
-    <updated>2026-08-10T19:37:27.455840+00:00</updated>
+    <updated>2026-08-10T20:32:43.875392+00:00</updated>
     <link href="https://apnews.com/article/boneless-chicken-wings-lawsuit-ohio-supreme-court-231002ea50d8157aeadf093223d539f8"/>
-    <published>2026-08-10T19:37:27.455840+00:00</published>
+    <published>2026-08-10T20:32:43.875392+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/gorilla-germany-fatou-berlin-zoo-0196b95f3b6d48593bb7c872cab51adf</id>
     <title>Fatou, the world's oldest gorilla living in captivity, celebrates her 69th birthday at Berlin Zoo</title>
-    <updated>2026-08-10T19:38:27.455840+00:00</updated>
+    <updated>2026-08-10T20:33:43.875392+00:00</updated>
     <link href="https://apnews.com/article/gorilla-germany-fatou-berlin-zoo-0196b95f3b6d48593bb7c872cab51adf"/>
-    <published>2026-08-10T19:38:27.455840+00:00</published>
+    <published>2026-08-10T20:33:43.875392+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/chile-kayaking-tourism-whale-b0cafde4b640326f20a9da28003d6c26</id>
     <title>A humpback whale briefly swallows kayaker in Chilean Patagonia — and it's all captured on camera</title>
-    <updated>2026-08-10T19:39:27.455840+00:00</updated>
+    <updated>2026-08-10T20:34:43.875392+00:00</updated>
     <link href="https://apnews.com/article/chile-kayaking-tourism-whale-b0cafde4b640326f20a9da28003d6c26"/>
-    <published>2026-08-10T19:39:27.455840+00:00</published>
+    <published>2026-08-10T20:34:43.875392+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/argentina-teenagers-identifying-as-animals-therians-tiktok-54d158c4842f6515e31d83a260cdf31f</id>
     <title>Viral phenomenon in Argentina has young people identifying themselves as animals</title>
-    <updated>2026-08-10T19:40:27.455840+00:00</updated>
+    <updated>2026-08-10T20:35:43.875392+00:00</updated>
     <link href="https://apnews.com/article/argentina-teenagers-identifying-as-animals-therians-tiktok-54d158c4842f6515e31d83a260cdf31f"/>
-    <published>2026-08-10T19:40:27.455840+00:00</published>
+    <published>2026-08-10T20:35:43.875392+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/whale-breach-boat-capsize-new-hampshire-efe8cbfae49b93f6325c4331db8999ae</id>
     <title>Whale surfaces, capsizes fishing boat off New Hampshire coast</title>
-    <updated>2026-08-10T19:41:27.455840+00:00</updated>
+    <updated>2026-08-10T20:36:43.875392+00:00</updated>
     <link href="https://apnews.com/article/whale-breach-boat-capsize-new-hampshire-efe8cbfae49b93f6325c4331db8999ae"/>
-    <published>2026-08-10T19:41:27.455840+00:00</published>
+    <published>2026-08-10T20:36:43.875392+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/brazil-capybaras-lawmakers-herd-fec574aa45b80b76d4993f8eda86d94b</id>
     <title>Capybaras keep their chill while crashing Brazilian legislature</title>
-    <updated>2026-08-10T19:42:27.455840+00:00</updated>
+    <updated>2026-08-10T20:37:43.875392+00:00</updated>
     <link href="https://apnews.com/article/brazil-capybaras-lawmakers-herd-fec574aa45b80b76d4993f8eda86d94b"/>
-    <published>2026-08-10T19:42:27.455840+00:00</published>
+    <published>2026-08-10T20:37:43.875392+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/taylor-fresh-foods-trump-jalapenos-lettuce-salmonella-6cc2f9e17fdd4cb45953c21bee841e1e</id>
     <title>Taylor Farms recalls jalapeno products over salmonella concerns</title>
-    <updated>2026-08-10T19:43:27.455840+00:00</updated>
+    <updated>2026-08-10T20:38:43.875392+00:00</updated>
     <link href="https://apnews.com/article/taylor-fresh-foods-trump-jalapenos-lettuce-salmonella-6cc2f9e17fdd4cb45953c21bee841e1e"/>
-    <published>2026-08-10T19:43:27.455840+00:00</published>
+    <published>2026-08-10T20:38:43.875392+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/retail-clothing-stores-repair-services-mending-1286ac58324815adf0766e639d7421dc</id>
     <title>Clothing brands try to win over Gen Z with a needle and thread</title>
-    <updated>2026-08-10T19:44:27.455840+00:00</updated>
+    <updated>2026-08-10T20:39:43.875392+00:00</updated>
     <link href="https://apnews.com/article/retail-clothing-stores-repair-services-mending-1286ac58324815adf0766e639d7421dc"/>
-    <published>2026-08-10T19:44:27.455840+00:00</published>
+    <published>2026-08-10T20:39:43.875392+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/stocks-markets-rates-iran-ai-adb7b918b15206e38d7899d482422308</id>
-    <title>US stocks drift near their records as oil prices rise</title>
-    <updated>2026-08-10T19:45:27.455840+00:00</updated>
+    <title>US stocks edge down from their record after oil prices climb 5%</title>
+    <updated>2026-08-10T20:40:43.875392+00:00</updated>
     <link href="https://apnews.com/article/stocks-markets-rates-iran-ai-adb7b918b15206e38d7899d482422308"/>
-    <published>2026-08-10T19:45:27.455840+00:00</published>
+    <published>2026-08-10T20:40:43.875392+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/travis-barker-interview-blink182-drummer-documentary-62a66810561450aba1c8350fd49320f1</id>
     <title>Blink-182's Travis Barker almost died. A new documentary celebrates his life before and after</title>
-    <updated>2026-08-10T19:46:27.455840+00:00</updated>
+    <updated>2026-08-10T20:41:43.875392+00:00</updated>
     <link href="https://apnews.com/article/travis-barker-interview-blink182-drummer-documentary-62a66810561450aba1c8350fd49320f1"/>
-    <published>2026-08-10T19:46:27.455840+00:00</published>
+    <published>2026-08-10T20:41:43.875392+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/spiderman-odyssey-nolan-imax-box-office-record-4fe684597b2d272bbe45db9f78089a24</id>
     <title>'Spider-Man: Brand New Day' keeps record pace, ‘The Odyssey’ sets new high for Nolan</title>
-    <updated>2026-08-10T19:47:27.455840+00:00</updated>
+    <updated>2026-08-10T20:42:43.875392+00:00</updated>
     <link href="https://apnews.com/article/spiderman-odyssey-nolan-imax-box-office-record-4fe684597b2d272bbe45db9f78089a24"/>
-    <published>2026-08-10T19:47:27.455840+00:00</published>
+    <published>2026-08-10T20:42:43.875392+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/uefa-fifa-concacaf-afc-infantino-world-cup-b51ac48f03623851e07c8199342913bb</id>
     <title>UEFA, CONCACAF and AFC accuse FIFA of 'deception' and 'breach of trust' over World Cup plans</title>
-    <updated>2026-08-10T19:48:27.455840+00:00</updated>
+    <updated>2026-08-10T20:43:43.875392+00:00</updated>
     <link href="https://apnews.com/article/uefa-fifa-concacaf-afc-infantino-world-cup-b51ac48f03623851e07c8199342913bb"/>
-    <published>2026-08-10T19:48:27.455840+00:00</published>
+    <published>2026-08-10T20:43:43.875392+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/don-nelson-dead-nba-coach-3efb8d106f6f6374512696b1a249fd01</id>
     <title>Don Nelson, second-winningest NBA coach who won 5 titles as a Celtics player, dies at 86</title>
-    <updated>2026-08-10T19:49:27.455840+00:00</updated>
+    <updated>2026-08-10T20:44:43.875392+00:00</updated>
     <link href="https://apnews.com/article/don-nelson-dead-nba-coach-3efb8d106f6f6374512696b1a249fd01"/>
-    <published>2026-08-10T19:49:27.455840+00:00</published>
+    <published>2026-08-10T20:44:43.875392+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/braves-yankees-chris-sale-ejection-56376a24222fa3d95fa5831f199bce9d</id>
     <title>Braves ace Chris Sale ejected by umpire Dan Merzel before start of game against Yankees</title>
-    <updated>2026-08-10T19:50:27.455840+00:00</updated>
+    <updated>2026-08-10T20:45:43.875392+00:00</updated>
     <link href="https://apnews.com/article/braves-yankees-chris-sale-ejection-56376a24222fa3d95fa5831f199bce9d"/>
-    <published>2026-08-10T19:50:27.455840+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/minnesota-senate-democrats-primary-flanagan-craig-8ad278c07720b34d1f3a863598230aaa</id>
-    <title>Trump's immigration crackdown looms over Minnesota's bruising Senate primary</title>
-    <updated>2026-08-10T19:51:27.455840+00:00</updated>
-    <link href="https://apnews.com/article/minnesota-senate-democrats-primary-flanagan-craig-8ad278c07720b34d1f3a863598230aaa"/>
-    <published>2026-08-10T19:51:27.455840+00:00</published>
+    <published>2026-08-10T20:45:43.875392+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/national-guard-deployment-washington-trump-crime-66e7c6ab6beccd4146f39cff514f99c8</id>
     <title>Washington grapples with a National Guard deployment extended until 2029</title>
-    <updated>2026-08-10T19:52:27.455840+00:00</updated>
+    <updated>2026-08-10T20:46:43.875392+00:00</updated>
     <link href="https://apnews.com/article/national-guard-deployment-washington-trump-crime-66e7c6ab6beccd4146f39cff514f99c8"/>
-    <published>2026-08-10T19:52:27.455840+00:00</published>
+    <published>2026-08-10T20:46:43.875392+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/trump-white-house-counsel-will-scharf-c37ebefbd5786879d2ce2bedc5223133</id>
     <title>Trump announces staff secretary Will Scharf will be his new White House counsel</title>
-    <updated>2026-08-10T19:53:27.455840+00:00</updated>
+    <updated>2026-08-10T20:47:43.875392+00:00</updated>
     <link href="https://apnews.com/article/trump-white-house-counsel-will-scharf-c37ebefbd5786879d2ce2bedc5223133"/>
-    <published>2026-08-10T19:53:27.455840+00:00</published>
+    <published>2026-08-10T20:47:43.875392+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/western-wildfires-canada-us-946f5599db59517cb88fd3f0df9f5c46</id>
     <title>Wildfires burn across western US and Canada as residents are evacuated</title>
-    <updated>2026-08-10T19:54:27.455840+00:00</updated>
+    <updated>2026-08-10T20:48:43.875392+00:00</updated>
     <link href="https://apnews.com/article/western-wildfires-canada-us-946f5599db59517cb88fd3f0df9f5c46"/>
-    <published>2026-08-10T19:54:27.455840+00:00</published>
+    <published>2026-08-10T20:48:43.875392+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/immigration-military-families-deport-trump-democrats-86087b0394dc8fe01cfec877903d266b</id>
     <title>Congressional Democrats launch probe into efforts to deport US military members and their families</title>
-    <updated>2026-08-10T19:55:27.455840+00:00</updated>
+    <updated>2026-08-10T20:49:43.875392+00:00</updated>
     <link href="https://apnews.com/article/immigration-military-families-deport-trump-democrats-86087b0394dc8fe01cfec877903d266b"/>
-    <published>2026-08-10T19:55:27.455840+00:00</published>
+    <published>2026-08-10T20:49:43.875392+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/alaska-zuckerberg-yacht-help-81b4a1337cf6959da39397df719adbc5</id>
     <title>Zuckerberg spokesperson says his yacht did not hear call for maritime assist</title>
-    <updated>2026-08-10T19:56:27.455840+00:00</updated>
+    <updated>2026-08-10T20:50:43.875392+00:00</updated>
     <link href="https://apnews.com/article/alaska-zuckerberg-yacht-help-81b4a1337cf6959da39397df719adbc5"/>
-    <published>2026-08-10T19:56:27.455840+00:00</published>
+    <published>2026-08-10T20:50:43.875392+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/iran-us-strait-hormuz-august-10-2026-0bdaae8f1d7b781918e76dca4317c897</id>
     <title>Trump scoffs at Iran's demand for war reparations and other Mideast developments</title>
-    <updated>2026-08-10T19:57:27.455840+00:00</updated>
+    <updated>2026-08-10T20:51:43.875392+00:00</updated>
     <link href="https://apnews.com/article/iran-us-strait-hormuz-august-10-2026-0bdaae8f1d7b781918e76dca4317c897"/>
-    <published>2026-08-10T19:57:27.455840+00:00</published>
+    <published>2026-08-10T20:51:43.875392+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/child-standing-seat-flight-canceled-porter-canada-870b2b0d5c6fe04adf8e4ebe984fb2c1</id>
     <title>Porter Airlines flight in Canada canceled after child refuses to sit down and buckle up</title>
-    <updated>2026-08-10T19:58:27.455840+00:00</updated>
+    <updated>2026-08-10T20:52:43.875392+00:00</updated>
     <link href="https://apnews.com/article/child-standing-seat-flight-canceled-porter-canada-870b2b0d5c6fe04adf8e4ebe984fb2c1"/>
-    <published>2026-08-10T19:58:27.455840+00:00</published>
+    <published>2026-08-10T20:52:43.875392+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/colombia-ecuador-earthquake-26fd40f93272d834fced47a4a673edc9</id>
-    <title>Magnitude 7.4 quake hits western Colombia, killing at least 111 people</title>
-    <updated>2026-08-10T19:59:27.455840+00:00</updated>
+    <title>Magnitude 7.4 quake rocks western Colombia, killing at least 111 people</title>
+    <updated>2026-08-10T20:53:43.875392+00:00</updated>
     <link href="https://apnews.com/article/colombia-ecuador-earthquake-26fd40f93272d834fced47a4a673edc9"/>
-    <published>2026-08-10T19:59:27.455840+00:00</published>
+    <published>2026-08-10T20:53:43.875392+00:00</published>
   </entry>
 </feed>
