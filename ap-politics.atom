@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://apnews.com/politics</id>
   <title>AP Politics (unofficial)</title>
-  <updated>2026-08-12T14:44:11.263320+00:00</updated>
+  <updated>2026-08-12T15:41:03.010378+00:00</updated>
   <author>
     <name>AP News (scraped, unofficial)</name>
   </author>
@@ -11,213 +11,213 @@
   <generator>ap-rss scraper</generator>
   <subtitle>Unofficial RSS feed of AP Politics from apnews.com</subtitle>
   <entry>
-    <id>https://apnews.com/article/vaccine-research-autism-trump-kennedy-rfk-d10f81f221c4ae9f5b2f83dd0ee98b29</id>
-    <title>Trump signs order calling for spacing out childhood vaccines, against medical groups' guidance</title>
-    <updated>2026-08-12T14:15:11.263328+00:00</updated>
-    <link href="https://apnews.com/article/vaccine-research-autism-trump-kennedy-rfk-d10f81f221c4ae9f5b2f83dd0ee98b29"/>
-    <published>2026-08-12T14:15:11.263328+00:00</published>
-  </entry>
-  <entry>
     <id>https://apnews.com/article/biobased-biodegradable-plastics-climate-compost-838fb5b4619e5020e3c01157a312a5d8</id>
     <title>Traditional plastic forks shed harmful microplastics. Plastic created from sugar is an alternative</title>
-    <updated>2026-08-12T14:16:11.263328+00:00</updated>
+    <updated>2026-08-12T15:12:03.010384+00:00</updated>
     <link href="https://apnews.com/article/biobased-biodegradable-plastics-climate-compost-838fb5b4619e5020e3c01157a312a5d8"/>
-    <published>2026-08-12T14:16:11.263328+00:00</published>
+    <published>2026-08-12T15:12:03.010384+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/brazil-environmen-indigenous-rights-amazon-rainforest-supreme-court-05dd6598dd86583deac9cb31758c1bb0</id>
     <title>Key Amazon cases reach Brazil’s Supreme Court following Lula's defeats in Congress</title>
-    <updated>2026-08-12T14:17:11.263328+00:00</updated>
+    <updated>2026-08-12T15:13:03.010384+00:00</updated>
     <link href="https://apnews.com/article/brazil-environmen-indigenous-rights-amazon-rainforest-supreme-court-05dd6598dd86583deac9cb31758c1bb0"/>
-    <published>2026-08-12T14:17:11.263328+00:00</published>
+    <published>2026-08-12T15:13:03.010384+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/hottest-month-july-climate-change-4a9d612281485356103631f0f09b61af</id>
     <title>Contiguous US breaks its record for hottest month ever, NOAA says</title>
-    <updated>2026-08-12T14:18:11.263328+00:00</updated>
+    <updated>2026-08-12T15:14:03.010384+00:00</updated>
     <link href="https://apnews.com/article/hottest-month-july-climate-change-4a9d612281485356103631f0f09b61af"/>
-    <published>2026-08-12T14:18:11.263328+00:00</published>
+    <published>2026-08-12T15:14:03.010384+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/one-photo-0000019e7027d80eaffffa377acf0000</id>
     <title>At the Kaaba during Hajj, a photographer captures sense of unity and devotion</title>
-    <updated>2026-08-12T14:19:11.263328+00:00</updated>
+    <updated>2026-08-12T15:15:03.010384+00:00</updated>
     <link href="https://apnews.com/article/one-photo-0000019e7027d80eaffffa377acf0000"/>
-    <published>2026-08-12T14:19:11.263328+00:00</published>
+    <published>2026-08-12T15:15:03.010384+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/one-photo-0000019fdc2cdceba79fdf3fd03e0000</id>
     <title>How a photographer centered one woman amid the destruction of a Spokane wildfire</title>
-    <updated>2026-08-12T14:20:11.263328+00:00</updated>
+    <updated>2026-08-12T15:16:03.010384+00:00</updated>
     <link href="https://apnews.com/article/one-photo-0000019fdc2cdceba79fdf3fd03e0000"/>
-    <published>2026-08-12T14:20:11.263328+00:00</published>
+    <published>2026-08-12T15:16:03.010384+00:00</published>
   </entry>
   <entry>
-    <id>https://apnews.com/article/eclipse-photo-phone-camera-spain-europe-d73bc0d239eff680ae00ce08883f7c07</id>
-    <title>One Tech Tip: Using your smartphone to capture the August total solar eclipse over Europe</title>
-    <updated>2026-08-12T14:21:11.263328+00:00</updated>
-    <link href="https://apnews.com/article/eclipse-photo-phone-camera-spain-europe-d73bc0d239eff680ae00ce08883f7c07"/>
-    <published>2026-08-12T14:21:11.263328+00:00</published>
+    <id>https://apnews.com/article/school-parent-teacher-conferences-education-69a9571de23fefdde3c276db4ecb9357</id>
+    <title>How to make the most of parent-teacher conferences during back-to-school and beyond</title>
+    <updated>2026-08-12T15:17:03.010384+00:00</updated>
+    <link href="https://apnews.com/article/school-parent-teacher-conferences-education-69a9571de23fefdde3c276db4ecb9357"/>
+    <published>2026-08-12T15:17:03.010384+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/healthy-heart-sleep-night-owls-circadian-rhythm-0c520492f5d6fc08c412053419e913f9</id>
     <title>Being a night owl may not be great for your heart but you can do something about it</title>
-    <updated>2026-08-12T14:22:11.263328+00:00</updated>
+    <updated>2026-08-12T15:18:03.010384+00:00</updated>
     <link href="https://apnews.com/article/healthy-heart-sleep-night-owls-circadian-rhythm-0c520492f5d6fc08c412053419e913f9"/>
-    <published>2026-08-12T14:22:11.263328+00:00</published>
+    <published>2026-08-12T15:18:03.010384+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/less-sleep-first-night-travel-insomnia-111d35647d805c1a52768edf172c30f5</id>
     <title>Have trouble sleeping in a new place? Most do because of the first-night effect</title>
-    <updated>2026-08-12T14:23:11.263328+00:00</updated>
+    <updated>2026-08-12T15:19:03.010384+00:00</updated>
     <link href="https://apnews.com/article/less-sleep-first-night-travel-insomnia-111d35647d805c1a52768edf172c30f5"/>
-    <published>2026-08-12T14:23:11.263328+00:00</published>
+    <published>2026-08-12T15:19:03.010384+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/boneless-chicken-wings-lawsuit-ohio-supreme-court-231002ea50d8157aeadf093223d539f8</id>
     <title>Chicken wings advertised as 'boneless' can have bones, Ohio Supreme Court decides</title>
-    <updated>2026-08-12T14:24:11.263328+00:00</updated>
+    <updated>2026-08-12T15:20:03.010384+00:00</updated>
     <link href="https://apnews.com/article/boneless-chicken-wings-lawsuit-ohio-supreme-court-231002ea50d8157aeadf093223d539f8"/>
-    <published>2026-08-12T14:24:11.263328+00:00</published>
+    <published>2026-08-12T15:20:03.010384+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/chile-kayaking-tourism-whale-b0cafde4b640326f20a9da28003d6c26</id>
     <title>A humpback whale briefly swallows kayaker in Chilean Patagonia — and it's all captured on camera</title>
-    <updated>2026-08-12T14:25:11.263328+00:00</updated>
+    <updated>2026-08-12T15:21:03.010384+00:00</updated>
     <link href="https://apnews.com/article/chile-kayaking-tourism-whale-b0cafde4b640326f20a9da28003d6c26"/>
-    <published>2026-08-12T14:25:11.263328+00:00</published>
+    <published>2026-08-12T15:21:03.010384+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/gorilla-germany-fatou-berlin-zoo-0196b95f3b6d48593bb7c872cab51adf</id>
     <title>Fatou, the world's oldest gorilla living in captivity, celebrates her 69th birthday at Berlin Zoo</title>
-    <updated>2026-08-12T14:26:11.263328+00:00</updated>
+    <updated>2026-08-12T15:22:03.010384+00:00</updated>
     <link href="https://apnews.com/article/gorilla-germany-fatou-berlin-zoo-0196b95f3b6d48593bb7c872cab51adf"/>
-    <published>2026-08-12T14:26:11.263328+00:00</published>
+    <published>2026-08-12T15:22:03.010384+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/whale-breach-boat-capsize-new-hampshire-efe8cbfae49b93f6325c4331db8999ae</id>
     <title>Whale surfaces, capsizes fishing boat off New Hampshire coast</title>
-    <updated>2026-08-12T14:27:11.263328+00:00</updated>
+    <updated>2026-08-12T15:23:03.010384+00:00</updated>
     <link href="https://apnews.com/article/whale-breach-boat-capsize-new-hampshire-efe8cbfae49b93f6325c4331db8999ae"/>
-    <published>2026-08-12T14:27:11.263328+00:00</published>
+    <published>2026-08-12T15:23:03.010384+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/argentina-teenagers-identifying-as-animals-therians-tiktok-54d158c4842f6515e31d83a260cdf31f</id>
     <title>Viral phenomenon in Argentina has young people identifying themselves as animals</title>
-    <updated>2026-08-12T14:28:11.263328+00:00</updated>
+    <updated>2026-08-12T15:24:03.010384+00:00</updated>
     <link href="https://apnews.com/article/argentina-teenagers-identifying-as-animals-therians-tiktok-54d158c4842f6515e31d83a260cdf31f"/>
-    <published>2026-08-12T14:28:11.263328+00:00</published>
+    <published>2026-08-12T15:24:03.010384+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/brazil-capybaras-lawmakers-herd-fec574aa45b80b76d4993f8eda86d94b</id>
     <title>Capybaras keep their chill while crashing Brazilian legislature</title>
-    <updated>2026-08-12T14:29:11.263328+00:00</updated>
+    <updated>2026-08-12T15:25:03.010384+00:00</updated>
     <link href="https://apnews.com/article/brazil-capybaras-lawmakers-herd-fec574aa45b80b76d4993f8eda86d94b"/>
-    <published>2026-08-12T14:29:11.263328+00:00</published>
+    <published>2026-08-12T15:25:03.010384+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/fact-check-trump-vaccines-schedule-executive-order-autism-287503e351b38ec01ac7377eadbc22c4</id>
     <title>FACT FOCUS:  Trump makes false claims as he signs order urging revisions around childhood vaccines</title>
-    <updated>2026-08-12T14:30:11.263328+00:00</updated>
+    <updated>2026-08-12T15:26:03.010384+00:00</updated>
     <link href="https://apnews.com/article/fact-check-trump-vaccines-schedule-executive-order-autism-287503e351b38ec01ac7377eadbc22c4"/>
-    <published>2026-08-12T14:30:11.263328+00:00</published>
+    <published>2026-08-12T15:26:03.010384+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/total-solar-eclipse-nasa-partial-dce4e61ae5d359b659e00673ce82fea7</id>
     <title>Looking to see the solar eclipse from North America? Here's where and when to catch a sliver</title>
-    <updated>2026-08-12T14:31:11.263328+00:00</updated>
+    <updated>2026-08-12T15:27:03.010384+00:00</updated>
     <link href="https://apnews.com/article/total-solar-eclipse-nasa-partial-dce4e61ae5d359b659e00673ce82fea7"/>
-    <published>2026-08-12T14:31:11.263328+00:00</published>
+    <published>2026-08-12T15:27:03.010384+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/jaguar-tesla-ford-volkswagen-2e2d2603881241e6ed7a678c07d1b20a</id>
     <title>The cars that won't be around next year, according to Edmunds</title>
-    <updated>2026-08-12T14:32:11.263328+00:00</updated>
+    <updated>2026-08-12T15:28:03.010384+00:00</updated>
     <link href="https://apnews.com/article/jaguar-tesla-ford-volkswagen-2e2d2603881241e6ed7a678c07d1b20a"/>
-    <published>2026-08-12T14:32:11.263328+00:00</published>
+    <published>2026-08-12T15:28:03.010384+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/tariff-refund-government-appeal-435c34b570308d57895212baea601854</id>
     <title>Government fights trade judge’s order for tariff refunds to all importers</title>
-    <updated>2026-08-12T14:33:11.263328+00:00</updated>
+    <updated>2026-08-12T15:29:03.010384+00:00</updated>
     <link href="https://apnews.com/article/tariff-refund-government-appeal-435c34b570308d57895212baea601854"/>
-    <published>2026-08-12T14:33:11.263328+00:00</published>
+    <published>2026-08-12T15:29:03.010384+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/toyota-camry-recall-safety-display-42839afc0e53d3bc56155c6c72575cad</id>
     <title>Toyota recalls 655K Camrys over display error that may deactivate turn signals and other indicators</title>
-    <updated>2026-08-12T14:34:11.263328+00:00</updated>
+    <updated>2026-08-12T15:30:03.010384+00:00</updated>
     <link href="https://apnews.com/article/toyota-camry-recall-safety-display-42839afc0e53d3bc56155c6c72575cad"/>
-    <published>2026-08-12T14:34:11.263328+00:00</published>
+    <published>2026-08-12T15:30:03.010384+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/amziah-king-movie-review-matthew-mcconaughey-84b73b8f7bf46b42044de12a2bc3723a</id>
     <title>Movie Review: 'The Rivals of Amziah King' is a Southern fried flick with too many ingredients</title>
-    <updated>2026-08-12T14:35:11.263328+00:00</updated>
+    <updated>2026-08-12T15:31:03.010384+00:00</updated>
     <link href="https://apnews.com/article/amziah-king-movie-review-matthew-mcconaughey-84b73b8f7bf46b42044de12a2bc3723a"/>
-    <published>2026-08-12T14:35:11.263328+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/rod-stewart-health-update-tour-cancel-4da8db65ccf893c01b78a16386cc8e3c</id>
-    <title>Sir Rod Stewart calls off remaining tour dates after coronary stent procedure</title>
-    <updated>2026-08-12T14:36:11.263328+00:00</updated>
-    <link href="https://apnews.com/article/rod-stewart-health-update-tour-cancel-4da8db65ccf893c01b78a16386cc8e3c"/>
-    <published>2026-08-12T14:36:11.263328+00:00</published>
+    <published>2026-08-12T15:31:03.010384+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/ms-rachel-album-interview-acbd61f6dfd02f5855e6bc8d12346577</id>
     <title>YouTube sensation Ms. Rachel announces debut album with Mr. Aron, 'I'm So Happy'</title>
-    <updated>2026-08-12T14:37:11.263328+00:00</updated>
+    <updated>2026-08-12T15:32:03.010384+00:00</updated>
     <link href="https://apnews.com/article/ms-rachel-album-interview-acbd61f6dfd02f5855e6bc8d12346577"/>
-    <published>2026-08-12T14:37:11.263328+00:00</published>
+    <published>2026-08-12T15:32:03.010384+00:00</published>
+  </entry>
+  <entry>
+    <id>https://apnews.com/article/rod-stewart-health-update-tour-cancel-4da8db65ccf893c01b78a16386cc8e3c</id>
+    <title>Sir Rod Stewart calls off remaining tour dates after coronary stent procedure</title>
+    <updated>2026-08-12T15:33:03.010384+00:00</updated>
+    <link href="https://apnews.com/article/rod-stewart-health-update-tour-cancel-4da8db65ccf893c01b78a16386cc8e3c"/>
+    <published>2026-08-12T15:33:03.010384+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/land-speed-record-hydrogen-car-andy-green-e1633f838796f4b9d1504066b81b6dc4</id>
     <title>Britain's Andy Green sets another speed record, this time in a hydrogen-powered car</title>
-    <updated>2026-08-12T14:38:11.263328+00:00</updated>
+    <updated>2026-08-12T15:34:03.010384+00:00</updated>
     <link href="https://apnews.com/article/land-speed-record-hydrogen-car-andy-green-e1633f838796f4b9d1504066b81b6dc4"/>
-    <published>2026-08-12T14:38:11.263328+00:00</published>
+    <published>2026-08-12T15:34:03.010384+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/venomous-snake-helmet-b4340a60e61757f937eb370b11b80098</id>
     <title>High school football player in Arkansas practices with a venomous snake in his helmet</title>
-    <updated>2026-08-12T14:39:11.263328+00:00</updated>
+    <updated>2026-08-12T15:35:03.010384+00:00</updated>
     <link href="https://apnews.com/article/venomous-snake-helmet-b4340a60e61757f937eb370b11b80098"/>
-    <published>2026-08-12T14:39:11.263328+00:00</published>
+    <published>2026-08-12T15:35:03.010384+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/cristiano-ronaldo-wedding-georgina-rodriguez-bbe5bf3e5003e4dd663b7892c0a8f6d5</id>
     <title>Cristiano Ronaldo and Georgina Rodriguez tie the knot after 10 years</title>
-    <updated>2026-08-12T14:40:11.263328+00:00</updated>
+    <updated>2026-08-12T15:36:03.010384+00:00</updated>
     <link href="https://apnews.com/article/cristiano-ronaldo-wedding-georgina-rodriguez-bbe5bf3e5003e4dd663b7892c0a8f6d5"/>
-    <published>2026-08-12T14:40:11.263328+00:00</published>
+    <published>2026-08-12T15:36:03.010384+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/trump-secret-flight-turkey-iran-threats-d23a6454d1410cc8461368007db6ca25</id>
     <title>Trump says Secret Service and the military wanted him off Air Force One in Turkey due to threat</title>
-    <updated>2026-08-12T14:41:11.263328+00:00</updated>
+    <updated>2026-08-12T15:37:03.010384+00:00</updated>
     <link href="https://apnews.com/article/trump-secret-flight-turkey-iran-threats-d23a6454d1410cc8461368007db6ca25"/>
-    <published>2026-08-12T14:41:11.263328+00:00</published>
+    <published>2026-08-12T15:37:03.010384+00:00</published>
   </entry>
   <entry>
-    <id>https://apnews.com/article/severe-weather-chicago-indiana-illinois-1a17b33ff8b6adb50b06a6e62c695769</id>
-    <title>Severe weather knocks out power in Illinois, Indiana and Ohio as 'ring of fire' strikes Midwest</title>
-    <updated>2026-08-12T14:42:11.263328+00:00</updated>
-    <link href="https://apnews.com/article/severe-weather-chicago-indiana-illinois-1a17b33ff8b6adb50b06a6e62c695769"/>
-    <published>2026-08-12T14:42:11.263328+00:00</published>
+    <id>https://apnews.com/article/nintendo-wisconsin-mario-cartridges-video-de88a9fd5643913454328830e73f74c2</id>
+    <title>Ultrarare Nintendo Mario game cartridges discovered in Wisconsin</title>
+    <updated>2026-08-12T15:38:03.010384+00:00</updated>
+    <link href="https://apnews.com/article/nintendo-wisconsin-mario-cartridges-video-de88a9fd5643913454328830e73f74c2"/>
+    <published>2026-08-12T15:38:03.010384+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/gotti-grandson-fraud-prison-kidney-donation-fc85b6f7c5752ee6e96306eaa98d566e</id>
     <title>John Gotti’s grandson kept trying to delay prison to donate kidney to mother. A judge said enough</title>
-    <updated>2026-08-12T14:43:11.263328+00:00</updated>
+    <updated>2026-08-12T15:39:03.010384+00:00</updated>
     <link href="https://apnews.com/article/gotti-grandson-fraud-prison-kidney-donation-fc85b6f7c5752ee6e96306eaa98d566e"/>
-    <published>2026-08-12T14:43:11.263328+00:00</published>
+    <published>2026-08-12T15:39:03.010384+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/ice-electric-shock-gloves-85ff746d3e0ee5f39e7a9a3f1f576252</id>
     <title>AP Exclusive: ICE plans to give officers gloves that can deliver painful electric shocks</title>
-    <updated>2026-08-12T14:44:11.263328+00:00</updated>
+    <updated>2026-08-12T15:40:03.010384+00:00</updated>
     <link href="https://apnews.com/article/ice-electric-shock-gloves-85ff746d3e0ee5f39e7a9a3f1f576252"/>
-    <published>2026-08-12T14:44:11.263328+00:00</published>
+    <published>2026-08-12T15:40:03.010384+00:00</published>
+  </entry>
+  <entry>
+    <id>https://apnews.com/article/russia-putin-navy-ships-seizures-shadow-fleet-0c184bfe95397fae3b7093139453d1cb</id>
+    <title>Putin threatens retaliation for Western seizures of Russian commercial vessels</title>
+    <updated>2026-08-12T15:41:03.010384+00:00</updated>
+    <link href="https://apnews.com/article/russia-putin-navy-ships-seizures-shadow-fleet-0c184bfe95397fae3b7093139453d1cb"/>
+    <published>2026-08-12T15:41:03.010384+00:00</published>
   </entry>
 </feed>
