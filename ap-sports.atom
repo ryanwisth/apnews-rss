@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://apnews.com/sports</id>
   <title>AP Sports (unofficial)</title>
-  <updated>2026-08-18T15:50:39.160802+00:00</updated>
+  <updated>2026-08-18T16:14:55.729291+00:00</updated>
   <author>
     <name>AP News (scraped, unofficial)</name>
   </author>
@@ -11,213 +11,213 @@
   <generator>ap-rss scraper</generator>
   <subtitle>Unofficial RSS feed of AP Sports from apnews.com</subtitle>
   <entry>
+    <id>https://apnews.com/article/cdc-programs-cuts-jobs-738f3f245f4cb68ff485c804af92832f</id>
+    <title>CDC's new director is pressed to do something about its zombie programs</title>
+    <updated>2026-08-18T15:45:55.729301+00:00</updated>
+    <link href="https://apnews.com/article/cdc-programs-cuts-jobs-738f3f245f4cb68ff485c804af92832f"/>
+    <published>2026-08-18T15:45:55.729301+00:00</published>
+  </entry>
+  <entry>
     <id>https://apnews.com/article/brazil-lula-oil-petrobras-amazon-drilling-9ad1dd2eb5a7932c2738c904fcaa73cc</id>
     <title>Lula calls oil near the Amazon River a passport to Brazil's future after Petrobras strikes new find</title>
-    <updated>2026-08-18T15:21:39.160809+00:00</updated>
+    <updated>2026-08-18T15:46:55.729301+00:00</updated>
     <link href="https://apnews.com/article/brazil-lula-oil-petrobras-amazon-drilling-9ad1dd2eb5a7932c2738c904fcaa73cc"/>
-    <published>2026-08-18T15:21:39.160809+00:00</published>
+    <published>2026-08-18T15:46:55.729301+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/iran-war-southeast-asia-cambodia-education-fe1b94cb4999057e6497aa741ee5be5a</id>
     <title>The ripple effects of the Iran war could threaten education for millions of kids around the world</title>
-    <updated>2026-08-18T15:22:39.160809+00:00</updated>
+    <updated>2026-08-18T15:47:55.729301+00:00</updated>
     <link href="https://apnews.com/article/iran-war-southeast-asia-cambodia-education-fe1b94cb4999057e6497aa741ee5be5a"/>
-    <published>2026-08-18T15:22:39.160809+00:00</published>
+    <published>2026-08-18T15:47:55.729301+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/one-photo-0000019e7027d80eaffffa377acf0000</id>
     <title>At the Kaaba during Hajj, a photographer captures sense of unity and devotion</title>
-    <updated>2026-08-18T15:23:39.160809+00:00</updated>
+    <updated>2026-08-18T15:48:55.729301+00:00</updated>
     <link href="https://apnews.com/article/one-photo-0000019e7027d80eaffffa377acf0000"/>
-    <published>2026-08-18T15:23:39.160809+00:00</published>
+    <published>2026-08-18T15:48:55.729301+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/one-photo-000001a001a0d3b9abfef5ef1dce0000</id>
     <title>Diving into the blue sky, watched by the Eiffel Tower</title>
-    <updated>2026-08-18T15:24:39.160809+00:00</updated>
+    <updated>2026-08-18T15:49:55.729301+00:00</updated>
     <link href="https://apnews.com/article/one-photo-000001a001a0d3b9abfef5ef1dce0000"/>
-    <published>2026-08-18T15:24:39.160809+00:00</published>
+    <published>2026-08-18T15:49:55.729301+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/bedbugs-control-prevention-mrsa-d4a6a560fff7bbf193d78df21009fc17</id>
     <title>Bedbugs can cause people to lose sleep — and blood. Here's what to do about them</title>
-    <updated>2026-08-18T15:25:39.160809+00:00</updated>
+    <updated>2026-08-18T15:50:55.729301+00:00</updated>
     <link href="https://apnews.com/article/bedbugs-control-prevention-mrsa-d4a6a560fff7bbf193d78df21009fc17"/>
-    <published>2026-08-18T15:25:39.160809+00:00</published>
+    <published>2026-08-18T15:50:55.729301+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/healthy-heart-sleep-night-owls-circadian-rhythm-0c520492f5d6fc08c412053419e913f9</id>
     <title>Being a night owl may not be great for your heart but you can do something about it</title>
-    <updated>2026-08-18T15:26:39.160809+00:00</updated>
+    <updated>2026-08-18T15:51:55.729301+00:00</updated>
     <link href="https://apnews.com/article/healthy-heart-sleep-night-owls-circadian-rhythm-0c520492f5d6fc08c412053419e913f9"/>
-    <published>2026-08-18T15:26:39.160809+00:00</published>
+    <published>2026-08-18T15:51:55.729301+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/brain-games-dementia-alzheimers-cognition-e4ceb3b4dda84977083d1fc9fbb25ba7</id>
     <title>Challenging your brain helps keep it healthy. Here's how to do it</title>
-    <updated>2026-08-18T15:27:39.160809+00:00</updated>
+    <updated>2026-08-18T15:52:55.729301+00:00</updated>
     <link href="https://apnews.com/article/brain-games-dementia-alzheimers-cognition-e4ceb3b4dda84977083d1fc9fbb25ba7"/>
-    <published>2026-08-18T15:27:39.160809+00:00</published>
+    <published>2026-08-18T15:52:55.729301+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/minnesota-where-is-big-pencil-sharpening-13bdada274a6beeb7327ebefbee639d9</id>
     <title>Why a Minneapolis neighborhood sharpens a giant pencil every year</title>
-    <updated>2026-08-18T15:28:39.160809+00:00</updated>
+    <updated>2026-08-18T15:53:55.729301+00:00</updated>
     <link href="https://apnews.com/article/minnesota-where-is-big-pencil-sharpening-13bdada274a6beeb7327ebefbee639d9"/>
-    <published>2026-08-18T15:28:39.160809+00:00</published>
+    <published>2026-08-18T15:53:55.729301+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/switzerland-lausanne-speeding-ticket-edd115a3916250c7809d1bb338a33663</id>
     <title>A driver faces up to $110,000 in fines for speeding on a Swiss street. But he can afford it</title>
-    <updated>2026-08-18T15:29:39.160809+00:00</updated>
+    <updated>2026-08-18T15:54:55.729301+00:00</updated>
     <link href="https://apnews.com/article/switzerland-lausanne-speeding-ticket-edd115a3916250c7809d1bb338a33663"/>
-    <published>2026-08-18T15:29:39.160809+00:00</published>
+    <published>2026-08-18T15:54:55.729301+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/chile-kayaking-tourism-whale-b0cafde4b640326f20a9da28003d6c26</id>
     <title>A humpback whale briefly swallows kayaker in Chilean Patagonia — and it's all captured on camera</title>
-    <updated>2026-08-18T15:30:39.160809+00:00</updated>
+    <updated>2026-08-18T15:55:55.729301+00:00</updated>
     <link href="https://apnews.com/article/chile-kayaking-tourism-whale-b0cafde4b640326f20a9da28003d6c26"/>
-    <published>2026-08-18T15:30:39.160809+00:00</published>
+    <published>2026-08-18T15:55:55.729301+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/argentina-teenagers-identifying-as-animals-therians-tiktok-54d158c4842f6515e31d83a260cdf31f</id>
     <title>Viral phenomenon in Argentina has young people identifying themselves as animals</title>
-    <updated>2026-08-18T15:31:39.160809+00:00</updated>
+    <updated>2026-08-18T15:56:55.729301+00:00</updated>
     <link href="https://apnews.com/article/argentina-teenagers-identifying-as-animals-therians-tiktok-54d158c4842f6515e31d83a260cdf31f"/>
-    <published>2026-08-18T15:31:39.160809+00:00</published>
+    <published>2026-08-18T15:56:55.729301+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/2025-words-slang-phrases-list-university-67-59f896e28b7b16edfdfcc453a8af388a</id>
     <title>Viral '6-7' tops 2025 list of overused words and phrases</title>
-    <updated>2026-08-18T15:32:39.160809+00:00</updated>
+    <updated>2026-08-18T15:57:55.729301+00:00</updated>
     <link href="https://apnews.com/article/2025-words-slang-phrases-list-university-67-59f896e28b7b16edfdfcc453a8af388a"/>
-    <published>2026-08-18T15:32:39.160809+00:00</published>
+    <published>2026-08-18T15:57:55.729301+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/brazil-capybaras-lawmakers-herd-fec574aa45b80b76d4993f8eda86d94b</id>
     <title>Capybaras keep their chill while crashing Brazilian legislature</title>
-    <updated>2026-08-18T15:33:39.160809+00:00</updated>
+    <updated>2026-08-18T15:58:55.729301+00:00</updated>
     <link href="https://apnews.com/article/brazil-capybaras-lawmakers-herd-fec574aa45b80b76d4993f8eda86d94b"/>
-    <published>2026-08-18T15:33:39.160809+00:00</published>
+    <published>2026-08-18T15:58:55.729301+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/meta-trial-oakland-states-instagram-safety-2b617764a8ddc4846f74f59d0c4516b8</id>
     <title>Opening statements set to begin in Meta's federal trial over child safety</title>
-    <updated>2026-08-18T15:34:39.160809+00:00</updated>
+    <updated>2026-08-18T15:59:55.729301+00:00</updated>
     <link href="https://apnews.com/article/meta-trial-oakland-states-instagram-safety-2b617764a8ddc4846f74f59d0c4516b8"/>
-    <published>2026-08-18T15:34:39.160809+00:00</published>
+    <published>2026-08-18T15:59:55.729301+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/shakira-colombia-earthquake-venezuela-choco-24d2e17840e954c9a27309dda28f526c</id>
     <title>Shakira makes surprise visit in earthquake-damaged Colombia and commits to rebuilding schools</title>
-    <updated>2026-08-18T15:35:39.160809+00:00</updated>
+    <updated>2026-08-18T16:00:55.729301+00:00</updated>
     <link href="https://apnews.com/article/shakira-colombia-earthquake-venezuela-choco-24d2e17840e954c9a27309dda28f526c"/>
-    <published>2026-08-18T15:35:39.160809+00:00</published>
+    <published>2026-08-18T16:00:55.729301+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/tariffs-trump-canada-usmca-trade-aae597c22617bec7a99f670a2c787ef9</id>
     <title>US and Canada hold last-minute talks to stop Trump’s 50% tariffs</title>
-    <updated>2026-08-18T15:36:39.160809+00:00</updated>
+    <updated>2026-08-18T16:01:55.729301+00:00</updated>
     <link href="https://apnews.com/article/tariffs-trump-canada-usmca-trade-aae597c22617bec7a99f670a2c787ef9"/>
-    <published>2026-08-18T15:36:39.160809+00:00</published>
+    <published>2026-08-18T16:01:55.729301+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/2026-mtv-vma-nominations-e9ac1be3adfd613c3bc348e83543832e</id>
     <title>Madonna leads 2026 MTV Video Music Awards nominations, followed by Taylor Swift</title>
-    <updated>2026-08-18T15:37:39.160809+00:00</updated>
+    <updated>2026-08-18T16:02:55.729301+00:00</updated>
     <link href="https://apnews.com/article/2026-mtv-vma-nominations-e9ac1be3adfd613c3bc348e83543832e"/>
-    <published>2026-08-18T15:37:39.160809+00:00</published>
+    <published>2026-08-18T16:02:55.729301+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/hayden-panettiere-movies-tv-e2698cb754cedda1c7ddb09d9c262580</id>
     <title>From ‘Nashville’ to ‘Remember the Titans,’ Hayden Panettiere’s notable roles and where to watch</title>
-    <updated>2026-08-18T15:38:39.160809+00:00</updated>
+    <updated>2026-08-18T16:03:55.729301+00:00</updated>
     <link href="https://apnews.com/article/hayden-panettiere-movies-tv-e2698cb754cedda1c7ddb09d9c262580"/>
-    <published>2026-08-18T15:38:39.160809+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/hayden-panettiere-reaction-tributes-9c7b6205219b89784282ecf86905573e</id>
-    <title>Hayden Panettiere tributes include Connie Britton, Viola Davis and Selma Blair</title>
-    <updated>2026-08-18T15:39:39.160809+00:00</updated>
-    <link href="https://apnews.com/article/hayden-panettiere-reaction-tributes-9c7b6205219b89784282ecf86905573e"/>
-    <published>2026-08-18T15:39:39.160809+00:00</published>
+    <published>2026-08-18T16:03:55.729301+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/wnba-fans-shirts-transgender-security-e4e4dfda3c55e7ee408ae3288e1e3839</id>
     <title>WNBA says fans should have been free to wear shirts with messaging about transgender issue</title>
-    <updated>2026-08-18T15:40:39.160809+00:00</updated>
+    <updated>2026-08-18T16:04:55.729301+00:00</updated>
     <link href="https://apnews.com/article/wnba-fans-shirts-transgender-security-e4e4dfda3c55e7ee408ae3288e1e3839"/>
-    <published>2026-08-18T15:40:39.160809+00:00</published>
+    <published>2026-08-18T16:04:55.729301+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/lakers-buss-sale-8ff70d314cfebcb8ca6b2cc7ac3754f6</id>
     <title>Jeanie Buss to contest siblings' plan to sell their Lakers minority ownership stake to Kushner, Iger</title>
-    <updated>2026-08-18T15:41:39.160809+00:00</updated>
+    <updated>2026-08-18T16:05:55.729301+00:00</updated>
     <link href="https://apnews.com/article/lakers-buss-sale-8ff70d314cfebcb8ca6b2cc7ac3754f6"/>
-    <published>2026-08-18T15:41:39.160809+00:00</published>
+    <published>2026-08-18T16:05:55.729301+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/ap-top-25-preseason-poll-bd5dd1c058fab6047510f09e18b035f1</id>
     <title>Ohio State and Oregon are 1-2 in the AP preseason Top 25, SEC leads conferences with 9 ranked teams</title>
-    <updated>2026-08-18T15:42:39.160809+00:00</updated>
+    <updated>2026-08-18T16:06:55.729301+00:00</updated>
     <link href="https://apnews.com/article/ap-top-25-preseason-poll-bd5dd1c058fab6047510f09e18b035f1"/>
-    <published>2026-08-18T15:42:39.160809+00:00</published>
+    <published>2026-08-18T16:06:55.729301+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/trump-south-korea-military-exercises-american-interests-c602b29c49f56f2acdcca96bb6df08f3</id>
     <title>Trump's slight of South Korea in favor of the North raises broader US security concerns</title>
-    <updated>2026-08-18T15:43:39.160809+00:00</updated>
+    <updated>2026-08-18T16:07:55.729301+00:00</updated>
     <link href="https://apnews.com/article/trump-south-korea-military-exercises-american-interests-c602b29c49f56f2acdcca96bb6df08f3"/>
-    <published>2026-08-18T15:43:39.160809+00:00</published>
+    <published>2026-08-18T16:07:55.729301+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/trump-border-big-bend-national-park-immigration-c8439ceed11ff5e7f3ca95fa0003327b</id>
     <title>Trump administration briefly pauses contentious border project in Texas' Big Bend National Park</title>
-    <updated>2026-08-18T15:44:39.160809+00:00</updated>
+    <updated>2026-08-18T16:08:55.729301+00:00</updated>
     <link href="https://apnews.com/article/trump-border-big-bend-national-park-immigration-c8439ceed11ff5e7f3ca95fa0003327b"/>
-    <published>2026-08-18T15:44:39.160809+00:00</published>
+    <published>2026-08-18T16:08:55.729301+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/fbi-headquarters-maryland-reagan-building-f5a77411bf54f3e17beb9cd41fd046a8</id>
     <title>Judge blocks the Trump administration from moving FBI headquarters to DC office building</title>
-    <updated>2026-08-18T15:45:39.160809+00:00</updated>
+    <updated>2026-08-18T16:09:55.729301+00:00</updated>
     <link href="https://apnews.com/article/fbi-headquarters-maryland-reagan-building-f5a77411bf54f3e17beb9cd41fd046a8"/>
-    <published>2026-08-18T15:45:39.160809+00:00</published>
+    <published>2026-08-18T16:09:55.729301+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/trump-supreme-court-e-jean-carroll-defamation-769b731baf27199224c30af55cd0a149</id>
     <title>Supreme Court again rebuffs Trump’s push to toss out $5 million verdict in E. Jean Carroll case</title>
-    <updated>2026-08-18T15:46:39.160809+00:00</updated>
+    <updated>2026-08-18T16:10:55.729301+00:00</updated>
     <link href="https://apnews.com/article/trump-supreme-court-e-jean-carroll-defamation-769b731baf27199224c30af55cd0a149"/>
-    <published>2026-08-18T15:46:39.160809+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/luigi-mangione-unitedhealthcare-ceo-postponed-plea-09c039f61c62d2c0e8815ea0189f0522</id>
-    <title>Luigi Mangione’s state murder trial postponed indefinitely amid double jeopardy fight</title>
-    <updated>2026-08-18T15:47:39.160809+00:00</updated>
-    <link href="https://apnews.com/article/luigi-mangione-unitedhealthcare-ceo-postponed-plea-09c039f61c62d2c0e8815ea0189f0522"/>
-    <published>2026-08-18T15:47:39.160809+00:00</published>
+    <published>2026-08-18T16:10:55.729301+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/lindsay-clancy-postpartum-murder-trial-prosecution-5fa1e451f824009b35f8888702356aaa</id>
     <title>Mom and sister testify about Lindsay Clancy's declining mental state before she killed her children</title>
-    <updated>2026-08-18T15:48:39.160809+00:00</updated>
+    <updated>2026-08-18T16:11:55.729301+00:00</updated>
     <link href="https://apnews.com/article/lindsay-clancy-postpartum-murder-trial-prosecution-5fa1e451f824009b35f8888702356aaa"/>
-    <published>2026-08-18T15:48:39.160809+00:00</published>
+    <published>2026-08-18T16:11:55.729301+00:00</published>
+  </entry>
+  <entry>
+    <id>https://apnews.com/article/luigi-mangione-unitedhealthcare-ceo-postponed-plea-09c039f61c62d2c0e8815ea0189f0522</id>
+    <title>Luigi Mangione’s state murder trial postponed indefinitely amid double jeopardy fight</title>
+    <updated>2026-08-18T16:12:55.729301+00:00</updated>
+    <link href="https://apnews.com/article/luigi-mangione-unitedhealthcare-ceo-postponed-plea-09c039f61c62d2c0e8815ea0189f0522"/>
+    <published>2026-08-18T16:12:55.729301+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/israel-west-bank-palestinian-american-israeli-settlers-515e39a03c3e7cb00528c466bf106270</id>
     <title>Palestinian American returns to West Bank to defend his home under siege by Israeli settlers</title>
-    <updated>2026-08-18T15:49:39.160809+00:00</updated>
+    <updated>2026-08-18T16:13:55.729301+00:00</updated>
     <link href="https://apnews.com/article/israel-west-bank-palestinian-american-israeli-settlers-515e39a03c3e7cb00528c466bf106270"/>
-    <published>2026-08-18T15:49:39.160809+00:00</published>
+    <published>2026-08-18T16:13:55.729301+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/iran-us-israel-lebanon-gaza-hormuz-august-18-2026-9c48af23b713709e8e170191fbc78c2a</id>
-    <title>Trump says US has no planned talks with Iran and other news from the Middle East</title>
-    <updated>2026-08-18T15:50:39.160809+00:00</updated>
+    <title>Trump says US has no talks planned with Iran and other news from the Middle East</title>
+    <updated>2026-08-18T16:14:55.729301+00:00</updated>
     <link href="https://apnews.com/article/iran-us-israel-lebanon-gaza-hormuz-august-18-2026-9c48af23b713709e8e170191fbc78c2a"/>
-    <published>2026-08-18T15:50:39.160809+00:00</published>
+    <published>2026-08-18T16:14:55.729301+00:00</published>
   </entry>
 </feed>
