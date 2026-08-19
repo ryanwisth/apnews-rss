@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://apnews.com/politics</id>
   <title>AP Politics (unofficial)</title>
-  <updated>2026-08-19T11:55:38.318999+00:00</updated>
+  <updated>2026-08-19T12:43:03.146633+00:00</updated>
   <author>
     <name>AP News (scraped, unofficial)</name>
   </author>
@@ -11,213 +11,213 @@
   <generator>ap-rss scraper</generator>
   <subtitle>Unofficial RSS feed of AP Politics from apnews.com</subtitle>
   <entry>
-    <id>https://apnews.com/article/prescription-drug-prices-trump-mfn-cpi-75272c1a6eeac615014b3252971460da</id>
-    <title>Drug prices have declined sharply, and Trump is taking credit. The reason behind the drop is complex</title>
-    <updated>2026-08-19T11:26:38.319005+00:00</updated>
-    <link href="https://apnews.com/article/prescription-drug-prices-trump-mfn-cpi-75272c1a6eeac615014b3252971460da"/>
-    <published>2026-08-19T11:26:38.319005+00:00</published>
+    <id>https://apnews.com/article/cdc-programs-cuts-jobs-738f3f245f4cb68ff485c804af92832f</id>
+    <title>The CDC has zombie programs. Congress funds them, but few people are left to do the work</title>
+    <updated>2026-08-19T12:14:03.146640+00:00</updated>
+    <link href="https://apnews.com/article/cdc-programs-cuts-jobs-738f3f245f4cb68ff485c804af92832f"/>
+    <published>2026-08-19T12:14:03.146640+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/cancer-pilots-flight-attendants-247e445d23fd614fa424d0d5e70e188b</id>
     <title>Flight attendants and pilots have highest risk of dying from radiation-linked cancers, study says</title>
-    <updated>2026-08-19T11:27:38.319005+00:00</updated>
+    <updated>2026-08-19T12:15:03.146640+00:00</updated>
     <link href="https://apnews.com/article/cancer-pilots-flight-attendants-247e445d23fd614fa424d0d5e70e188b"/>
-    <published>2026-08-19T11:27:38.319005+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/cdc-programs-cuts-jobs-738f3f245f4cb68ff485c804af92832f</id>
-    <title>The CDC has zombie programs. Congress funds them, but few people are left to do the work</title>
-    <updated>2026-08-19T11:28:38.319005+00:00</updated>
-    <link href="https://apnews.com/article/cdc-programs-cuts-jobs-738f3f245f4cb68ff485c804af92832f"/>
-    <published>2026-08-19T11:28:38.319005+00:00</published>
+    <published>2026-08-19T12:15:03.146640+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/us-sued-deep-sea-mining-earthjustice-american-samoa-ca8adde08a645e0471a017e98c645836</id>
     <title>Nonprofit sues over US push to auction areas of water around American Samoa for potential mining</title>
-    <updated>2026-08-19T11:29:38.319005+00:00</updated>
+    <updated>2026-08-19T12:16:03.146640+00:00</updated>
     <link href="https://apnews.com/article/us-sued-deep-sea-mining-earthjustice-american-samoa-ca8adde08a645e0471a017e98c645836"/>
-    <published>2026-08-19T11:29:38.319005+00:00</published>
+    <published>2026-08-19T12:16:03.146640+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/roadless-rule-forests-trump-e80a41e0231aa070313a3484261368f3</id>
     <title>Trump administration moves ahead to end roadless rule on national forests</title>
-    <updated>2026-08-19T11:30:38.319005+00:00</updated>
+    <updated>2026-08-19T12:17:03.146640+00:00</updated>
     <link href="https://apnews.com/article/roadless-rule-forests-trump-e80a41e0231aa070313a3484261368f3"/>
-    <published>2026-08-19T11:30:38.319005+00:00</published>
+    <published>2026-08-19T12:17:03.146640+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/one-photo-0000019e7027d80eaffffa377acf0000</id>
     <title>At the Kaaba during Hajj, a photographer captures sense of unity and devotion</title>
-    <updated>2026-08-19T11:31:38.319005+00:00</updated>
+    <updated>2026-08-19T12:18:03.146640+00:00</updated>
     <link href="https://apnews.com/article/one-photo-0000019e7027d80eaffffa377acf0000"/>
-    <published>2026-08-19T11:31:38.319005+00:00</published>
+    <published>2026-08-19T12:18:03.146640+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/one-photo-000001a001a0d3b9abfef5ef1dce0000</id>
     <title>Diving into the blue sky, watched by the Eiffel Tower</title>
-    <updated>2026-08-19T11:32:38.319005+00:00</updated>
+    <updated>2026-08-19T12:19:03.146640+00:00</updated>
     <link href="https://apnews.com/article/one-photo-000001a001a0d3b9abfef5ef1dce0000"/>
-    <published>2026-08-19T11:32:38.319005+00:00</published>
+    <published>2026-08-19T12:19:03.146640+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/brain-games-dementia-alzheimers-cognition-e4ceb3b4dda84977083d1fc9fbb25ba7</id>
     <title>Challenging your brain helps keep it healthy. Here's how to do it</title>
-    <updated>2026-08-19T11:33:38.319005+00:00</updated>
+    <updated>2026-08-19T12:20:03.146640+00:00</updated>
     <link href="https://apnews.com/article/brain-games-dementia-alzheimers-cognition-e4ceb3b4dda84977083d1fc9fbb25ba7"/>
-    <published>2026-08-19T11:33:38.319005+00:00</published>
+    <published>2026-08-19T12:20:03.146640+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/healthy-heart-sleep-night-owls-circadian-rhythm-0c520492f5d6fc08c412053419e913f9</id>
     <title>Being a night owl may not be great for your heart but you can do something about it</title>
-    <updated>2026-08-19T11:34:38.319005+00:00</updated>
+    <updated>2026-08-19T12:21:03.146640+00:00</updated>
     <link href="https://apnews.com/article/healthy-heart-sleep-night-owls-circadian-rhythm-0c520492f5d6fc08c412053419e913f9"/>
-    <published>2026-08-19T11:34:38.319005+00:00</published>
+    <published>2026-08-19T12:21:03.146640+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/weather-heat-wave-clothing-fabrics-cooling-a15bf647a164d557500c873dab6ee7f0</id>
     <title>The best fabric for extreme heat? It's more complicated than you think</title>
-    <updated>2026-08-19T11:35:38.319005+00:00</updated>
+    <updated>2026-08-19T12:22:03.146640+00:00</updated>
     <link href="https://apnews.com/article/weather-heat-wave-clothing-fabrics-cooling-a15bf647a164d557500c873dab6ee7f0"/>
-    <published>2026-08-19T11:35:38.319005+00:00</published>
+    <published>2026-08-19T12:22:03.146640+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/chile-kayaking-tourism-whale-b0cafde4b640326f20a9da28003d6c26</id>
     <title>A humpback whale briefly swallows kayaker in Chilean Patagonia — and it's all captured on camera</title>
-    <updated>2026-08-19T11:36:38.319005+00:00</updated>
+    <updated>2026-08-19T12:23:03.146640+00:00</updated>
     <link href="https://apnews.com/article/chile-kayaking-tourism-whale-b0cafde4b640326f20a9da28003d6c26"/>
-    <published>2026-08-19T11:36:38.319005+00:00</published>
+    <published>2026-08-19T12:23:03.146640+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/switzerland-lausanne-speeding-ticket-edd115a3916250c7809d1bb338a33663</id>
     <title>A driver faces up to $110,000 in fines for speeding on a Swiss street. But he can afford it</title>
-    <updated>2026-08-19T11:37:38.319005+00:00</updated>
+    <updated>2026-08-19T12:24:03.146640+00:00</updated>
     <link href="https://apnews.com/article/switzerland-lausanne-speeding-ticket-edd115a3916250c7809d1bb338a33663"/>
-    <published>2026-08-19T11:37:38.319005+00:00</published>
+    <published>2026-08-19T12:24:03.146640+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/bridegrooms-oak-germany-love-letters-e362a5297314989d3e8f0008467f1f4f</id>
     <title>Timber over Tinder: Bridegroom's Oak in a German forest has connected lovers for over a century</title>
-    <updated>2026-08-19T11:38:38.319005+00:00</updated>
+    <updated>2026-08-19T12:25:03.146640+00:00</updated>
     <link href="https://apnews.com/article/bridegrooms-oak-germany-love-letters-e362a5297314989d3e8f0008467f1f4f"/>
-    <published>2026-08-19T11:38:38.319005+00:00</published>
+    <published>2026-08-19T12:25:03.146640+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/minnesota-where-is-big-pencil-sharpening-13bdada274a6beeb7327ebefbee639d9</id>
     <title>Why a Minneapolis neighborhood sharpens a giant pencil every year</title>
-    <updated>2026-08-19T11:39:38.319005+00:00</updated>
+    <updated>2026-08-19T12:26:03.146640+00:00</updated>
     <link href="https://apnews.com/article/minnesota-where-is-big-pencil-sharpening-13bdada274a6beeb7327ebefbee639d9"/>
-    <published>2026-08-19T11:39:38.319005+00:00</published>
+    <published>2026-08-19T12:26:03.146640+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/2025-words-slang-phrases-list-university-67-59f896e28b7b16edfdfcc453a8af388a</id>
     <title>Viral '6-7' tops 2025 list of overused words and phrases</title>
-    <updated>2026-08-19T11:40:38.319005+00:00</updated>
+    <updated>2026-08-19T12:27:03.146640+00:00</updated>
     <link href="https://apnews.com/article/2025-words-slang-phrases-list-university-67-59f896e28b7b16edfdfcc453a8af388a"/>
-    <published>2026-08-19T11:40:38.319005+00:00</published>
+    <published>2026-08-19T12:27:03.146640+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/brazil-capybaras-lawmakers-herd-fec574aa45b80b76d4993f8eda86d94b</id>
     <title>Capybaras keep their chill while crashing Brazilian legislature</title>
-    <updated>2026-08-19T11:41:38.319005+00:00</updated>
+    <updated>2026-08-19T12:28:03.146640+00:00</updated>
     <link href="https://apnews.com/article/brazil-capybaras-lawmakers-herd-fec574aa45b80b76d4993f8eda86d94b"/>
-    <published>2026-08-19T11:41:38.319005+00:00</published>
+    <published>2026-08-19T12:28:03.146640+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/spacex-rocket-moon-crash-crater-52b76d61289c06b7d32348b082a8e6b8</id>
     <title>Before-and-after NASA images show crater carved by a SpaceX rocket that slammed into the moon</title>
-    <updated>2026-08-19T11:42:38.319005+00:00</updated>
+    <updated>2026-08-19T12:29:03.146640+00:00</updated>
     <link href="https://apnews.com/article/spacex-rocket-moon-crash-crater-52b76d61289c06b7d32348b082a8e6b8"/>
-    <published>2026-08-19T11:42:38.319005+00:00</published>
+    <published>2026-08-19T12:29:03.146640+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/openai-chatgpt-teens-ai-safety-650cb35591de6546054d6c4e73b3290a</id>
     <title>OpenAI introduces ChatGPT for Teens, promising a more age-appropriate chatbot</title>
-    <updated>2026-08-19T11:43:38.319005+00:00</updated>
+    <updated>2026-08-19T12:30:03.146640+00:00</updated>
     <link href="https://apnews.com/article/openai-chatgpt-teens-ai-safety-650cb35591de6546054d6c4e73b3290a"/>
-    <published>2026-08-19T11:43:38.319005+00:00</published>
+    <published>2026-08-19T12:30:03.146640+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/2026-mtv-vma-nominations-e9ac1be3adfd613c3bc348e83543832e</id>
     <title>Madonna leads 2026 MTV Video Music Awards nominations, followed by Taylor Swift</title>
-    <updated>2026-08-19T11:44:38.319005+00:00</updated>
+    <updated>2026-08-19T12:31:03.146640+00:00</updated>
     <link href="https://apnews.com/article/2026-mtv-vma-nominations-e9ac1be3adfd613c3bc348e83543832e"/>
-    <published>2026-08-19T11:44:38.319005+00:00</published>
+    <published>2026-08-19T12:31:03.146640+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/hayden-panettiere-police-report-brian-hickerson-e4f24b524926a7ff419b84f3d05810ea</id>
     <title>Hayden Panettiere's on-and-off boyfriend was at apartment where she died, police report says</title>
-    <updated>2026-08-19T11:45:38.319005+00:00</updated>
+    <updated>2026-08-19T12:32:03.146640+00:00</updated>
     <link href="https://apnews.com/article/hayden-panettiere-police-report-brian-hickerson-e4f24b524926a7ff419b84f3d05810ea"/>
-    <published>2026-08-19T11:45:38.319005+00:00</published>
+    <published>2026-08-19T12:32:03.146640+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/frank-beard-died-zz-top-obit-72139238d1dbf3d277bdb3b8584eecc9</id>
     <title>Frank Beard, drummer of boogie-rock trio ZZ Top, dies at 77</title>
-    <updated>2026-08-19T11:46:38.319005+00:00</updated>
+    <updated>2026-08-19T12:33:03.146640+00:00</updated>
     <link href="https://apnews.com/article/frank-beard-died-zz-top-obit-72139238d1dbf3d277bdb3b8584eecc9"/>
-    <published>2026-08-19T11:46:38.319005+00:00</published>
+    <published>2026-08-19T12:33:03.146640+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/ap-preseason-allamerica-6f7447d5ca254b3795dce5ad9564bcc3</id>
     <title>Texas puts 4 players on preseason AP All-America team; 14 of the 27 first-team picks are from SEC</title>
-    <updated>2026-08-19T11:47:38.319005+00:00</updated>
+    <updated>2026-08-19T12:34:03.146640+00:00</updated>
     <link href="https://apnews.com/article/ap-preseason-allamerica-6f7447d5ca254b3795dce5ad9564bcc3"/>
-    <published>2026-08-19T11:47:38.319005+00:00</published>
+    <published>2026-08-19T12:34:03.146640+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/ketel-marte-arizona-diamondbacks-2ddd5cf0bf2d54e9b0cd22e56c9f9481</id>
     <title>D-backs manager Lovullo: Marte returns to Phoenix for knee testing, hopeful he can play again in '26</title>
-    <updated>2026-08-19T11:48:38.319005+00:00</updated>
+    <updated>2026-08-19T12:35:03.146640+00:00</updated>
     <link href="https://apnews.com/article/ketel-marte-arizona-diamondbacks-2ddd5cf0bf2d54e9b0cd22e56c9f9481"/>
-    <published>2026-08-19T11:48:38.319005+00:00</published>
+    <published>2026-08-19T12:35:03.146640+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/bill-rasmussen-dead-espn-founder-8c559f6ee4b88536836f14a5ee9eedb6</id>
     <title>ESPN co-founder Bill Rasmussen dies at 93 from the effects of Parkinson’s disease</title>
-    <updated>2026-08-19T11:49:38.319005+00:00</updated>
+    <updated>2026-08-19T12:36:03.146640+00:00</updated>
     <link href="https://apnews.com/article/bill-rasmussen-dead-espn-founder-8c559f6ee4b88536836f14a5ee9eedb6"/>
-    <published>2026-08-19T11:49:38.319005+00:00</published>
+    <published>2026-08-19T12:36:03.146640+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/slotkin-hegseth-military-midterm-elections-trump-f1f7d71f7874eecc08db52e80a715bcb</id>
     <title>Senator presses Hegseth, Caine for commitment to keep US military out of the midterm elections</title>
-    <updated>2026-08-19T11:50:38.319005+00:00</updated>
+    <updated>2026-08-19T12:37:03.146640+00:00</updated>
     <link href="https://apnews.com/article/slotkin-hegseth-military-midterm-elections-trump-f1f7d71f7874eecc08db52e80a715bcb"/>
-    <published>2026-08-19T11:50:38.319005+00:00</published>
+    <published>2026-08-19T12:37:03.146640+00:00</published>
+  </entry>
+  <entry>
+    <id>https://apnews.com/article/penn-state-fraternity-frat-house-drug-ring-cocaine-f78b51c445a680ffa260337e3500e5aa</id>
+    <title>Penn State frat pledges were made to cut and bag cocaine for college drug ring, authorities say</title>
+    <updated>2026-08-19T12:38:03.146640+00:00</updated>
+    <link href="https://apnews.com/article/penn-state-fraternity-frat-house-drug-ring-cocaine-f78b51c445a680ffa260337e3500e5aa"/>
+    <published>2026-08-19T12:38:03.146640+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/coronavirus-origins-guilty-plea-fauci-morens-f0a02a0c5dc8e7ae81cd992292c89884</id>
     <title>Ex-Fauci adviser pleads guilty to plotting to conceal COVID-19 research records during pandemic</title>
-    <updated>2026-08-19T11:51:38.319005+00:00</updated>
+    <updated>2026-08-19T12:39:03.146640+00:00</updated>
     <link href="https://apnews.com/article/coronavirus-origins-guilty-plea-fauci-morens-f0a02a0c5dc8e7ae81cd992292c89884"/>
-    <published>2026-08-19T11:51:38.319005+00:00</published>
+    <published>2026-08-19T12:39:03.146640+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/lindsay-clancy-murder-trial-301ed728e868ec398ee06864ea27b3f6</id>
     <title>Lindsay Clancy was ‘begging for help’ before killing her children, former mother-in-law testifies</title>
-    <updated>2026-08-19T11:52:38.319005+00:00</updated>
+    <updated>2026-08-19T12:40:03.146640+00:00</updated>
     <link href="https://apnews.com/article/lindsay-clancy-murder-trial-301ed728e868ec398ee06864ea27b3f6"/>
-    <published>2026-08-19T11:52:38.319005+00:00</published>
+    <published>2026-08-19T12:40:03.146640+00:00</published>
+  </entry>
+  <entry>
+    <id>https://apnews.com/article/mideast-oman-explainer-trump-threat-iran-097224f5a65b66d7fa3dab4862b5a45e</id>
+    <title>Trump is threatening to bomb Oman, but why?</title>
+    <updated>2026-08-19T12:41:03.146640+00:00</updated>
+    <link href="https://apnews.com/article/mideast-oman-explainer-trump-threat-iran-097224f5a65b66d7fa3dab4862b5a45e"/>
+    <published>2026-08-19T12:41:03.146640+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/oman-iran-war-us-hormuz-a8298715a51159225d2f37a6d50ce682</id>
     <title>Trump threatened to bomb Oman because he's unhappy with country's deal with Iran, officials say</title>
-    <updated>2026-08-19T11:53:38.319005+00:00</updated>
+    <updated>2026-08-19T12:42:03.146640+00:00</updated>
     <link href="https://apnews.com/article/oman-iran-war-us-hormuz-a8298715a51159225d2f37a6d50ce682"/>
-    <published>2026-08-19T11:53:38.319005+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/iran-us-israel-lebanon-gaza-hormuz-august-18-2026-9c48af23b713709e8e170191fbc78c2a</id>
-    <title>Trump says US has no talks planned with Iran and other news from the Middle East</title>
-    <updated>2026-08-19T11:54:38.319005+00:00</updated>
-    <link href="https://apnews.com/article/iran-us-israel-lebanon-gaza-hormuz-august-18-2026-9c48af23b713709e8e170191fbc78c2a"/>
-    <published>2026-08-19T11:54:38.319005+00:00</published>
+    <published>2026-08-19T12:42:03.146640+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/russia-ukraine-war-drone-attack-moscow-5f1f84bfb064942d7b7fe9be1bd4693c</id>
     <title>The Moscow region is hit by a drone blitz as Russian missiles kill 10 in a Ukrainian village</title>
-    <updated>2026-08-19T11:55:38.319005+00:00</updated>
+    <updated>2026-08-19T12:43:03.146640+00:00</updated>
     <link href="https://apnews.com/article/russia-ukraine-war-drone-attack-moscow-5f1f84bfb064942d7b7fe9be1bd4693c"/>
-    <published>2026-08-19T11:55:38.319005+00:00</published>
+    <published>2026-08-19T12:43:03.146640+00:00</published>
   </entry>
 </feed>
