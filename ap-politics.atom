@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://apnews.com/politics</id>
   <title>AP Politics (unofficial)</title>
-  <updated>2026-08-20T21:46:57.346663+00:00</updated>
+  <updated>2026-08-20T22:09:36.435534+00:00</updated>
   <author>
     <name>AP News (scraped, unofficial)</name>
   </author>
@@ -11,213 +11,213 @@
   <generator>ap-rss scraper</generator>
   <subtitle>Unofficial RSS feed of AP Politics from apnews.com</subtitle>
   <entry>
+    <id>https://apnews.com/article/switzerland-lausanne-speeding-ticket-edd115a3916250c7809d1bb338a33663</id>
+    <title>A driver faces up to $110,000 in fines for speeding on a Swiss street. But he can afford it</title>
+    <updated>2026-08-20T21:40:36.435545+00:00</updated>
+    <link href="https://apnews.com/article/switzerland-lausanne-speeding-ticket-edd115a3916250c7809d1bb338a33663"/>
+    <published>2026-08-20T21:40:36.435545+00:00</published>
+  </entry>
+  <entry>
     <id>https://apnews.com/article/chile-kayaking-tourism-whale-b0cafde4b640326f20a9da28003d6c26</id>
     <title>A humpback whale briefly swallows kayaker in Chilean Patagonia — and it's all captured on camera</title>
-    <updated>2026-08-20T21:17:57.346668+00:00</updated>
+    <updated>2026-08-20T21:41:36.435545+00:00</updated>
     <link href="https://apnews.com/article/chile-kayaking-tourism-whale-b0cafde4b640326f20a9da28003d6c26"/>
-    <published>2026-08-20T21:17:57.346668+00:00</published>
+    <published>2026-08-20T21:41:36.435545+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/2025-words-slang-phrases-list-university-67-59f896e28b7b16edfdfcc453a8af388a</id>
     <title>Viral '6-7' tops 2025 list of overused words and phrases</title>
-    <updated>2026-08-20T21:18:57.346668+00:00</updated>
+    <updated>2026-08-20T21:42:36.435545+00:00</updated>
     <link href="https://apnews.com/article/2025-words-slang-phrases-list-university-67-59f896e28b7b16edfdfcc453a8af388a"/>
-    <published>2026-08-20T21:18:57.346668+00:00</published>
+    <published>2026-08-20T21:42:36.435545+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/argentina-teenagers-identifying-as-animals-therians-tiktok-54d158c4842f6515e31d83a260cdf31f</id>
     <title>Viral phenomenon in Argentina has young people identifying themselves as animals</title>
-    <updated>2026-08-20T21:19:57.346668+00:00</updated>
+    <updated>2026-08-20T21:43:36.435545+00:00</updated>
     <link href="https://apnews.com/article/argentina-teenagers-identifying-as-animals-therians-tiktok-54d158c4842f6515e31d83a260cdf31f"/>
-    <published>2026-08-20T21:19:57.346668+00:00</published>
+    <published>2026-08-20T21:43:36.435545+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/brazil-capybaras-lawmakers-herd-fec574aa45b80b76d4993f8eda86d94b</id>
     <title>Capybaras keep their chill while crashing Brazilian legislature</title>
-    <updated>2026-08-20T21:20:57.346668+00:00</updated>
+    <updated>2026-08-20T21:44:36.435545+00:00</updated>
     <link href="https://apnews.com/article/brazil-capybaras-lawmakers-herd-fec574aa45b80b76d4993f8eda86d94b"/>
-    <published>2026-08-20T21:20:57.346668+00:00</published>
+    <published>2026-08-20T21:44:36.435545+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/trump-economy-manufacturing-stock-market-exports-46db858b929bfc4f4c203ed191166121</id>
     <title>FACT FOCUS:  Trump boasts about the economy but there's more to the story</title>
-    <updated>2026-08-20T21:21:57.346668+00:00</updated>
+    <updated>2026-08-20T21:45:36.435545+00:00</updated>
     <link href="https://apnews.com/article/trump-economy-manufacturing-stock-market-exports-46db858b929bfc4f4c203ed191166121"/>
-    <published>2026-08-20T21:21:57.346668+00:00</published>
+    <published>2026-08-20T21:45:36.435545+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/fact-check-trump-vaccines-schedule-executive-order-autism-287503e351b38ec01ac7377eadbc22c4</id>
     <title>FACT FOCUS:  Trump makes false claims as he signs order urging revisions around childhood vaccines</title>
-    <updated>2026-08-20T21:22:57.346668+00:00</updated>
+    <updated>2026-08-20T21:46:36.435545+00:00</updated>
     <link href="https://apnews.com/article/fact-check-trump-vaccines-schedule-executive-order-autism-287503e351b38ec01ac7377eadbc22c4"/>
-    <published>2026-08-20T21:22:57.346668+00:00</published>
+    <published>2026-08-20T21:46:36.435545+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/trump-iran-strait-of-hormuz-8df557699c900b29fb33172e6da7f3e9</id>
     <title>FACT FOCUS: A look at US and Iranian claims of control over the Strait of Hormuz</title>
-    <updated>2026-08-20T21:23:57.346668+00:00</updated>
+    <updated>2026-08-20T21:47:36.435545+00:00</updated>
     <link href="https://apnews.com/article/trump-iran-strait-of-hormuz-8df557699c900b29fb33172e6da7f3e9"/>
-    <published>2026-08-20T21:23:57.346668+00:00</published>
+    <published>2026-08-20T21:47:36.435545+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/archive-fact-checking-9233643423</id>
     <title>False claim of human meat in McDonald’s factories stems from old hoax</title>
-    <updated>2026-08-20T21:24:57.346668+00:00</updated>
+    <updated>2026-08-20T21:48:36.435545+00:00</updated>
     <link href="https://apnews.com/article/archive-fact-checking-9233643423"/>
-    <published>2026-08-20T21:24:57.346668+00:00</published>
+    <published>2026-08-20T21:48:36.435545+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/fact-check-george-floyd-autopsy-new-892530421961</id>
     <title>George Floyd’s autopsy report is not new, does not say he died of an overdose</title>
-    <updated>2026-08-20T21:25:57.346668+00:00</updated>
+    <updated>2026-08-20T21:49:36.435545+00:00</updated>
     <link href="https://apnews.com/article/fact-check-george-floyd-autopsy-new-892530421961"/>
-    <published>2026-08-20T21:25:57.346668+00:00</published>
+    <published>2026-08-20T21:49:36.435545+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/italy-parmigiano-reggiano-cheese-extreme-heat-bank-e077ee7f9b93f2b7a50364e25387a991</id>
     <title>FACT FOCUS: Social media falsely claims heat wave threatens Parmigiano Reggiano cheese and bank</title>
-    <updated>2026-08-20T21:26:57.346668+00:00</updated>
+    <updated>2026-08-20T21:50:36.435545+00:00</updated>
     <link href="https://apnews.com/article/italy-parmigiano-reggiano-cheese-extreme-heat-bank-e077ee7f9b93f2b7a50364e25387a991"/>
-    <published>2026-08-20T21:26:57.346668+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/nasa-astronauts-space-station-eclipse-a7dc68c9f0598e39be7513a7a4c8591b</id>
-    <title>What beats seeing eclipses from space? Try the northern and southern lights</title>
-    <updated>2026-08-20T21:27:57.346668+00:00</updated>
-    <link href="https://apnews.com/article/nasa-astronauts-space-station-eclipse-a7dc68c9f0598e39be7513a7a4c8591b"/>
-    <published>2026-08-20T21:27:57.346668+00:00</published>
+    <published>2026-08-20T21:50:36.435545+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/swift-telescope-nasa-satellite-rescue-800bfbe5aaba5fec9aadd20bdcc138a5</id>
     <title>Rescue mission is called off for NASA's aging Swift space telescope</title>
-    <updated>2026-08-20T21:28:57.346668+00:00</updated>
+    <updated>2026-08-20T21:51:36.435545+00:00</updated>
     <link href="https://apnews.com/article/swift-telescope-nasa-satellite-rescue-800bfbe5aaba5fec9aadd20bdcc138a5"/>
-    <published>2026-08-20T21:28:57.346668+00:00</published>
+    <published>2026-08-20T21:51:36.435545+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/walmart-quarter-earnings-inflation-tariffs-955945e03ffcc111389d62fa3103a051</id>
     <title>Walmart is cautious with expectations after slowest sales growth in 6 years</title>
-    <updated>2026-08-20T21:29:57.346668+00:00</updated>
+    <updated>2026-08-20T21:52:36.435545+00:00</updated>
     <link href="https://apnews.com/article/walmart-quarter-earnings-inflation-tariffs-955945e03ffcc111389d62fa3103a051"/>
-    <published>2026-08-20T21:29:57.346668+00:00</published>
+    <published>2026-08-20T21:52:36.435545+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/stocks-markets-bonds-oil-trump-futures-1dcf7c9c3cc490b82b2632302628c46b</id>
     <title>The bond market swings back to worries and knocks US stocks lower</title>
-    <updated>2026-08-20T21:30:57.346668+00:00</updated>
+    <updated>2026-08-20T21:53:36.435545+00:00</updated>
     <link href="https://apnews.com/article/stocks-markets-bonds-oil-trump-futures-1dcf7c9c3cc490b82b2632302628c46b"/>
-    <published>2026-08-20T21:30:57.346668+00:00</published>
+    <published>2026-08-20T21:53:36.435545+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/bond-market-yields-treasury-bessent-bd0cead63ff1b7f2e99d4c8cce0a28d3</id>
     <title>An alarmed bond market gets the Trump administration to act again</title>
-    <updated>2026-08-20T21:31:57.346668+00:00</updated>
+    <updated>2026-08-20T21:54:36.435545+00:00</updated>
     <link href="https://apnews.com/article/bond-market-yields-treasury-bessent-bd0cead63ff1b7f2e99d4c8cce0a28d3"/>
-    <published>2026-08-20T21:31:57.346668+00:00</published>
+    <published>2026-08-20T21:54:36.435545+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/2026-mtv-vma-nominations-e9ac1be3adfd613c3bc348e83543832e</id>
     <title>Madonna leads 2026 MTV Video Music Awards nominations, followed by Taylor Swift</title>
-    <updated>2026-08-20T21:32:57.346668+00:00</updated>
+    <updated>2026-08-20T21:55:36.435545+00:00</updated>
     <link href="https://apnews.com/article/2026-mtv-vma-nominations-e9ac1be3adfd613c3bc348e83543832e"/>
-    <published>2026-08-20T21:32:57.346668+00:00</published>
+    <published>2026-08-20T21:55:36.435545+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/celebrity-birthdays-late-june-ariana-grande-f12d48a0c8aefea2319abce271c7d3bb</id>
     <title>Celebrity birthdays for the week of June 25-July 1</title>
-    <updated>2026-08-20T21:33:57.346668+00:00</updated>
+    <updated>2026-08-20T21:56:36.435545+00:00</updated>
     <link href="https://apnews.com/article/celebrity-birthdays-late-june-ariana-grande-f12d48a0c8aefea2319abce271c7d3bb"/>
-    <published>2026-08-20T21:33:57.346668+00:00</published>
+    <published>2026-08-20T21:56:36.435545+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/frank-beard-died-zz-top-obit-72139238d1dbf3d277bdb3b8584eecc9</id>
     <title>Frank Beard, drummer of boogie-rock trio ZZ Top, dies at 77</title>
-    <updated>2026-08-20T21:34:57.346668+00:00</updated>
+    <updated>2026-08-20T21:57:36.435545+00:00</updated>
     <link href="https://apnews.com/article/frank-beard-died-zz-top-obit-72139238d1dbf3d277bdb3b8584eecc9"/>
-    <published>2026-08-20T21:34:57.346668+00:00</published>
+    <published>2026-08-20T21:57:36.435545+00:00</published>
   </entry>
   <entry>
-    <id>https://apnews.com/article/liv-golf-mcilroy-scheffler-oneil-pga-tour-f1804609e7b4d4137837ca955e624628</id>
-    <title>Rory McIlroy questions what value Rahm and DeChambeau have brought to LIV</title>
-    <updated>2026-08-20T21:35:57.346668+00:00</updated>
-    <link href="https://apnews.com/article/liv-golf-mcilroy-scheffler-oneil-pga-tour-f1804609e7b4d4137837ca955e624628"/>
-    <published>2026-08-20T21:35:57.346668+00:00</published>
+    <id>https://apnews.com/article/verstappen-f1-red-bull-contract-b45d265b469b541184cf8579d808a43c</id>
+    <title>Max Verstappen extends contract with Red Bull to 2030 after he weighed up leaving F1</title>
+    <updated>2026-08-20T21:58:36.435545+00:00</updated>
+    <link href="https://apnews.com/article/verstappen-f1-red-bull-contract-b45d265b469b541184cf8579d808a43c"/>
+    <published>2026-08-20T21:58:36.435545+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/fifa-infantino-fans-petition-resign-aa25d658091045debb190e13e9bb5140</id>
     <title>Soccer fans launch global petition urging FIFA boss Infantino to resign over World Cup 'betrayal'</title>
-    <updated>2026-08-20T21:36:57.346668+00:00</updated>
+    <updated>2026-08-20T21:59:36.435545+00:00</updated>
     <link href="https://apnews.com/article/fifa-infantino-fans-petition-resign-aa25d658091045debb190e13e9bb5140"/>
-    <published>2026-08-20T21:36:57.346668+00:00</published>
+    <published>2026-08-20T21:59:36.435545+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/deion-sanders-colorado-serve-papers-9aa40d7be2a3428394d5985bc8f7b141</id>
     <title>Deputy tried to serve civil papers to Deion Sanders at Colorado practice, but coach was unavailable</title>
-    <updated>2026-08-20T21:37:57.346668+00:00</updated>
+    <updated>2026-08-20T22:00:36.435545+00:00</updated>
     <link href="https://apnews.com/article/deion-sanders-colorado-serve-papers-9aa40d7be2a3428394d5985bc8f7b141"/>
-    <published>2026-08-20T21:37:57.346668+00:00</published>
+    <published>2026-08-20T22:00:36.435545+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/stars-stripes-pentagon-publisher-retire-journalism-policy-ae5277e248f51d10dfcb49d7796e7d2f</id>
     <title>Longtime publisher of Stars and Stripes to retire, citing differences with Pentagon leadership</title>
-    <updated>2026-08-20T21:38:57.346668+00:00</updated>
+    <updated>2026-08-20T22:01:36.435545+00:00</updated>
     <link href="https://apnews.com/article/stars-stripes-pentagon-publisher-retire-journalism-policy-ae5277e248f51d10dfcb49d7796e7d2f"/>
-    <published>2026-08-20T21:38:57.346668+00:00</published>
+    <published>2026-08-20T22:01:36.435545+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/eric-swalwell-sexual-misconduct-investigation-congress-4615d9309781afd72fc2cd3fb7d7c121</id>
     <title>Federal agents seize devices from ex-Rep. Eric Swalwell in sexual misconduct probe, AP source says</title>
-    <updated>2026-08-20T21:39:57.346668+00:00</updated>
+    <updated>2026-08-20T22:02:36.435545+00:00</updated>
     <link href="https://apnews.com/article/eric-swalwell-sexual-misconduct-investigation-congress-4615d9309781afd72fc2cd3fb7d7c121"/>
-    <published>2026-08-20T21:39:57.346668+00:00</published>
+    <published>2026-08-20T22:02:36.435545+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/treasury-national-debt-limit-a27a8d3651ff810b25c610d3e1b6259d</id>
     <title>The US national debt now stands at $40 trillion</title>
-    <updated>2026-08-20T21:40:57.346668+00:00</updated>
+    <updated>2026-08-20T22:03:36.435545+00:00</updated>
     <link href="https://apnews.com/article/treasury-national-debt-limit-a27a8d3651ff810b25c610d3e1b6259d"/>
-    <published>2026-08-20T21:40:57.346668+00:00</published>
+    <published>2026-08-20T22:03:36.435545+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/lindsay-clancy-postpartum-supporters-murder-trial-9ae86dc05b44c78722a47915320e0606</id>
     <title>Women in pink rally in support of Lindsay Clancy at her trial for killing her 3 children</title>
-    <updated>2026-08-20T21:41:57.346668+00:00</updated>
+    <updated>2026-08-20T22:04:36.435545+00:00</updated>
     <link href="https://apnews.com/article/lindsay-clancy-postpartum-supporters-murder-trial-9ae86dc05b44c78722a47915320e0606"/>
-    <published>2026-08-20T21:41:57.346668+00:00</published>
+    <published>2026-08-20T22:04:36.435545+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/lindsay-clancy-murder-trial-psychologist-fbf384080f82998939dc76a75ca6ba7d</id>
     <title>Psychologist testifies Lindsay Clancy was not criminally responsible in killing of her 3 children</title>
-    <updated>2026-08-20T21:42:57.346668+00:00</updated>
+    <updated>2026-08-20T22:05:36.435545+00:00</updated>
     <link href="https://apnews.com/article/lindsay-clancy-murder-trial-psychologist-fbf384080f82998939dc76a75ca6ba7d"/>
-    <published>2026-08-20T21:42:57.346668+00:00</published>
+    <published>2026-08-20T22:05:36.435545+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/vandenberg-space-force-base-california-journalists-detained-4815c999cbcb9ea60c918429c0e0ade4</id>
     <title>Invited media and military members held at gunpoint at Space Force base in California</title>
-    <updated>2026-08-20T21:43:57.346668+00:00</updated>
+    <updated>2026-08-20T22:06:36.435545+00:00</updated>
     <link href="https://apnews.com/article/vandenberg-space-force-base-california-journalists-detained-4815c999cbcb9ea60c918429c0e0ade4"/>
-    <published>2026-08-20T21:43:57.346668+00:00</published>
+    <published>2026-08-20T22:06:36.435545+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/prince-harry-meghan-return-to-uk-britain-charles-rift-4b9be684607218af3490fb984e4a409c</id>
     <title>What to know about Prince Harry's move back to Britain with Meghan and the kids</title>
-    <updated>2026-08-20T21:44:57.346668+00:00</updated>
+    <updated>2026-08-20T22:07:36.435545+00:00</updated>
     <link href="https://apnews.com/article/prince-harry-meghan-return-to-uk-britain-charles-rift-4b9be684607218af3490fb984e4a409c"/>
-    <published>2026-08-20T21:44:57.346668+00:00</published>
+    <published>2026-08-20T22:07:36.435545+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/south-north-korea-projectile-launch-military-exercises-b3af05067e4258f90f67023c7b2b3e9a</id>
     <title>North Korea fires barrage of missiles toward the sea after dismissing overture from Trump</title>
-    <updated>2026-08-20T21:45:57.346668+00:00</updated>
+    <updated>2026-08-20T22:08:36.435545+00:00</updated>
     <link href="https://apnews.com/article/south-north-korea-projectile-launch-military-exercises-b3af05067e4258f90f67023c7b2b3e9a"/>
-    <published>2026-08-20T21:45:57.346668+00:00</published>
+    <published>2026-08-20T22:08:36.435545+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/prince-harry-meghan-lilibet-archie-2a26920acb7ed33bb590654bfd57702b</id>
     <title>Prince Harry and Meghan are returning to the UK with their children</title>
-    <updated>2026-08-20T21:46:57.346668+00:00</updated>
+    <updated>2026-08-20T22:09:36.435545+00:00</updated>
     <link href="https://apnews.com/article/prince-harry-meghan-lilibet-archie-2a26920acb7ed33bb590654bfd57702b"/>
-    <published>2026-08-20T21:46:57.346668+00:00</published>
+    <published>2026-08-20T22:09:36.435545+00:00</published>
   </entry>
 </feed>
