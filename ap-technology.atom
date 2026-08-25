@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://apnews.com/technology</id>
   <title>AP Technology (unofficial)</title>
-  <updated>2026-08-25T18:52:05.568465+00:00</updated>
+  <updated>2026-08-25T19:22:19.884142+00:00</updated>
   <author>
     <name>AP News (scraped, unofficial)</name>
   </author>
@@ -11,213 +11,213 @@
   <generator>ap-rss scraper</generator>
   <subtitle>Unofficial RSS feed of AP Technology from apnews.com</subtitle>
   <entry>
+    <id>https://apnews.com/article/employer-surveillance-bossware-tracking-workplace-7d61e74242b872457bbfcf2223f9ebd5</id>
+    <title>As workplace surveillance grows, experts say it's good to know the ways your employer is watching</title>
+    <updated>2026-08-25T18:53:19.884149+00:00</updated>
+    <link href="https://apnews.com/article/employer-surveillance-bossware-tracking-workplace-7d61e74242b872457bbfcf2223f9ebd5"/>
+    <published>2026-08-25T18:53:19.884149+00:00</published>
+  </entry>
+  <entry>
     <id>https://apnews.com/article/walmart-shoplifters-michigan-car-wash-b4c62768e19c85012efa060a70721787</id>
     <title>Michigan judge wanted Walmart shoplifters to wash cars. His boss stepped on the hose.</title>
-    <updated>2026-08-25T18:23:05.568472+00:00</updated>
+    <updated>2026-08-25T18:54:19.884149+00:00</updated>
     <link href="https://apnews.com/article/walmart-shoplifters-michigan-car-wash-b4c62768e19c85012efa060a70721787"/>
-    <published>2026-08-25T18:23:05.568472+00:00</published>
+    <published>2026-08-25T18:54:19.884149+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/switzerland-lausanne-speeding-ticket-edd115a3916250c7809d1bb338a33663</id>
     <title>A driver faces up to $110,000 in fines for speeding on a Swiss street. But he can afford it</title>
-    <updated>2026-08-25T18:24:05.568472+00:00</updated>
+    <updated>2026-08-25T18:55:19.884149+00:00</updated>
     <link href="https://apnews.com/article/switzerland-lausanne-speeding-ticket-edd115a3916250c7809d1bb338a33663"/>
-    <published>2026-08-25T18:24:05.568472+00:00</published>
+    <published>2026-08-25T18:55:19.884149+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/argentina-teenagers-identifying-as-animals-therians-tiktok-54d158c4842f6515e31d83a260cdf31f</id>
     <title>Viral phenomenon in Argentina has young people identifying themselves as animals</title>
-    <updated>2026-08-25T18:25:05.568472+00:00</updated>
+    <updated>2026-08-25T18:56:19.884149+00:00</updated>
     <link href="https://apnews.com/article/argentina-teenagers-identifying-as-animals-therians-tiktok-54d158c4842f6515e31d83a260cdf31f"/>
-    <published>2026-08-25T18:25:05.568472+00:00</published>
+    <published>2026-08-25T18:56:19.884149+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/ghana-fantasy-coffins-funerals-accra-tradition-01220db5b2e240a12ae8e4ba8820f993</id>
     <title>Ghana's fantasy coffins are a colorful celebration of life and legacy</title>
-    <updated>2026-08-25T18:26:05.568472+00:00</updated>
+    <updated>2026-08-25T18:57:19.884149+00:00</updated>
     <link href="https://apnews.com/article/ghana-fantasy-coffins-funerals-accra-tradition-01220db5b2e240a12ae8e4ba8820f993"/>
-    <published>2026-08-25T18:26:05.568472+00:00</published>
+    <published>2026-08-25T18:57:19.884149+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/chile-kayaking-tourism-whale-b0cafde4b640326f20a9da28003d6c26</id>
     <title>A humpback whale briefly swallows kayaker in Chilean Patagonia — and it's all captured on camera</title>
-    <updated>2026-08-25T18:27:05.568472+00:00</updated>
+    <updated>2026-08-25T18:58:19.884149+00:00</updated>
     <link href="https://apnews.com/article/chile-kayaking-tourism-whale-b0cafde4b640326f20a9da28003d6c26"/>
-    <published>2026-08-25T18:27:05.568472+00:00</published>
+    <published>2026-08-25T18:58:19.884149+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/brazil-capybaras-lawmakers-herd-fec574aa45b80b76d4993f8eda86d94b</id>
     <title>Capybaras keep their chill while crashing Brazilian legislature</title>
-    <updated>2026-08-25T18:28:05.568472+00:00</updated>
+    <updated>2026-08-25T18:59:19.884149+00:00</updated>
     <link href="https://apnews.com/article/brazil-capybaras-lawmakers-herd-fec574aa45b80b76d4993f8eda86d94b"/>
-    <published>2026-08-25T18:28:05.568472+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/fact-check-george-floyd-autopsy-new-892530421961</id>
-    <title>George Floyd’s autopsy report is not new, does not say he died of an overdose</title>
-    <updated>2026-08-25T18:29:05.568472+00:00</updated>
-    <link href="https://apnews.com/article/fact-check-george-floyd-autopsy-new-892530421961"/>
-    <published>2026-08-25T18:29:05.568472+00:00</published>
+    <published>2026-08-25T18:59:19.884149+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/trump-economy-manufacturing-stock-market-exports-46db858b929bfc4f4c203ed191166121</id>
     <title>FACT FOCUS:  Trump boasts about the economy but there's more to the story</title>
-    <updated>2026-08-25T18:30:05.568472+00:00</updated>
+    <updated>2026-08-25T19:00:19.884149+00:00</updated>
     <link href="https://apnews.com/article/trump-economy-manufacturing-stock-market-exports-46db858b929bfc4f4c203ed191166121"/>
-    <published>2026-08-25T18:30:05.568472+00:00</published>
+    <published>2026-08-25T19:00:19.884149+00:00</published>
+  </entry>
+  <entry>
+    <id>https://apnews.com/article/fact-check-george-floyd-autopsy-new-892530421961</id>
+    <title>George Floyd’s autopsy report is not new, does not say he died of an overdose</title>
+    <updated>2026-08-25T19:01:19.884149+00:00</updated>
+    <link href="https://apnews.com/article/fact-check-george-floyd-autopsy-new-892530421961"/>
+    <published>2026-08-25T19:01:19.884149+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/italy-parmigiano-reggiano-cheese-extreme-heat-bank-e077ee7f9b93f2b7a50364e25387a991</id>
     <title>FACT FOCUS: Social media falsely claims heat wave threatens Parmigiano Reggiano cheese and bank</title>
-    <updated>2026-08-25T18:31:05.568472+00:00</updated>
+    <updated>2026-08-25T19:02:19.884149+00:00</updated>
     <link href="https://apnews.com/article/italy-parmigiano-reggiano-cheese-extreme-heat-bank-e077ee7f9b93f2b7a50364e25387a991"/>
-    <published>2026-08-25T18:31:05.568472+00:00</published>
+    <published>2026-08-25T19:02:19.884149+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/fact-check-kamala-harris-video-altered-today-quote-234791603419</id>
     <title>Video of Kamala Harris saying ‘today is today’ was altered</title>
-    <updated>2026-08-25T18:32:05.568472+00:00</updated>
+    <updated>2026-08-25T19:03:19.884149+00:00</updated>
     <link href="https://apnews.com/article/fact-check-kamala-harris-video-altered-today-quote-234791603419"/>
-    <published>2026-08-25T18:32:05.568472+00:00</published>
+    <published>2026-08-25T19:03:19.884149+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/archive-fact-checking-9233643423</id>
     <title>False claim of human meat in McDonald’s factories stems from old hoax</title>
-    <updated>2026-08-25T18:33:05.568472+00:00</updated>
+    <updated>2026-08-25T19:04:19.884149+00:00</updated>
     <link href="https://apnews.com/article/archive-fact-checking-9233643423"/>
-    <published>2026-08-25T18:33:05.568472+00:00</published>
+    <published>2026-08-25T19:04:19.884149+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/fact-check-trump-noncitizen-voting-census-bureau-36cf1524fda629b139b7de5c86119622</id>
     <title>FACT FOCUS: Census Bureau report does not prove Trump's claim about noncitizen voting in 2020</title>
-    <updated>2026-08-25T18:34:05.568472+00:00</updated>
+    <updated>2026-08-25T19:05:19.884149+00:00</updated>
     <link href="https://apnews.com/article/fact-check-trump-noncitizen-voting-census-bureau-36cf1524fda629b139b7de5c86119622"/>
-    <published>2026-08-25T18:34:05.568472+00:00</published>
+    <published>2026-08-25T19:05:19.884149+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/canada-trade-war-tariff-trump-carney-4f0d3e8f6945cd941cb50972fb657465</id>
     <title>Canada targets steel, fish and hundreds of other goods as Trump trade war escalates</title>
-    <updated>2026-08-25T18:35:05.568472+00:00</updated>
+    <updated>2026-08-25T19:06:19.884149+00:00</updated>
     <link href="https://apnews.com/article/canada-trade-war-tariff-trump-carney-4f0d3e8f6945cd941cb50972fb657465"/>
-    <published>2026-08-25T18:35:05.568472+00:00</published>
+    <published>2026-08-25T19:06:19.884149+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/stocks-markets-futures-nvidia-bonds-oil-f17fc8cfc61f40114eb7246701b4695d</id>
     <title>Falling oil prices help calm the stock and bond markets</title>
-    <updated>2026-08-25T18:36:05.568472+00:00</updated>
+    <updated>2026-08-25T19:07:19.884149+00:00</updated>
     <link href="https://apnews.com/article/stocks-markets-futures-nvidia-bonds-oil-f17fc8cfc61f40114eb7246701b4695d"/>
-    <published>2026-08-25T18:36:05.568472+00:00</published>
+    <published>2026-08-25T19:07:19.884149+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/trump-canada-trade-war-tariffs-3bf0ca9421116797fe20b91a9d097116</id>
     <title>From honey to hockey sticks, Trump's trade war with Canada hikes tariffs on a long list of goods</title>
-    <updated>2026-08-25T18:37:05.568472+00:00</updated>
+    <updated>2026-08-25T19:08:19.884149+00:00</updated>
     <link href="https://apnews.com/article/trump-canada-trade-war-tariffs-3bf0ca9421116797fe20b91a9d097116"/>
-    <published>2026-08-25T18:37:05.568472+00:00</published>
+    <published>2026-08-25T19:08:19.884149+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/celebrity-birthdays-late-june-ariana-grande-f12d48a0c8aefea2319abce271c7d3bb</id>
     <title>Celebrity birthdays for the week of June 25-July 1</title>
-    <updated>2026-08-25T18:38:05.568472+00:00</updated>
+    <updated>2026-08-25T19:09:19.884149+00:00</updated>
     <link href="https://apnews.com/article/celebrity-birthdays-late-june-ariana-grande-f12d48a0c8aefea2319abce271c7d3bb"/>
-    <published>2026-08-25T18:38:05.568472+00:00</published>
+    <published>2026-08-25T19:09:19.884149+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/shelley-fabares-obituary-3eff1ba6cde3260f478713466a669fe6</id>
     <title>Shelley Fabares, 'Johnny Angel' singer and actor in ‘The Donna Reed Show’ and ‘Coach,’ dies at 82</title>
-    <updated>2026-08-25T18:39:05.568472+00:00</updated>
+    <updated>2026-08-25T19:10:19.884149+00:00</updated>
     <link href="https://apnews.com/article/shelley-fabares-obituary-3eff1ba6cde3260f478713466a669fe6"/>
-    <published>2026-08-25T18:39:05.568472+00:00</published>
+    <published>2026-08-25T19:10:19.884149+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/dolly-parton-death-country-icon-87156f3e6a1547b88bf414529b644ad3</id>
     <title>Dolly Parton, music star, actor and beloved figure who spanned generations, dies at 80</title>
-    <updated>2026-08-25T18:40:05.568472+00:00</updated>
+    <updated>2026-08-25T19:11:19.884149+00:00</updated>
     <link href="https://apnews.com/article/dolly-parton-death-country-icon-87156f3e6a1547b88bf414529b644ad3"/>
-    <published>2026-08-25T18:40:05.568472+00:00</published>
+    <published>2026-08-25T19:11:19.884149+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/us-open-roger-federer-e0fb8a7036f8189db5c29ca6f8568b66</id>
     <title>Roger Federer is coming back to play at the US Open, but not interested in coming back to pro tennis</title>
-    <updated>2026-08-25T18:41:05.568472+00:00</updated>
+    <updated>2026-08-25T19:12:19.884149+00:00</updated>
     <link href="https://apnews.com/article/us-open-roger-federer-e0fb8a7036f8189db5c29ca6f8568b66"/>
-    <published>2026-08-25T18:41:05.568472+00:00</published>
+    <published>2026-08-25T19:12:19.884149+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/49ers-jed-york-arrested-e8b72b47841e50760dfa9c4713d4267e</id>
     <title>49ers owner Jed York pleads no contest to two misdemeanor charges in Ohio</title>
-    <updated>2026-08-25T18:42:05.568472+00:00</updated>
+    <updated>2026-08-25T19:13:19.884149+00:00</updated>
     <link href="https://apnews.com/article/49ers-jed-york-arrested-e8b72b47841e50760dfa9c4713d4267e"/>
-    <published>2026-08-25T18:42:05.568472+00:00</published>
+    <published>2026-08-25T19:13:19.884149+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/wnba-enes-kanter-freedom-royce-white-4b23db1f7817caa2a5de018fa7c94b86</id>
     <title>Enes Kanter Freedom and Royce White are not eligible for the WNBA draft, AP source says</title>
-    <updated>2026-08-25T18:43:05.568472+00:00</updated>
+    <updated>2026-08-25T19:14:19.884149+00:00</updated>
     <link href="https://apnews.com/article/wnba-enes-kanter-freedom-royce-white-4b23db1f7817caa2a5de018fa7c94b86"/>
-    <published>2026-08-25T18:43:05.568472+00:00</published>
+    <published>2026-08-25T19:14:19.884149+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/canada-trump-lake-810649a0a4143d9042094626c4a36dad</id>
     <title>Canada strikes back at US with retaliatory tariffs as trade war escalates</title>
-    <updated>2026-08-25T18:44:05.568472+00:00</updated>
+    <updated>2026-08-25T19:15:19.884149+00:00</updated>
     <link href="https://apnews.com/article/canada-trump-lake-810649a0a4143d9042094626c4a36dad"/>
-    <published>2026-08-25T18:44:05.568472+00:00</published>
+    <published>2026-08-25T19:15:19.884149+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/trump-rubio-visas-revoke-e9c14fdfd0ada439d2b9d8694e678a46</id>
     <title>US set for largest mass visa revocation in history targeting up to 200,000 foreigners, officials say</title>
-    <updated>2026-08-25T18:45:05.568472+00:00</updated>
+    <updated>2026-08-25T19:16:19.884149+00:00</updated>
     <link href="https://apnews.com/article/trump-rubio-visas-revoke-e9c14fdfd0ada439d2b9d8694e678a46"/>
-    <published>2026-08-25T18:45:05.568472+00:00</published>
+    <published>2026-08-25T19:16:19.884149+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/trump-mail-voting-supreme-court-157afc3c195ce0a62c522da5ce904b04</id>
     <title>Supreme Court sides with Trump administration on mail voting restrictions ahead of midterms</title>
-    <updated>2026-08-25T18:46:05.568472+00:00</updated>
+    <updated>2026-08-25T19:17:19.884149+00:00</updated>
     <link href="https://apnews.com/article/trump-mail-voting-supreme-court-157afc3c195ce0a62c522da5ce904b04"/>
-    <published>2026-08-25T18:46:05.568472+00:00</published>
+    <published>2026-08-25T19:17:19.884149+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/louisiana-brain-amoeba-lillian-smart-25acf0aad67cd7cd2197dfe2d624e18d</id>
     <title>8-year-old Louisiana girl dies from a rare brain-eating amoeba found in warm freshwater</title>
-    <updated>2026-08-25T18:47:05.568472+00:00</updated>
+    <updated>2026-08-25T19:18:19.884149+00:00</updated>
     <link href="https://apnews.com/article/louisiana-brain-amoeba-lillian-smart-25acf0aad67cd7cd2197dfe2d624e18d"/>
-    <published>2026-08-25T18:47:05.568472+00:00</published>
+    <published>2026-08-25T19:18:19.884149+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/officer-killed-massachusetts-husband-wife-006117548f4d151c1878adb706cbd17a</id>
     <title>Police find the body of Karen Solomon, who was sought in the killing of her police officer husband</title>
-    <updated>2026-08-25T18:48:05.568472+00:00</updated>
+    <updated>2026-08-25T19:19:19.884149+00:00</updated>
     <link href="https://apnews.com/article/officer-killed-massachusetts-husband-wife-006117548f4d151c1878adb706cbd17a"/>
-    <published>2026-08-25T18:48:05.568472+00:00</published>
+    <published>2026-08-25T19:19:19.884149+00:00</published>
   </entry>
   <entry>
-    <id>https://apnews.com/article/hawk-fire-reno-nevada-evacuations-b572e2a15fe6a263231e04ea932cf6c8</id>
-    <title>Firefighters make progress against a Nevada wildfire that's destroyed more than 30 homes</title>
-    <updated>2026-08-25T18:49:05.568472+00:00</updated>
-    <link href="https://apnews.com/article/hawk-fire-reno-nevada-evacuations-b572e2a15fe6a263231e04ea932cf6c8"/>
-    <published>2026-08-25T18:49:05.568472+00:00</published>
+    <id>https://apnews.com/article/russia-ukraine-war-putin-companies-drones-f2ef0ded42dfab093bd9b08a8157b931</id>
+    <title>Putin decree lets Russia take control of infrastructure damaged in Ukrainian drone attacks</title>
+    <updated>2026-08-25T19:20:19.884149+00:00</updated>
+    <link href="https://apnews.com/article/russia-ukraine-war-putin-companies-drones-f2ef0ded42dfab093bd9b08a8157b931"/>
+    <published>2026-08-25T19:20:19.884149+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/middle-east-iran-israel-hormuz-pakistan-august-25-2026-1a4fa2e3812c458a25a561b38dc89f09</id>
     <title>Iran and Oman hold talks on managing the Strait of Hormuz and other news from around the Middle East</title>
-    <updated>2026-08-25T18:50:05.568472+00:00</updated>
+    <updated>2026-08-25T19:21:19.884149+00:00</updated>
     <link href="https://apnews.com/article/middle-east-iran-israel-hormuz-pakistan-august-25-2026-1a4fa2e3812c458a25a561b38dc89f09"/>
-    <published>2026-08-25T18:50:05.568472+00:00</published>
+    <published>2026-08-25T19:21:19.884149+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/colombia-de-la-espriella-migrants-president-venezuelans-raids-crime-05bb694f97b18a1d449e0926fe8f94e6</id>
     <title>Colombian president orders immigration raids, vows deportations of migrants without legal status</title>
-    <updated>2026-08-25T18:51:05.568472+00:00</updated>
+    <updated>2026-08-25T19:22:19.884149+00:00</updated>
     <link href="https://apnews.com/article/colombia-de-la-espriella-migrants-president-venezuelans-raids-crime-05bb694f97b18a1d449e0926fe8f94e6"/>
-    <published>2026-08-25T18:51:05.568472+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/deportations-migrants-trump-liberia-equatorial-guinea-7ad8054e3a544882801e434c9b457483</id>
-    <title>Deportees who refused to exit a US flight in Liberia are sent to Equatorial Guinea</title>
-    <updated>2026-08-25T18:52:05.568472+00:00</updated>
-    <link href="https://apnews.com/article/deportations-migrants-trump-liberia-equatorial-guinea-7ad8054e3a544882801e434c9b457483"/>
-    <published>2026-08-25T18:52:05.568472+00:00</published>
+    <published>2026-08-25T19:22:19.884149+00:00</published>
   </entry>
 </feed>
