@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://apnews.com/health</id>
   <title>AP Health (unofficial)</title>
-  <updated>2026-08-29T07:45:11.825200+00:00</updated>
+  <updated>2026-08-29T13:23:06.380244+00:00</updated>
   <author>
     <name>AP News (scraped, unofficial)</name>
   </author>
@@ -11,213 +11,213 @@
   <generator>ap-rss scraper</generator>
   <subtitle>Unofficial RSS feed of AP Health from apnews.com</subtitle>
   <entry>
+    <id>https://apnews.com/article/tanning-beds-sun-teens-skin-cancer-trends-4ae3015a66dd90817ce30b34e6556e5e</id>
+    <title>Tanning is getting hot again. Here's what it really does to your skin</title>
+    <updated>2026-08-29T12:54:06.380251+00:00</updated>
+    <link href="https://apnews.com/article/tanning-beds-sun-teens-skin-cancer-trends-4ae3015a66dd90817ce30b34e6556e5e"/>
+    <published>2026-08-29T12:54:06.380251+00:00</published>
+  </entry>
+  <entry>
     <id>https://apnews.com/article/healthy-heart-sleep-night-owls-circadian-rhythm-0c520492f5d6fc08c412053419e913f9</id>
     <title>Being a night owl may not be great for your heart but you can do something about it</title>
-    <updated>2026-08-29T07:16:11.825205+00:00</updated>
+    <updated>2026-08-29T12:55:06.380251+00:00</updated>
     <link href="https://apnews.com/article/healthy-heart-sleep-night-owls-circadian-rhythm-0c520492f5d6fc08c412053419e913f9"/>
-    <published>2026-08-29T07:16:11.825205+00:00</published>
+    <published>2026-08-29T12:55:06.380251+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/minnesota-where-is-big-pencil-sharpening-13bdada274a6beeb7327ebefbee639d9</id>
     <title>Why a Minneapolis neighborhood sharpens a giant pencil every year</title>
-    <updated>2026-08-29T07:17:11.825205+00:00</updated>
+    <updated>2026-08-29T12:56:06.380251+00:00</updated>
     <link href="https://apnews.com/article/minnesota-where-is-big-pencil-sharpening-13bdada274a6beeb7327ebefbee639d9"/>
-    <published>2026-08-29T07:17:11.825205+00:00</published>
+    <published>2026-08-29T12:56:06.380251+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/drunk-raccoon-liquor-store-bandit-virginia-5109feb2ea9ab9bf8954ec3798689fd0</id>
     <title>Raccoon goes on drunken rampage in Virginia liquor store and passes out on bathroom floor</title>
-    <updated>2026-08-29T07:18:11.825205+00:00</updated>
+    <updated>2026-08-29T12:57:06.380251+00:00</updated>
     <link href="https://apnews.com/article/drunk-raccoon-liquor-store-bandit-virginia-5109feb2ea9ab9bf8954ec3798689fd0"/>
-    <published>2026-08-29T07:18:11.825205+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/ghana-fantasy-coffins-funerals-accra-tradition-01220db5b2e240a12ae8e4ba8820f993</id>
-    <title>Ghana's fantasy coffins are a colorful celebration of life and legacy</title>
-    <updated>2026-08-29T07:19:11.825205+00:00</updated>
-    <link href="https://apnews.com/article/ghana-fantasy-coffins-funerals-accra-tradition-01220db5b2e240a12ae8e4ba8820f993"/>
-    <published>2026-08-29T07:19:11.825205+00:00</published>
+    <published>2026-08-29T12:57:06.380251+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/argentina-teenagers-identifying-as-animals-therians-tiktok-54d158c4842f6515e31d83a260cdf31f</id>
     <title>Viral phenomenon in Argentina has young people identifying themselves as animals</title>
-    <updated>2026-08-29T07:20:11.825205+00:00</updated>
+    <updated>2026-08-29T12:58:06.380251+00:00</updated>
     <link href="https://apnews.com/article/argentina-teenagers-identifying-as-animals-therians-tiktok-54d158c4842f6515e31d83a260cdf31f"/>
-    <published>2026-08-29T07:20:11.825205+00:00</published>
+    <published>2026-08-29T12:58:06.380251+00:00</published>
+  </entry>
+  <entry>
+    <id>https://apnews.com/article/ghana-fantasy-coffins-funerals-accra-tradition-01220db5b2e240a12ae8e4ba8820f993</id>
+    <title>Ghana's fantasy coffins are a colorful celebration of life and legacy</title>
+    <updated>2026-08-29T12:59:06.380251+00:00</updated>
+    <link href="https://apnews.com/article/ghana-fantasy-coffins-funerals-accra-tradition-01220db5b2e240a12ae8e4ba8820f993"/>
+    <published>2026-08-29T12:59:06.380251+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/brazil-capybaras-lawmakers-herd-fec574aa45b80b76d4993f8eda86d94b</id>
     <title>Capybaras keep their chill while crashing Brazilian legislature</title>
-    <updated>2026-08-29T07:21:11.825205+00:00</updated>
+    <updated>2026-08-29T13:00:06.380251+00:00</updated>
     <link href="https://apnews.com/article/brazil-capybaras-lawmakers-herd-fec574aa45b80b76d4993f8eda86d94b"/>
-    <published>2026-08-29T07:21:11.825205+00:00</published>
+    <published>2026-08-29T13:00:06.380251+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/chile-kayaking-tourism-whale-b0cafde4b640326f20a9da28003d6c26</id>
     <title>A humpback whale briefly swallows kayaker in Chilean Patagonia — and it's all captured on camera</title>
-    <updated>2026-08-29T07:22:11.825205+00:00</updated>
+    <updated>2026-08-29T13:01:06.380251+00:00</updated>
     <link href="https://apnews.com/article/chile-kayaking-tourism-whale-b0cafde4b640326f20a9da28003d6c26"/>
-    <published>2026-08-29T07:22:11.825205+00:00</published>
+    <published>2026-08-29T13:01:06.380251+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/fact-check-trump-shooting-ear-damage-photo-470220313611</id>
     <title>A photo that appears to show Trump's ear with no damage after the attempted assassination is actually from 2022</title>
-    <updated>2026-08-29T07:23:11.825205+00:00</updated>
+    <updated>2026-08-29T13:02:06.380251+00:00</updated>
     <link href="https://apnews.com/article/fact-check-trump-shooting-ear-damage-photo-470220313611"/>
-    <published>2026-08-29T07:23:11.825205+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/fact-check-kamala-harris-video-altered-today-quote-234791603419</id>
-    <title>Video of Kamala Harris saying ‘today is today’ was altered</title>
-    <updated>2026-08-29T07:24:11.825205+00:00</updated>
-    <link href="https://apnews.com/article/fact-check-kamala-harris-video-altered-today-quote-234791603419"/>
-    <published>2026-08-29T07:24:11.825205+00:00</published>
+    <published>2026-08-29T13:02:06.380251+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/fact-check-george-floyd-autopsy-new-892530421961</id>
     <title>George Floyd’s autopsy report is not new, does not say he died of an overdose</title>
-    <updated>2026-08-29T07:25:11.825205+00:00</updated>
+    <updated>2026-08-29T13:03:06.380251+00:00</updated>
     <link href="https://apnews.com/article/fact-check-george-floyd-autopsy-new-892530421961"/>
-    <published>2026-08-29T07:25:11.825205+00:00</published>
+    <published>2026-08-29T13:03:06.380251+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/fact-check-trump-noncitizen-voting-census-bureau-36cf1524fda629b139b7de5c86119622</id>
     <title>FACT FOCUS: Census Bureau report does not prove Trump's claim about noncitizen voting in 2020</title>
-    <updated>2026-08-29T07:26:11.825205+00:00</updated>
+    <updated>2026-08-29T13:04:06.380251+00:00</updated>
     <link href="https://apnews.com/article/fact-check-trump-noncitizen-voting-census-bureau-36cf1524fda629b139b7de5c86119622"/>
-    <published>2026-08-29T07:26:11.825205+00:00</published>
+    <published>2026-08-29T13:04:06.380251+00:00</published>
+  </entry>
+  <entry>
+    <id>https://apnews.com/article/fact-check-kamala-harris-video-altered-today-quote-234791603419</id>
+    <title>Video of Kamala Harris saying ‘today is today’ was altered</title>
+    <updated>2026-08-29T13:05:06.380251+00:00</updated>
+    <link href="https://apnews.com/article/fact-check-kamala-harris-video-altered-today-quote-234791603419"/>
+    <published>2026-08-29T13:05:06.380251+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/archive-fact-checking-9233643423</id>
     <title>False claim of human meat in McDonald’s factories stems from old hoax</title>
-    <updated>2026-08-29T07:27:11.825205+00:00</updated>
+    <updated>2026-08-29T13:06:06.380251+00:00</updated>
     <link href="https://apnews.com/article/archive-fact-checking-9233643423"/>
-    <published>2026-08-29T07:27:11.825205+00:00</published>
+    <published>2026-08-29T13:06:06.380251+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/fact-check-canada-electricity-us-shut-off-636b50e96b27883be959f29c0f086d79</id>
     <title>FACT FOCUS: Massive blackouts are unlikely if Canada stops exporting electricity to the US</title>
-    <updated>2026-08-29T07:28:11.825205+00:00</updated>
+    <updated>2026-08-29T13:07:06.380251+00:00</updated>
     <link href="https://apnews.com/article/fact-check-canada-electricity-us-shut-off-636b50e96b27883be959f29c0f086d79"/>
-    <published>2026-08-29T07:28:11.825205+00:00</published>
+    <published>2026-08-29T13:07:06.380251+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/artemis-ii-medal-of-honor-astronauts-moonshot-b20b75e7fc2586315812238e27c36e77</id>
     <title>Artemis II astronauts receive nation's highest space honor for their successful moonshot</title>
-    <updated>2026-08-29T07:29:11.825205+00:00</updated>
+    <updated>2026-08-29T13:08:06.380251+00:00</updated>
     <link href="https://apnews.com/article/artemis-ii-medal-of-honor-astronauts-moonshot-b20b75e7fc2586315812238e27c36e77"/>
-    <published>2026-08-29T07:29:11.825205+00:00</published>
+    <published>2026-08-29T13:08:06.380251+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/spacex-musk-starship-splashdown-dad5fd5a6f3eedd3dfe23bd59a3adb6c</id>
     <title>SpaceX recovers Starship from the Indian Ocean a month after launch and is shipping it back to Texas</title>
-    <updated>2026-08-29T07:30:11.825205+00:00</updated>
+    <updated>2026-08-29T13:09:06.380251+00:00</updated>
     <link href="https://apnews.com/article/spacex-musk-starship-splashdown-dad5fd5a6f3eedd3dfe23bd59a3adb6c"/>
-    <published>2026-08-29T07:30:11.825205+00:00</published>
+    <published>2026-08-29T13:09:06.380251+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/nepal-tibet-floods-how-to-help-416f48083b8598278ffc93b23e7212c0</id>
     <title>How to help after Nepal and Tibet's catastrophic floods</title>
-    <updated>2026-08-29T07:31:11.825205+00:00</updated>
+    <updated>2026-08-29T13:10:06.380251+00:00</updated>
     <link href="https://apnews.com/article/nepal-tibet-floods-how-to-help-416f48083b8598278ffc93b23e7212c0"/>
-    <published>2026-08-29T07:31:11.825205+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/stocks-markets-oil-ai-nvidia-0a655f1c042b059279343443d5802907</id>
-    <title>The bond market prepares for a hike to interest rates, while US stocks drift lower</title>
-    <updated>2026-08-29T07:32:11.825205+00:00</updated>
-    <link href="https://apnews.com/article/stocks-markets-oil-ai-nvidia-0a655f1c042b059279343443d5802907"/>
-    <published>2026-08-29T07:32:11.825205+00:00</published>
+    <published>2026-08-29T13:10:06.380251+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/federal-reserve-warsh-interest-trump-inflation-ab896df808df3a5a3fa8b943ac5f3867</id>
     <title>Fed Chair Warsh signals rate hikes may be needed with US inflation stubbornly elevated</title>
-    <updated>2026-08-29T07:33:11.825205+00:00</updated>
+    <updated>2026-08-29T13:11:06.380251+00:00</updated>
     <link href="https://apnews.com/article/federal-reserve-warsh-interest-trump-inflation-ab896df808df3a5a3fa8b943ac5f3867"/>
-    <published>2026-08-29T07:33:11.825205+00:00</published>
+    <published>2026-08-29T13:11:06.380251+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/dolly-parton-nashville-airport-rename-c982085a9a7e7887bb55520523884bfd</id>
     <title>Push to rename Nashville airport for Dolly Parton gets a boost from Tennessee's governor</title>
-    <updated>2026-08-29T07:34:11.825205+00:00</updated>
+    <updated>2026-08-29T13:12:06.380251+00:00</updated>
     <link href="https://apnews.com/article/dolly-parton-nashville-airport-rename-c982085a9a7e7887bb55520523884bfd"/>
-    <published>2026-08-29T07:34:11.825205+00:00</published>
+    <published>2026-08-29T13:12:06.380251+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/dolly-parton-death-country-icon-87156f3e6a1547b88bf414529b644ad3</id>
     <title>Dolly Parton, music star, actor and beloved figure who spanned generations, dies at 80 of cancer</title>
-    <updated>2026-08-29T07:35:11.825205+00:00</updated>
+    <updated>2026-08-29T13:13:06.380251+00:00</updated>
     <link href="https://apnews.com/article/dolly-parton-death-country-icon-87156f3e6a1547b88bf414529b644ad3"/>
-    <published>2026-08-29T07:35:11.825205+00:00</published>
+    <published>2026-08-29T13:13:06.380251+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/emily-wilson-odyssey-translation-homer-a05084e4753528dff13766703161d24d</id>
     <title>Emily Wilson's 'Odyssey' became a cultural flashpoint. Now, she's retranslating the whole thing</title>
-    <updated>2026-08-29T07:36:11.825205+00:00</updated>
+    <updated>2026-08-29T13:14:06.380251+00:00</updated>
     <link href="https://apnews.com/article/emily-wilson-odyssey-translation-homer-a05084e4753528dff13766703161d24d"/>
-    <published>2026-08-29T07:36:11.825205+00:00</published>
+    <published>2026-08-29T13:14:06.380251+00:00</published>
+  </entry>
+  <entry>
+    <id>https://apnews.com/article/coco-gauff-mom-us-open-tickets-610174b4b3878a234bb0675fc99917b7</id>
+    <title>Coco Gauff backs her mom for posting about family and friends' excessive US Open ticket requests</title>
+    <updated>2026-08-29T13:15:06.380251+00:00</updated>
+    <link href="https://apnews.com/article/coco-gauff-mom-us-open-tickets-610174b4b3878a234bb0675fc99917b7"/>
+    <published>2026-08-29T13:15:06.380251+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/jerry-sandusky-penn-state-football-74a5e76741ee22871232fdbf66bfd341</id>
     <title>Judge will hear recantation of sexual abuse claim against ex-Penn State coach Jerry Sandusky</title>
-    <updated>2026-08-29T07:37:11.825205+00:00</updated>
+    <updated>2026-08-29T13:16:06.380251+00:00</updated>
     <link href="https://apnews.com/article/jerry-sandusky-penn-state-football-74a5e76741ee22871232fdbf66bfd341"/>
-    <published>2026-08-29T07:37:11.825205+00:00</published>
+    <published>2026-08-29T13:16:06.380251+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/tony-romo-arrest-3764a8fb1c3bc9fde1146c7a2f05a7a2</id>
     <title>Tony Romo facing three more citations in connection with his arrest last month</title>
-    <updated>2026-08-29T07:38:11.825205+00:00</updated>
+    <updated>2026-08-29T13:17:06.380251+00:00</updated>
     <link href="https://apnews.com/article/tony-romo-arrest-3764a8fb1c3bc9fde1146c7a2f05a7a2"/>
-    <published>2026-08-29T07:38:11.825205+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/dea-opioids-joan-rubinger-nurse-practitioner-e575853a66d0ef726351338932d073ff</id>
-    <title>She was a pain specialist to top athletes. Her opioid prescribing alarmed the DEA</title>
-    <updated>2026-08-29T07:39:11.825205+00:00</updated>
-    <link href="https://apnews.com/article/dea-opioids-joan-rubinger-nurse-practitioner-e575853a66d0ef726351338932d073ff"/>
-    <published>2026-08-29T07:39:11.825205+00:00</published>
+    <published>2026-08-29T13:17:06.380251+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/trump-voting-mail-ballots-midterms-executive-order-8ef4a669a50f3406481ffb8387ccad3c</id>
     <title>Trump administration appeals latest ruling blocking his mail voting order from taking effect</title>
-    <updated>2026-08-29T07:40:11.825205+00:00</updated>
+    <updated>2026-08-29T13:18:06.380251+00:00</updated>
     <link href="https://apnews.com/article/trump-voting-mail-ballots-midterms-executive-order-8ef4a669a50f3406481ffb8387ccad3c"/>
-    <published>2026-08-29T07:40:11.825205+00:00</published>
+    <published>2026-08-29T13:18:06.380251+00:00</published>
+  </entry>
+  <entry>
+    <id>https://apnews.com/article/white-house-teleprompter-gambling-kalshi-535e252b20f39ab414f93d806758c626</id>
+    <title>Former White House teleprompter operator ordered to turn over profits, pay fine over insider trading</title>
+    <updated>2026-08-29T13:19:06.380251+00:00</updated>
+    <link href="https://apnews.com/article/white-house-teleprompter-gambling-kalshi-535e252b20f39ab414f93d806758c626"/>
+    <published>2026-08-29T13:19:06.380251+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/trump-venezuela-oil-reserves-eb0ed5a1e99602c21a7f690c3368020e</id>
     <title>Trump says US has entered deal with Venezuela to take control of 65 billion barrels of oil reserves</title>
-    <updated>2026-08-29T07:41:11.825205+00:00</updated>
+    <updated>2026-08-29T13:20:06.380251+00:00</updated>
     <link href="https://apnews.com/article/trump-venezuela-oil-reserves-eb0ed5a1e99602c21a7f690c3368020e"/>
-    <published>2026-08-29T07:41:11.825205+00:00</published>
+    <published>2026-08-29T13:20:06.380251+00:00</published>
   </entry>
   <entry>
-    <id>https://apnews.com/article/memphis-national-guard-tyrin-johnson-8959297a99c362d65aa2517a9d5f1984</id>
-    <title>Autopsy shows Tennessee National Guard fatally shot 20-year-old armed man in the back</title>
-    <updated>2026-08-29T07:42:11.825205+00:00</updated>
-    <link href="https://apnews.com/article/memphis-national-guard-tyrin-johnson-8959297a99c362d65aa2517a9d5f1984"/>
-    <published>2026-08-29T07:42:11.825205+00:00</published>
+    <id>https://apnews.com/article/trump-lake-america-lake-ontario-seneca-1f5f831ab8d79d18a38999328a1af8c2</id>
+    <title>Seneca Nation calls for reversal of Trump's ‘Lake America’ executive order</title>
+    <updated>2026-08-29T13:21:06.380251+00:00</updated>
+    <link href="https://apnews.com/article/trump-lake-america-lake-ontario-seneca-1f5f831ab8d79d18a38999328a1af8c2"/>
+    <published>2026-08-29T13:21:06.380251+00:00</published>
   </entry>
   <entry>
-    <id>https://apnews.com/article/iran-us-war-six-months-israel-mideast-1685cdc4e6ef330406e0ebe242b21e70</id>
-    <title>Six months on, the Iran war has changed the Middle East, but not in the way its architects had hoped</title>
-    <updated>2026-08-29T07:43:11.825205+00:00</updated>
-    <link href="https://apnews.com/article/iran-us-war-six-months-israel-mideast-1685cdc4e6ef330406e0ebe242b21e70"/>
-    <published>2026-08-29T07:43:11.825205+00:00</published>
+    <id>https://apnews.com/article/trump-hush-money-conviction-8ef34a954c61b7e4261827b8a6a99567</id>
+    <title>President Donald Trump loses again in bid to erase his hush money conviction</title>
+    <updated>2026-08-29T13:22:06.380251+00:00</updated>
+    <link href="https://apnews.com/article/trump-hush-money-conviction-8ef34a954c61b7e4261827b8a6a99567"/>
+    <published>2026-08-29T13:22:06.380251+00:00</published>
   </entry>
   <entry>
-    <id>https://apnews.com/article/king-harald-norway-228366941b7c48c59ececf004cc3c467</id>
-    <title>Norway’s King Harald V dies at 89 and his son becomes King Haakon VIII</title>
-    <updated>2026-08-29T07:44:11.825205+00:00</updated>
-    <link href="https://apnews.com/article/king-harald-norway-228366941b7c48c59ececf004cc3c467"/>
-    <published>2026-08-29T07:44:11.825205+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/nepal-tibet-china-glacier-floods-ae9973b5fd2b1dc6d54c3e88b1b55bdc</id>
-    <title>Rescuers retrieve flood survivors caked in mud as death toll in Nepal-China border disaster climbs</title>
-    <updated>2026-08-29T07:45:11.825205+00:00</updated>
-    <link href="https://apnews.com/article/nepal-tibet-china-glacier-floods-ae9973b5fd2b1dc6d54c3e88b1b55bdc"/>
-    <published>2026-08-29T07:45:11.825205+00:00</published>
+    <id>https://apnews.com/article/nepal-china-flood-rescue-fde34c839b648f93f6aa011f044deb00</id>
+    <title>Nepal-China flood survivors reach safe areas as families await news of nearly 3,000 missing</title>
+    <updated>2026-08-29T13:23:06.380251+00:00</updated>
+    <link href="https://apnews.com/article/nepal-china-flood-rescue-fde34c839b648f93f6aa011f044deb00"/>
+    <published>2026-08-29T13:23:06.380251+00:00</published>
   </entry>
 </feed>
