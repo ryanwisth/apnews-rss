@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://apnews.com/entertainment</id>
   <title>AP Entertainment (unofficial)</title>
-  <updated>2026-09-01T18:24:34.723386+00:00</updated>
+  <updated>2026-09-01T21:11:37.171137+00:00</updated>
   <author>
     <name>AP News (scraped, unofficial)</name>
   </author>
@@ -11,213 +11,213 @@
   <generator>ap-rss scraper</generator>
   <subtitle>Unofficial RSS feed of AP Entertainment from apnews.com</subtitle>
   <entry>
-    <id>https://apnews.com/article/minnesota-where-is-big-pencil-sharpening-13bdada274a6beeb7327ebefbee639d9</id>
-    <title>Why a Minneapolis neighborhood sharpens a giant pencil every year</title>
-    <updated>2026-09-01T17:55:34.723392+00:00</updated>
-    <link href="https://apnews.com/article/minnesota-where-is-big-pencil-sharpening-13bdada274a6beeb7327ebefbee639d9"/>
-    <published>2026-09-01T17:55:34.723392+00:00</published>
+    <id>https://apnews.com/article/drunk-raccoon-liquor-store-bandit-virginia-5109feb2ea9ab9bf8954ec3798689fd0</id>
+    <title>Raccoon goes on drunken rampage in Virginia liquor store and passes out on bathroom floor</title>
+    <updated>2026-09-01T20:42:37.171143+00:00</updated>
+    <link href="https://apnews.com/article/drunk-raccoon-liquor-store-bandit-virginia-5109feb2ea9ab9bf8954ec3798689fd0"/>
+    <published>2026-09-01T20:42:37.171143+00:00</published>
   </entry>
   <entry>
-    <id>https://apnews.com/article/prague-zoo-lesser-yellowheaded-vulture-puppet-feeding-fb9ef1f50272330cdef501a4c271bc34</id>
-    <title>Zookeepers in Prague turn into puppeteers to save baby vultures</title>
-    <updated>2026-09-01T17:56:34.723392+00:00</updated>
-    <link href="https://apnews.com/article/prague-zoo-lesser-yellowheaded-vulture-puppet-feeding-fb9ef1f50272330cdef501a4c271bc34"/>
-    <published>2026-09-01T17:56:34.723392+00:00</published>
+    <id>https://apnews.com/article/minnesota-where-is-big-pencil-sharpening-13bdada274a6beeb7327ebefbee639d9</id>
+    <title>Why a Minneapolis neighborhood sharpens a giant pencil every year</title>
+    <updated>2026-09-01T20:43:37.171143+00:00</updated>
+    <link href="https://apnews.com/article/minnesota-where-is-big-pencil-sharpening-13bdada274a6beeb7327ebefbee639d9"/>
+    <published>2026-09-01T20:43:37.171143+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/argentina-teenagers-identifying-as-animals-therians-tiktok-54d158c4842f6515e31d83a260cdf31f</id>
     <title>Viral phenomenon in Argentina has young people identifying themselves as animals</title>
-    <updated>2026-09-01T17:57:34.723392+00:00</updated>
+    <updated>2026-09-01T20:44:37.171143+00:00</updated>
     <link href="https://apnews.com/article/argentina-teenagers-identifying-as-animals-therians-tiktok-54d158c4842f6515e31d83a260cdf31f"/>
-    <published>2026-09-01T17:57:34.723392+00:00</published>
+    <published>2026-09-01T20:44:37.171143+00:00</published>
+  </entry>
+  <entry>
+    <id>https://apnews.com/article/prague-zoo-lesser-yellowheaded-vulture-puppet-feeding-fb9ef1f50272330cdef501a4c271bc34</id>
+    <title>Zookeepers in Prague turn into puppeteers to save baby vultures</title>
+    <updated>2026-09-01T20:45:37.171143+00:00</updated>
+    <link href="https://apnews.com/article/prague-zoo-lesser-yellowheaded-vulture-puppet-feeding-fb9ef1f50272330cdef501a4c271bc34"/>
+    <published>2026-09-01T20:45:37.171143+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/brazil-capybaras-lawmakers-herd-fec574aa45b80b76d4993f8eda86d94b</id>
     <title>Capybaras keep their chill while crashing Brazilian legislature</title>
-    <updated>2026-09-01T17:58:34.723392+00:00</updated>
+    <updated>2026-09-01T20:46:37.171143+00:00</updated>
     <link href="https://apnews.com/article/brazil-capybaras-lawmakers-herd-fec574aa45b80b76d4993f8eda86d94b"/>
-    <published>2026-09-01T17:58:34.723392+00:00</published>
+    <published>2026-09-01T20:46:37.171143+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/fact-check-george-floyd-autopsy-new-892530421961</id>
     <title>George Floyd’s autopsy report is not new, does not say he died of an overdose</title>
-    <updated>2026-09-01T17:59:34.723392+00:00</updated>
+    <updated>2026-09-01T20:47:37.171143+00:00</updated>
     <link href="https://apnews.com/article/fact-check-george-floyd-autopsy-new-892530421961"/>
-    <published>2026-09-01T17:59:34.723392+00:00</published>
+    <published>2026-09-01T20:47:37.171143+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/fact-check-kamala-harris-video-altered-today-quote-234791603419</id>
     <title>Video of Kamala Harris saying ‘today is today’ was altered</title>
-    <updated>2026-09-01T18:00:34.723392+00:00</updated>
+    <updated>2026-09-01T20:48:37.171143+00:00</updated>
     <link href="https://apnews.com/article/fact-check-kamala-harris-video-altered-today-quote-234791603419"/>
-    <published>2026-09-01T18:00:34.723392+00:00</published>
+    <published>2026-09-01T20:48:37.171143+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/fact-check-trump-noncitizen-voting-census-bureau-36cf1524fda629b139b7de5c86119622</id>
     <title>FACT FOCUS: Census Bureau report does not prove Trump's claim about noncitizen voting in 2020</title>
-    <updated>2026-09-01T18:01:34.723392+00:00</updated>
+    <updated>2026-09-01T20:49:37.171143+00:00</updated>
     <link href="https://apnews.com/article/fact-check-trump-noncitizen-voting-census-bureau-36cf1524fda629b139b7de5c86119622"/>
-    <published>2026-09-01T18:01:34.723392+00:00</published>
+    <published>2026-09-01T20:49:37.171143+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/archive-fact-checking-9233643423</id>
     <title>False claim of human meat in McDonald’s factories stems from old hoax</title>
-    <updated>2026-09-01T18:02:34.723392+00:00</updated>
+    <updated>2026-09-01T20:50:37.171143+00:00</updated>
     <link href="https://apnews.com/article/archive-fact-checking-9233643423"/>
-    <published>2026-09-01T18:02:34.723392+00:00</published>
+    <published>2026-09-01T20:50:37.171143+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/fact-check-amish-covid-vaccines-cancer-diabetes-autism-356029928165</id>
     <title>No, Amish kids aren’t immune to cancer, diabetes and autism — and they aren’t vaccine-free, either</title>
-    <updated>2026-09-01T18:03:34.723392+00:00</updated>
+    <updated>2026-09-01T20:51:37.171143+00:00</updated>
     <link href="https://apnews.com/article/fact-check-amish-covid-vaccines-cancer-diabetes-autism-356029928165"/>
-    <published>2026-09-01T18:03:34.723392+00:00</published>
+    <published>2026-09-01T20:51:37.171143+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/fact-check-canada-electricity-us-shut-off-636b50e96b27883be959f29c0f086d79</id>
     <title>FACT FOCUS: Massive blackouts are unlikely if Canada stops exporting electricity to the US</title>
-    <updated>2026-09-01T18:04:34.723392+00:00</updated>
+    <updated>2026-09-01T20:52:37.171143+00:00</updated>
     <link href="https://apnews.com/article/fact-check-canada-electricity-us-shut-off-636b50e96b27883be959f29c0f086d79"/>
-    <published>2026-09-01T18:04:34.723392+00:00</published>
+    <published>2026-09-01T20:52:37.171143+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/inundaciones-supervivencia-nepal-9b712a435e40616b722437b05a4c9bd2</id>
     <title>Bajas probabilidades de sobrevivir para atrapados tras inundación en Nepal</title>
-    <updated>2026-09-01T18:05:34.723392+00:00</updated>
+    <updated>2026-09-01T20:53:37.171143+00:00</updated>
     <link href="https://apnews.com/article/inundaciones-supervivencia-nepal-9b712a435e40616b722437b05a4c9bd2"/>
-    <published>2026-09-01T18:05:34.723392+00:00</published>
+    <published>2026-09-01T20:53:37.171143+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/nepal-flood-hydropower-tunnel-survival-odds-cc2428cdc907367e875939de567a6e7d</id>
     <title>Breathable air and clean water are crucial to the survival of those trapped in tunnels in Nepal</title>
-    <updated>2026-09-01T18:06:34.723392+00:00</updated>
+    <updated>2026-09-01T20:54:37.171143+00:00</updated>
     <link href="https://apnews.com/article/nepal-flood-hydropower-tunnel-survival-odds-cc2428cdc907367e875939de567a6e7d"/>
-    <published>2026-09-01T18:06:34.723392+00:00</published>
+    <published>2026-09-01T20:54:37.171143+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/apple-ceo-ternus-tim-cook-2fac80118828b4ada9d160d012c7be32</id>
     <title>Apple's new CEO, John Ternus, takes over from Tim Cook after 15 years</title>
-    <updated>2026-09-01T18:07:34.723392+00:00</updated>
+    <updated>2026-09-01T20:55:37.171143+00:00</updated>
     <link href="https://apnews.com/article/apple-ceo-ternus-tim-cook-2fac80118828b4ada9d160d012c7be32"/>
-    <published>2026-09-01T18:07:34.723392+00:00</published>
+    <published>2026-09-01T20:55:37.171143+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/smucker-trader-joes-uncrustables-sandwiches-lawsuit-peanut-butter-f9f8c119b3bec81f023100c788c0d925</id>
     <title>Judge says Smucker's lawsuit against Trader Joe's over frozen PB&amp;J can proceed</title>
-    <updated>2026-09-01T18:08:34.723392+00:00</updated>
+    <updated>2026-09-01T20:56:37.171143+00:00</updated>
     <link href="https://apnews.com/article/smucker-trader-joes-uncrustables-sandwiches-lawsuit-peanut-butter-f9f8c119b3bec81f023100c788c0d925"/>
-    <published>2026-09-01T18:08:34.723392+00:00</published>
+    <published>2026-09-01T20:56:37.171143+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/apple-lake-ontario-america-trump-93232341c99a10d35338d3f1afd54171</id>
     <title>Trump has asked Apple to change Lake Ontario name to 'Lake America' on its maps, interior chief says</title>
-    <updated>2026-09-01T18:09:34.723392+00:00</updated>
+    <updated>2026-09-01T20:57:37.171143+00:00</updated>
     <link href="https://apnews.com/article/apple-lake-ontario-america-trump-93232341c99a10d35338d3f1afd54171"/>
-    <published>2026-09-01T18:09:34.723392+00:00</published>
+    <published>2026-09-01T20:57:37.171143+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/dolly-parton-5b71c18686aa01d2b91192a4a01161c1</id>
     <title>Dolly Parton estate announces 2-day festival 'Dollyfest' to celebrate her legacy</title>
-    <updated>2026-09-01T18:10:34.723392+00:00</updated>
+    <updated>2026-09-01T20:58:37.171143+00:00</updated>
     <link href="https://apnews.com/article/dolly-parton-5b71c18686aa01d2b91192a4a01161c1"/>
-    <published>2026-09-01T18:10:34.723392+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/tupac-shakur-trial-las-vegas-duane-davis-0b0b080d73f91cd122b6dd438e5bbb80</id>
-    <title>Jury convicts a man of first-degree murder for the 1996 killing of rap icon Tupac Shakur</title>
-    <updated>2026-09-01T18:11:34.723392+00:00</updated>
-    <link href="https://apnews.com/article/tupac-shakur-trial-las-vegas-duane-davis-0b0b080d73f91cd122b6dd438e5bbb80"/>
-    <published>2026-09-01T18:11:34.723392+00:00</published>
+    <published>2026-09-01T20:58:37.171143+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/met-gala-exhibit-john-galliano-c7677f318cdd038b45804a8810ff94ef</id>
     <title>Amid backlash, museum cancels planned Met Gala exhibit on fashion designer John Galliano</title>
-    <updated>2026-09-01T18:12:34.723392+00:00</updated>
+    <updated>2026-09-01T20:59:37.171143+00:00</updated>
     <link href="https://apnews.com/article/met-gala-exhibit-john-galliano-c7677f318cdd038b45804a8810ff94ef"/>
-    <published>2026-09-01T18:12:34.723392+00:00</published>
+    <published>2026-09-01T20:59:37.171143+00:00</published>
   </entry>
   <entry>
-    <id>https://apnews.com/article/novak-djokovic-us-open-c14bdd5d38336642b4a2ed96d1a1503f</id>
-    <title>Questions abound for Novak Djokovic after US Open loss and 3 years without a Grand Slam title</title>
-    <updated>2026-09-01T18:13:34.723392+00:00</updated>
-    <link href="https://apnews.com/article/novak-djokovic-us-open-c14bdd5d38336642b4a2ed96d1a1503f"/>
-    <published>2026-09-01T18:13:34.723392+00:00</published>
+    <id>https://apnews.com/article/tupac-shakur-trial-las-vegas-duane-davis-0b0b080d73f91cd122b6dd438e5bbb80</id>
+    <title>Jury convicts a man of first-degree murder for the 1996 killing of rap icon Tupac Shakur</title>
+    <updated>2026-09-01T21:00:37.171143+00:00</updated>
+    <link href="https://apnews.com/article/tupac-shakur-trial-las-vegas-duane-davis-0b0b080d73f91cd122b6dd438e5bbb80"/>
+    <published>2026-09-01T21:00:37.171143+00:00</published>
+  </entry>
+  <entry>
+    <id>https://apnews.com/article/us-open-day-two-results-dab9269cab26c62320f96000f3362e6f</id>
+    <title>Carlos Alcaraz returns to the US Open with a victory, Aryna Sabalenka also wins her first match</title>
+    <updated>2026-09-01T21:01:37.171143+00:00</updated>
+    <link href="https://apnews.com/article/us-open-day-two-results-dab9269cab26c62320f96000f3362e6f"/>
+    <published>2026-09-01T21:01:37.171143+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/us-open-naomi-osaka-allen-iverson-e3d55c7d1042608b0f5d6d6d30d229cc</id>
     <title>Naomi Osaka's US Open look channels Allen Iverson with gray hoodie and hair in cornrows</title>
-    <updated>2026-09-01T18:14:34.723392+00:00</updated>
+    <updated>2026-09-01T21:02:37.171143+00:00</updated>
     <link href="https://apnews.com/article/us-open-naomi-osaka-allen-iverson-e3d55c7d1042608b0f5d6d6d30d229cc"/>
-    <published>2026-09-01T18:14:34.723392+00:00</published>
+    <published>2026-09-01T21:02:37.171143+00:00</published>
   </entry>
   <entry>
-    <id>https://apnews.com/article/messi-argentina-retires-8df27ab2059a740ea5bc97dbc6a49725</id>
-    <title>Argentina star Lionel Messi retires from international soccer with World Cup title and 125 goals</title>
-    <updated>2026-09-01T18:15:34.723392+00:00</updated>
-    <link href="https://apnews.com/article/messi-argentina-retires-8df27ab2059a740ea5bc97dbc6a49725"/>
-    <published>2026-09-01T18:15:34.723392+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/trump-white-house-ballroom-supreme-court-6b9434af0a2dbeffa0ca19f5cdf7d775</id>
-    <title>Supreme Court lets White House continue construction on Trump’s $400 million ballroom</title>
-    <updated>2026-09-01T18:16:34.723392+00:00</updated>
-    <link href="https://apnews.com/article/trump-white-house-ballroom-supreme-court-6b9434af0a2dbeffa0ca19f5cdf7d775"/>
-    <published>2026-09-01T18:16:34.723392+00:00</published>
+    <id>https://apnews.com/article/tony-romo-arrest-92fb917a83eb60dbae1f547ec6915b9b</id>
+    <title>Tony Romo pleads no contest to charge of operating while intoxicated and issues statement of apology</title>
+    <updated>2026-09-01T21:03:37.171143+00:00</updated>
+    <link href="https://apnews.com/article/tony-romo-arrest-92fb917a83eb60dbae1f547ec6915b9b"/>
+    <published>2026-09-01T21:03:37.171143+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/driscoll-departure-army-secretary-hegseth-4853c46840a522911da5a510b01966d2</id>
     <title>Army Secretary Dan Driscoll is stepping down after 18 months on the job, White House says</title>
-    <updated>2026-09-01T18:17:34.723392+00:00</updated>
+    <updated>2026-09-01T21:04:37.171143+00:00</updated>
     <link href="https://apnews.com/article/driscoll-departure-army-secretary-hegseth-4853c46840a522911da5a510b01966d2"/>
-    <published>2026-09-01T18:17:34.723392+00:00</published>
+    <published>2026-09-01T21:04:37.171143+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/midterm-elections-postal-service-mail-voting-7f7cf4fdf2e9cf369ae96f96fbda03f2</id>
     <title>Postal Service work to comply with Trump's executive order is rushed and sloppy, a whistleblower contends</title>
-    <updated>2026-09-01T18:18:34.723392+00:00</updated>
+    <updated>2026-09-01T21:05:37.171143+00:00</updated>
     <link href="https://apnews.com/article/midterm-elections-postal-service-mail-voting-7f7cf4fdf2e9cf369ae96f96fbda03f2"/>
-    <published>2026-09-01T18:18:34.723392+00:00</published>
+    <published>2026-09-01T21:05:37.171143+00:00</published>
   </entry>
   <entry>
-    <id>https://apnews.com/article/kalshi-george-santos-lifetime-ban-c8ac3e25aec55cd5509485a84f79f9e0</id>
-    <title>Kalshi bans ex-Congressman George Santos for life after concluding he likely was insider trading</title>
-    <updated>2026-09-01T18:19:34.723392+00:00</updated>
-    <link href="https://apnews.com/article/kalshi-george-santos-lifetime-ban-c8ac3e25aec55cd5509485a84f79f9e0"/>
-    <published>2026-09-01T18:19:34.723392+00:00</published>
+    <id>https://apnews.com/article/lindsay-clancy-jury-deliberates-86af7acf9dcb729c2fbdc475b34803cf</id>
+    <title>Lindsay Clancy jury goes home after a fourth day without a verdict and signals an impasse</title>
+    <updated>2026-09-01T21:06:37.171143+00:00</updated>
+    <link href="https://apnews.com/article/lindsay-clancy-jury-deliberates-86af7acf9dcb729c2fbdc475b34803cf"/>
+    <published>2026-09-01T21:06:37.171143+00:00</published>
   </entry>
   <entry>
-    <id>https://apnews.com/article/appalachian-trail-oldest-hiker-grey-beard-fd7a9a735c2cc1d31412535a2d36f6d8</id>
-    <title>At 91, Dale 'Grey Beard' Sanders reclaims record as oldest hiker to complete the Appalachian Trail</title>
-    <updated>2026-09-01T18:20:34.723392+00:00</updated>
-    <link href="https://apnews.com/article/appalachian-trail-oldest-hiker-grey-beard-fd7a9a735c2cc1d31412535a2d36f6d8"/>
-    <published>2026-09-01T18:20:34.723392+00:00</published>
+    <id>https://apnews.com/article/times-square-shooting-a46620ce4073cc1b924758bb2ef66278</id>
+    <title>Woman randomly stabs 2 people in New York City's Times Square, killing 1, then is killed by police</title>
+    <updated>2026-09-01T21:07:37.171143+00:00</updated>
+    <link href="https://apnews.com/article/times-square-shooting-a46620ce4073cc1b924758bb2ef66278"/>
+    <published>2026-09-01T21:07:37.171143+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/san-diego-mosque-shooting-20f609e3042817ab67551f4cb439685f</id>
     <title>DA says a teen who recorded San Diego mosque shooting livestream has been charged with murder</title>
-    <updated>2026-09-01T18:21:34.723392+00:00</updated>
+    <updated>2026-09-01T21:08:37.171143+00:00</updated>
     <link href="https://apnews.com/article/san-diego-mosque-shooting-20f609e3042817ab67551f4cb439685f"/>
-    <published>2026-09-01T18:21:34.723392+00:00</published>
+    <published>2026-09-01T21:08:37.171143+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/hurricane-karina-storm-edouard-lowell-pacific-gulf-947df7d220e9793e353631f51e40a06c</id>
-    <title>Tropical Storm Edouard could reach hurricane strength as it approaches Texas and Louisiana</title>
-    <updated>2026-09-01T18:22:34.723392+00:00</updated>
+    <title>Tropical Storm Edouard arrives on the Texas and Louisiana coasts after gaining strength in the Gulf</title>
+    <updated>2026-09-01T21:09:37.171143+00:00</updated>
     <link href="https://apnews.com/article/hurricane-karina-storm-edouard-lowell-pacific-gulf-947df7d220e9793e353631f51e40a06c"/>
-    <published>2026-09-01T18:22:34.723392+00:00</published>
+    <published>2026-09-01T21:09:37.171143+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/mideast-iran-israel-palestinians-hormuz-washington-september-1-2026-9342eb46aedd484cdf58895c8a116677</id>
-    <title>US military says it's striking targets in Iran, and other Mideast news</title>
-    <updated>2026-09-01T18:23:34.723392+00:00</updated>
+    <title>US and Iran trade strikes, and other Mideast news</title>
+    <updated>2026-09-01T21:10:37.171143+00:00</updated>
     <link href="https://apnews.com/article/mideast-iran-israel-palestinians-hormuz-washington-september-1-2026-9342eb46aedd484cdf58895c8a116677"/>
-    <published>2026-09-01T18:23:34.723392+00:00</published>
+    <published>2026-09-01T21:10:37.171143+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/nepal-flash-floods-death-toll-tibet-china-835459b2978adcd2b3bcf6e0595aee6c</id>
     <title>Mass burials in Nepal as death toll from flash floods exceeds 1,000</title>
-    <updated>2026-09-01T18:24:34.723392+00:00</updated>
+    <updated>2026-09-01T21:11:37.171143+00:00</updated>
     <link href="https://apnews.com/article/nepal-flash-floods-death-toll-tibet-china-835459b2978adcd2b3bcf6e0595aee6c"/>
-    <published>2026-09-01T18:24:34.723392+00:00</published>
+    <published>2026-09-01T21:11:37.171143+00:00</published>
   </entry>
 </feed>
