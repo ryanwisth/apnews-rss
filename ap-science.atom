@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://apnews.com/science</id>
   <title>AP Science (unofficial)</title>
-  <updated>2026-09-04T09:05:41.491615+00:00</updated>
+  <updated>2026-09-04T13:28:21.834159+00:00</updated>
   <author>
     <name>AP News (scraped, unofficial)</name>
   </author>
@@ -11,213 +11,213 @@
   <generator>ap-rss scraper</generator>
   <subtitle>Unofficial RSS feed of AP Science from apnews.com</subtitle>
   <entry>
-    <id>https://apnews.com/article/vaccine-fall-flu-covid19-rsv-sick-season-7b08ff2a2438e5e99db6ecca742bff55</id>
-    <title>Top US doctors offer updated flu and COVID vaccine recommendations, aiming to ease confusion</title>
-    <updated>2026-09-04T08:36:41.491622+00:00</updated>
-    <link href="https://apnews.com/article/vaccine-fall-flu-covid19-rsv-sick-season-7b08ff2a2438e5e99db6ecca742bff55"/>
-    <published>2026-09-04T08:36:41.491622+00:00</published>
-  </entry>
-  <entry>
     <id>https://apnews.com/article/argentina-teenagers-identifying-as-animals-therians-tiktok-54d158c4842f6515e31d83a260cdf31f</id>
     <title>Viral phenomenon in Argentina has young people identifying themselves as animals</title>
-    <updated>2026-09-04T08:37:41.491622+00:00</updated>
+    <updated>2026-09-04T12:59:21.834165+00:00</updated>
     <link href="https://apnews.com/article/argentina-teenagers-identifying-as-animals-therians-tiktok-54d158c4842f6515e31d83a260cdf31f"/>
-    <published>2026-09-04T08:37:41.491622+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/minnesota-where-is-big-pencil-sharpening-13bdada274a6beeb7327ebefbee639d9</id>
-    <title>Why a Minneapolis neighborhood sharpens a giant pencil every year</title>
-    <updated>2026-09-04T08:38:41.491622+00:00</updated>
-    <link href="https://apnews.com/article/minnesota-where-is-big-pencil-sharpening-13bdada274a6beeb7327ebefbee639d9"/>
-    <published>2026-09-04T08:38:41.491622+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/boneless-chicken-wings-lawsuit-ohio-supreme-court-231002ea50d8157aeadf093223d539f8</id>
-    <title>Chicken wings advertised as 'boneless' can have bones, Ohio Supreme Court decides</title>
-    <updated>2026-09-04T08:39:41.491622+00:00</updated>
-    <link href="https://apnews.com/article/boneless-chicken-wings-lawsuit-ohio-supreme-court-231002ea50d8157aeadf093223d539f8"/>
-    <published>2026-09-04T08:39:41.491622+00:00</published>
+    <published>2026-09-04T12:59:21.834165+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/chile-kayaking-tourism-whale-b0cafde4b640326f20a9da28003d6c26</id>
     <title>A humpback whale briefly swallows kayaker in Chilean Patagonia — and it's all captured on camera</title>
-    <updated>2026-09-04T08:40:41.491622+00:00</updated>
+    <updated>2026-09-04T13:00:21.834165+00:00</updated>
     <link href="https://apnews.com/article/chile-kayaking-tourism-whale-b0cafde4b640326f20a9da28003d6c26"/>
-    <published>2026-09-04T08:40:41.491622+00:00</published>
+    <published>2026-09-04T13:00:21.834165+00:00</published>
+  </entry>
+  <entry>
+    <id>https://apnews.com/article/boneless-chicken-wings-lawsuit-ohio-supreme-court-231002ea50d8157aeadf093223d539f8</id>
+    <title>Chicken wings advertised as 'boneless' can have bones, Ohio Supreme Court decides</title>
+    <updated>2026-09-04T13:01:21.834165+00:00</updated>
+    <link href="https://apnews.com/article/boneless-chicken-wings-lawsuit-ohio-supreme-court-231002ea50d8157aeadf093223d539f8"/>
+    <published>2026-09-04T13:01:21.834165+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/brazil-capybaras-lawmakers-herd-fec574aa45b80b76d4993f8eda86d94b</id>
     <title>Capybaras keep their chill while crashing Brazilian legislature</title>
-    <updated>2026-09-04T08:41:41.491622+00:00</updated>
+    <updated>2026-09-04T13:02:21.834165+00:00</updated>
     <link href="https://apnews.com/article/brazil-capybaras-lawmakers-herd-fec574aa45b80b76d4993f8eda86d94b"/>
-    <published>2026-09-04T08:41:41.491622+00:00</published>
+    <published>2026-09-04T13:02:21.834165+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/guinness-heist-stout-stolen-truck-depot-pabst-pbr-88b7745450be79af57d35fd8dbd9c4c9</id>
     <title>British police try to track down theft of 70,000 pints worth of Guinness stout</title>
-    <updated>2026-09-04T08:42:41.491622+00:00</updated>
+    <updated>2026-09-04T13:03:21.834165+00:00</updated>
     <link href="https://apnews.com/article/guinness-heist-stout-stolen-truck-depot-pabst-pbr-88b7745450be79af57d35fd8dbd9c4c9"/>
-    <published>2026-09-04T08:42:41.491622+00:00</published>
+    <published>2026-09-04T13:03:21.834165+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/israel-hamas-gaza-misinformation-fact-check-e58f9ab8696309305c3ea2bfb269258e</id>
     <title>Misinformation about the Israel-Hamas war is flooding social media. Here are the facts</title>
-    <updated>2026-09-04T08:43:41.491622+00:00</updated>
+    <updated>2026-09-04T13:04:21.834165+00:00</updated>
     <link href="https://apnews.com/article/israel-hamas-gaza-misinformation-fact-check-e58f9ab8696309305c3ea2bfb269258e"/>
-    <published>2026-09-04T08:43:41.491622+00:00</published>
+    <published>2026-09-04T13:04:21.834165+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/fact-check-911-pentagon-airplane-debris-598153051732</id>
     <title>Posts falsely claim no airplane debris found at Pentagon on 9/11</title>
-    <updated>2026-09-04T08:44:41.491622+00:00</updated>
+    <updated>2026-09-04T13:05:21.834165+00:00</updated>
     <link href="https://apnews.com/article/fact-check-911-pentagon-airplane-debris-598153051732"/>
-    <published>2026-09-04T08:44:41.491622+00:00</published>
+    <published>2026-09-04T13:05:21.834165+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/archive-fact-checking-9233643423</id>
     <title>False claim of human meat in McDonald’s factories stems from old hoax</title>
-    <updated>2026-09-04T08:45:41.491622+00:00</updated>
+    <updated>2026-09-04T13:06:21.834165+00:00</updated>
     <link href="https://apnews.com/article/archive-fact-checking-9233643423"/>
-    <published>2026-09-04T08:45:41.491622+00:00</published>
+    <published>2026-09-04T13:06:21.834165+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/fact-check-canada-electricity-us-shut-off-636b50e96b27883be959f29c0f086d79</id>
     <title>FACT FOCUS: Massive blackouts are unlikely if Canada stops exporting electricity to the US</title>
-    <updated>2026-09-04T08:46:41.491622+00:00</updated>
+    <updated>2026-09-04T13:07:21.834165+00:00</updated>
     <link href="https://apnews.com/article/fact-check-canada-electricity-us-shut-off-636b50e96b27883be959f29c0f086d79"/>
-    <published>2026-09-04T08:46:41.491622+00:00</published>
+    <published>2026-09-04T13:07:21.834165+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/texas-voter-registration-suspense-election-midterm-cc7e9e74968b7aa3b629fbbe2cd1dc51</id>
     <title>FACT FOCUS: Texans listed as 'suspense voters' can still cast a ballot if they confirm their address</title>
-    <updated>2026-09-04T08:47:41.491622+00:00</updated>
+    <updated>2026-09-04T13:08:21.834165+00:00</updated>
     <link href="https://apnews.com/article/texas-voter-registration-suspense-election-midterm-cc7e9e74968b7aa3b629fbbe2cd1dc51"/>
-    <published>2026-09-04T08:47:41.491622+00:00</published>
+    <published>2026-09-04T13:08:21.834165+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/fact-check-trump-canada-american-banks-96819ae447d3f5f6dcb5337b2bcfb8b0</id>
     <title>FACT FOCUS: Trump claims US banks cannot operate in Canada. That's not true</title>
-    <updated>2026-09-04T08:48:41.491622+00:00</updated>
+    <updated>2026-09-04T13:09:21.834165+00:00</updated>
     <link href="https://apnews.com/article/fact-check-trump-canada-american-banks-96819ae447d3f5f6dcb5337b2bcfb8b0"/>
-    <published>2026-09-04T08:48:41.491622+00:00</published>
+    <published>2026-09-04T13:09:21.834165+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/ig-nobel-prize-2026-d5c5ebe9d9724243c827eebbf5e27212</id>
     <title>Scientists studying cockroach milk and nose-blowing win Ig Nobel prizes for quirky science</title>
-    <updated>2026-09-04T08:49:41.491622+00:00</updated>
+    <updated>2026-09-04T13:10:21.834165+00:00</updated>
     <link href="https://apnews.com/article/ig-nobel-prize-2026-d5c5ebe9d9724243c827eebbf5e27212"/>
-    <published>2026-09-04T08:49:41.491622+00:00</published>
+    <published>2026-09-04T13:10:21.834165+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/mercury-bepicolombo-spacecraft-8840475f5f873b9bcc7245f45ffdc50c</id>
     <title>A pair of spacecraft draw closer to Mercury after nearly decade-long voyage</title>
-    <updated>2026-09-04T08:50:41.491622+00:00</updated>
+    <updated>2026-09-04T13:11:21.834165+00:00</updated>
     <link href="https://apnews.com/article/mercury-bepicolombo-spacecraft-8840475f5f873b9bcc7245f45ffdc50c"/>
-    <published>2026-09-04T08:50:41.491622+00:00</published>
+    <published>2026-09-04T13:11:21.834165+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/nvidia-hugging-face-ai-d96d50e037a2ade479dcdf81cdf2afcf</id>
     <title>Nvidia is buying AI platform Hugging Face for $13 billion</title>
-    <updated>2026-09-04T08:51:41.491622+00:00</updated>
+    <updated>2026-09-04T13:12:21.834165+00:00</updated>
     <link href="https://apnews.com/article/nvidia-hugging-face-ai-d96d50e037a2ade479dcdf81cdf2afcf"/>
-    <published>2026-09-04T08:51:41.491622+00:00</published>
+    <published>2026-09-04T13:12:21.834165+00:00</published>
+  </entry>
+  <entry>
+    <id>https://apnews.com/article/gloria-steinem-feminism-trump-feminist-equal-rights-0d2c93e88bcb00ab3a8f417ea452a845</id>
+    <title>Gloria Steinem lived to see a powerful backlash against her vision of feminism</title>
+    <updated>2026-09-04T13:13:21.834165+00:00</updated>
+    <link href="https://apnews.com/article/gloria-steinem-feminism-trump-feminist-equal-rights-0d2c93e88bcb00ab3a8f417ea452a845"/>
+    <published>2026-09-04T13:13:21.834165+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/volkswagen-job-cuts-plants-oliver-blume-8ebf1cc6693a06d06b12fac5693c8333</id>
     <title>Volkswagen board approves cutting 50,000 more jobs and ending production at 4 plants</title>
-    <updated>2026-09-04T08:52:41.491622+00:00</updated>
+    <updated>2026-09-04T13:14:21.834165+00:00</updated>
     <link href="https://apnews.com/article/volkswagen-job-cuts-plants-oliver-blume-8ebf1cc6693a06d06b12fac5693c8333"/>
-    <published>2026-09-04T08:52:41.491622+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/dancing-with-stars-2026-cast-f1d587db5657824343c2b258b0695695</id>
-    <title>Meet the 2026 'Dancing with the Stars' cast</title>
-    <updated>2026-09-04T08:53:41.491622+00:00</updated>
-    <link href="https://apnews.com/article/dancing-with-stars-2026-cast-f1d587db5657824343c2b258b0695695"/>
-    <published>2026-09-04T08:53:41.491622+00:00</published>
+    <published>2026-09-04T13:14:21.834165+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/cassandra-wilson-dead-7bbf74ead70df41b8341be9e4969c3ce</id>
     <title>Cassandra Wilson, the 2-time Grammy Award-winning jazz singer, dies at 70</title>
-    <updated>2026-09-04T08:54:41.491622+00:00</updated>
+    <updated>2026-09-04T13:15:21.834165+00:00</updated>
     <link href="https://apnews.com/article/cassandra-wilson-dead-7bbf74ead70df41b8341be9e4969c3ce"/>
-    <published>2026-09-04T08:54:41.491622+00:00</published>
+    <published>2026-09-04T13:15:21.834165+00:00</published>
+  </entry>
+  <entry>
+    <id>https://apnews.com/article/dancing-with-stars-2026-cast-f1d587db5657824343c2b258b0695695</id>
+    <title>Meet the 2026 'Dancing with the Stars' cast</title>
+    <updated>2026-09-04T13:16:21.834165+00:00</updated>
+    <link href="https://apnews.com/article/dancing-with-stars-2026-cast-f1d587db5657824343c2b258b0695695"/>
+    <published>2026-09-04T13:16:21.834165+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/bucking-fastard-venice-film-festival-8c7b0b78485977f655855917c5c40b9e</id>
     <title>Rooney and Kate Mara had to speak in unison in ‘Bucking Fastard’</title>
-    <updated>2026-09-04T08:55:41.491622+00:00</updated>
+    <updated>2026-09-04T13:17:21.834165+00:00</updated>
     <link href="https://apnews.com/article/bucking-fastard-venice-film-festival-8c7b0b78485977f655855917c5c40b9e"/>
-    <published>2026-09-04T08:55:41.491622+00:00</published>
+    <published>2026-09-04T13:17:21.834165+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/world-cup-basketball-us-clark-wnba-c0ea6e0d11c72b2f28007dc5c87ef8de</id>
     <title>With a new-look roster and no A'ja Wilson the US FIBA World Cup title defense gets tougher</title>
-    <updated>2026-09-04T08:56:41.491622+00:00</updated>
+    <updated>2026-09-04T13:18:21.834165+00:00</updated>
     <link href="https://apnews.com/article/world-cup-basketball-us-clark-wnba-c0ea6e0d11c72b2f28007dc5c87ef8de"/>
-    <published>2026-09-04T08:56:41.491622+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/ncaa-eligibility-kiffin-lsu-sec-ff59236793bdefab677ceb728599aa84</id>
-    <title>Louisiana judge rules against NCAA, clearing path for former NFL players to join LSU roster</title>
-    <updated>2026-09-04T08:57:41.491622+00:00</updated>
-    <link href="https://apnews.com/article/ncaa-eligibility-kiffin-lsu-sec-ff59236793bdefab677ceb728599aa84"/>
-    <published>2026-09-04T08:57:41.491622+00:00</published>
+    <published>2026-09-04T13:18:21.834165+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/dianna-russini-athletic-mike-vrabel-d904f700ebb7d0a86b954b07370cfb69</id>
     <title>Athletic's review of former NFL reporter Dianna Russini concludes she didn't comply with standards</title>
-    <updated>2026-09-04T08:58:41.491622+00:00</updated>
+    <updated>2026-09-04T13:19:21.834165+00:00</updated>
     <link href="https://apnews.com/article/dianna-russini-athletic-mike-vrabel-d904f700ebb7d0a86b954b07370cfb69"/>
-    <published>2026-09-04T08:58:41.491622+00:00</published>
+    <published>2026-09-04T13:19:21.834165+00:00</published>
+  </entry>
+  <entry>
+    <id>https://apnews.com/article/ncaa-eligibility-kiffin-lsu-sec-ff59236793bdefab677ceb728599aa84</id>
+    <title>Louisiana judge rules against NCAA, clearing path for former NFL players to join LSU roster</title>
+    <updated>2026-09-04T13:20:21.834165+00:00</updated>
+    <link href="https://apnews.com/article/ncaa-eligibility-kiffin-lsu-sec-ff59236793bdefab677ceb728599aa84"/>
+    <published>2026-09-04T13:20:21.834165+00:00</published>
+  </entry>
+  <entry>
+    <id>https://apnews.com/article/trump-mail-voting-executive-order-lawsuit-63899f738d28d161b629054a314f161a</id>
+    <title>Trump again appeals to Supreme Court on mail-voting restrictions with midterm elections looming</title>
+    <updated>2026-09-04T13:21:21.834165+00:00</updated>
+    <link href="https://apnews.com/article/trump-mail-voting-executive-order-lawsuit-63899f738d28d161b629054a314f161a"/>
+    <published>2026-09-04T13:21:21.834165+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/maria-bartiromo-fox-news-leave-084013a9a95753e4252d81e6c6c531f5</id>
     <title>Maria Bartiromo out at Fox News after more than a decade; no reason specified</title>
-    <updated>2026-09-04T08:59:41.491622+00:00</updated>
+    <updated>2026-09-04T13:22:21.834165+00:00</updated>
     <link href="https://apnews.com/article/maria-bartiromo-fox-news-leave-084013a9a95753e4252d81e6c6c531f5"/>
-    <published>2026-09-04T08:59:41.491622+00:00</published>
+    <published>2026-09-04T13:22:21.834165+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/ice-immigration-minnesota-5a429fee81fe85c09ca59ea9366c019d</id>
     <title>ICE officer charged with lying about shooting turns himself in to feds, AP source says</title>
-    <updated>2026-09-04T09:00:41.491622+00:00</updated>
+    <updated>2026-09-04T13:23:21.834165+00:00</updated>
     <link href="https://apnews.com/article/ice-immigration-minnesota-5a429fee81fe85c09ca59ea9366c019d"/>
-    <published>2026-09-04T09:00:41.491622+00:00</published>
+    <published>2026-09-04T13:23:21.834165+00:00</published>
+  </entry>
+  <entry>
+    <id>https://apnews.com/article/minneapolis-shooting-police-wounded-3ff6046fde9edd1c764701c10aa4a1ac</id>
+    <title>The gunman in a deadly Minneapolis shooting had left a long trail of warning signs</title>
+    <updated>2026-09-04T13:24:21.834165+00:00</updated>
+    <link href="https://apnews.com/article/minneapolis-shooting-police-wounded-3ff6046fde9edd1c764701c10aa4a1ac"/>
+    <published>2026-09-04T13:24:21.834165+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/thomas-ross-charges-plant-drugs-louise-secker-84244b8235a8f73a7f0d601e609f5084</id>
     <title>Missouri candidate charged with trying to plant cocaine on his political rival</title>
-    <updated>2026-09-04T09:01:41.491622+00:00</updated>
+    <updated>2026-09-04T13:25:21.834165+00:00</updated>
     <link href="https://apnews.com/article/thomas-ross-charges-plant-drugs-louise-secker-84244b8235a8f73a7f0d601e609f5084"/>
-    <published>2026-09-04T09:01:41.491622+00:00</published>
+    <published>2026-09-04T13:25:21.834165+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/gloria-steinem-dies-724836935f6547fda60f361c15238d14</id>
     <title>Gloria Steinem, defining symbol of women’s movement and eloquent advocate for equality, dies at 92</title>
-    <updated>2026-09-04T09:02:41.491622+00:00</updated>
+    <updated>2026-09-04T13:26:21.834165+00:00</updated>
     <link href="https://apnews.com/article/gloria-steinem-dies-724836935f6547fda60f361c15238d14"/>
-    <published>2026-09-04T09:02:41.491622+00:00</published>
+    <published>2026-09-04T13:26:21.834165+00:00</published>
   </entry>
   <entry>
-    <id>https://apnews.com/article/mideast-iran-hormuz-washington-september-3-2026-6b5f8c2e6153fa199cbdb567acef6806</id>
-    <title>Iran targets Kuwait in retaliation for US bombardments, and other Mideast news</title>
-    <updated>2026-09-04T09:03:41.491622+00:00</updated>
-    <link href="https://apnews.com/article/mideast-iran-hormuz-washington-september-3-2026-6b5f8c2e6153fa199cbdb567acef6806"/>
-    <published>2026-09-04T09:03:41.491622+00:00</published>
+    <id>https://apnews.com/article/venezuela-us-oil-reserves-deal-1c509be8d665f16ee65a80a513463016</id>
+    <title>Proud of their oil, Venezuelans view US stake in their reserves as a surrender</title>
+    <updated>2026-09-04T13:27:21.834165+00:00</updated>
+    <link href="https://apnews.com/article/venezuela-us-oil-reserves-deal-1c509be8d665f16ee65a80a513463016"/>
+    <published>2026-09-04T13:27:21.834165+00:00</published>
   </entry>
   <entry>
-    <id>https://apnews.com/article/thailand-pattaya-abraham-lincoln-carrier-crew-ce9febd3795164e9743f22f1daa5c681</id>
-    <title>USS Lincoln crew hits the streets of Pattaya after more than 260 days at sea</title>
-    <updated>2026-09-04T09:04:41.491622+00:00</updated>
-    <link href="https://apnews.com/article/thailand-pattaya-abraham-lincoln-carrier-crew-ce9febd3795164e9743f22f1daa5c681"/>
-    <published>2026-09-04T09:04:41.491622+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/norway-russia-vessel-seizure-arbitration-ukraine-crimea-19fe5d3ed43bf6d892be450e357d9e35</id>
-    <title>Norway seizes a Russian vessel in remote Arctic, drawing Putin's ire</title>
-    <updated>2026-09-04T09:05:41.491622+00:00</updated>
-    <link href="https://apnews.com/article/norway-russia-vessel-seizure-arbitration-ukraine-crimea-19fe5d3ed43bf6d892be450e357d9e35"/>
-    <published>2026-09-04T09:05:41.491622+00:00</published>
+    <id>https://apnews.com/article/nepal-china-flash-floods-tunnel-rescue-82a2d39fb1385b28df79fe792c198f89</id>
+    <title>2 trapped workers pulled out alive from a hydropower tunnel 9 days after Nepal floods</title>
+    <updated>2026-09-04T13:28:21.834165+00:00</updated>
+    <link href="https://apnews.com/article/nepal-china-flash-floods-tunnel-rescue-82a2d39fb1385b28df79fe792c198f89"/>
+    <published>2026-09-04T13:28:21.834165+00:00</published>
   </entry>
 </feed>
