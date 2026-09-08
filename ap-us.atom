@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://apnews.com/us-news</id>
   <title>AP U.S. News (unofficial)</title>
-  <updated>2026-09-08T04:41:09.476943+00:00</updated>
+  <updated>2026-09-08T09:06:42.280287+00:00</updated>
   <author>
     <name>AP News (scraped, unofficial)</name>
   </author>
@@ -11,213 +11,213 @@
   <generator>ap-rss scraper</generator>
   <subtitle>Unofficial RSS feed of AP U.S. News from apnews.com</subtitle>
   <entry>
+    <id>https://apnews.com/article/healthy-heart-sleep-night-owls-circadian-rhythm-0c520492f5d6fc08c412053419e913f9</id>
+    <title>Being a night owl may not be great for your heart but you can do something about it</title>
+    <updated>2026-09-08T08:37:42.280300+00:00</updated>
+    <link href="https://apnews.com/article/healthy-heart-sleep-night-owls-circadian-rhythm-0c520492f5d6fc08c412053419e913f9"/>
+    <published>2026-09-08T08:37:42.280300+00:00</published>
+  </entry>
+  <entry>
     <id>https://apnews.com/article/endometriosis-uterus-womb-dd59f70119763518b25884baafb2fd43</id>
     <title>Endometriosis can elude diagnosis for years. What to know about the disease and new ways to find it</title>
-    <updated>2026-09-08T04:12:09.476952+00:00</updated>
+    <updated>2026-09-08T08:38:42.280300+00:00</updated>
     <link href="https://apnews.com/article/endometriosis-uterus-womb-dd59f70119763518b25884baafb2fd43"/>
-    <published>2026-09-08T04:12:09.476952+00:00</published>
+    <published>2026-09-08T08:38:42.280300+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/vaccine-fall-flu-covid19-rsv-sick-season-7b08ff2a2438e5e99db6ecca742bff55</id>
     <title>Top US doctors offer updated flu and COVID vaccine recommendations, aiming to ease confusion</title>
-    <updated>2026-09-08T04:13:09.476952+00:00</updated>
+    <updated>2026-09-08T08:39:42.280300+00:00</updated>
     <link href="https://apnews.com/article/vaccine-fall-flu-covid19-rsv-sick-season-7b08ff2a2438e5e99db6ecca742bff55"/>
-    <published>2026-09-08T04:13:09.476952+00:00</published>
+    <published>2026-09-08T08:39:42.280300+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/chile-kayaking-tourism-whale-b0cafde4b640326f20a9da28003d6c26</id>
     <title>A humpback whale briefly swallows kayaker in Chilean Patagonia — and it's all captured on camera</title>
-    <updated>2026-09-08T04:14:09.476952+00:00</updated>
+    <updated>2026-09-08T08:40:42.280300+00:00</updated>
     <link href="https://apnews.com/article/chile-kayaking-tourism-whale-b0cafde4b640326f20a9da28003d6c26"/>
-    <published>2026-09-08T04:14:09.476952+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/argentina-teenagers-identifying-as-animals-therians-tiktok-54d158c4842f6515e31d83a260cdf31f</id>
-    <title>Viral phenomenon in Argentina has young people identifying themselves as animals</title>
-    <updated>2026-09-08T04:15:09.476952+00:00</updated>
-    <link href="https://apnews.com/article/argentina-teenagers-identifying-as-animals-therians-tiktok-54d158c4842f6515e31d83a260cdf31f"/>
-    <published>2026-09-08T04:15:09.476952+00:00</published>
+    <published>2026-09-08T08:40:42.280300+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/hungria-tumbas-competencia-cementerio-a361443c6d8193f585aa96ab4efa43d2</id>
     <title>Cavadores de tumbas húngaros compiten en concurso de velocidad para desafiar tabúes</title>
-    <updated>2026-09-08T04:16:09.476952+00:00</updated>
+    <updated>2026-09-08T08:41:42.280300+00:00</updated>
     <link href="https://apnews.com/article/hungria-tumbas-competencia-cementerio-a361443c6d8193f585aa96ab4efa43d2"/>
-    <published>2026-09-08T04:16:09.476952+00:00</published>
+    <published>2026-09-08T08:41:42.280300+00:00</published>
+  </entry>
+  <entry>
+    <id>https://apnews.com/article/argentina-teenagers-identifying-as-animals-therians-tiktok-54d158c4842f6515e31d83a260cdf31f</id>
+    <title>Viral phenomenon in Argentina has young people identifying themselves as animals</title>
+    <updated>2026-09-08T08:42:42.280300+00:00</updated>
+    <link href="https://apnews.com/article/argentina-teenagers-identifying-as-animals-therians-tiktok-54d158c4842f6515e31d83a260cdf31f"/>
+    <published>2026-09-08T08:42:42.280300+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/ghana-fantasy-coffins-funerals-accra-tradition-01220db5b2e240a12ae8e4ba8820f993</id>
     <title>Ghana's fantasy coffins are a colorful celebration of life and legacy</title>
-    <updated>2026-09-08T04:17:09.476952+00:00</updated>
+    <updated>2026-09-08T08:43:42.280300+00:00</updated>
     <link href="https://apnews.com/article/ghana-fantasy-coffins-funerals-accra-tradition-01220db5b2e240a12ae8e4ba8820f993"/>
-    <published>2026-09-08T04:17:09.476952+00:00</published>
+    <published>2026-09-08T08:43:42.280300+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/chicago-rat-hole-study-squirrel-researchers-4a0931f965a0fc5241ea95af2b09859b</id>
     <title>Ah, rats! Researchers say some other critter likely created Chicago's 'rat hole' sidewalk landmark</title>
-    <updated>2026-09-08T04:18:09.476952+00:00</updated>
+    <updated>2026-09-08T08:44:42.280300+00:00</updated>
     <link href="https://apnews.com/article/chicago-rat-hole-study-squirrel-researchers-4a0931f965a0fc5241ea95af2b09859b"/>
-    <published>2026-09-08T04:18:09.476952+00:00</published>
+    <published>2026-09-08T08:44:42.280300+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/guinness-heist-stout-stolen-truck-depot-pabst-pbr-88b7745450be79af57d35fd8dbd9c4c9</id>
     <title>British police try to track down theft of 70,000 pints worth of Guinness stout</title>
-    <updated>2026-09-08T04:19:09.476952+00:00</updated>
+    <updated>2026-09-08T08:45:42.280300+00:00</updated>
     <link href="https://apnews.com/article/guinness-heist-stout-stolen-truck-depot-pabst-pbr-88b7745450be79af57d35fd8dbd9c4c9"/>
-    <published>2026-09-08T04:19:09.476952+00:00</published>
+    <published>2026-09-08T08:45:42.280300+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/trump-wars-fact-focus-a75eca5184bd45acbf9f46ff9822514f</id>
     <title>FACT FOCUS: Trump says he's ended eight wars. His numbers are off</title>
-    <updated>2026-09-08T04:20:09.476952+00:00</updated>
+    <updated>2026-09-08T08:46:42.280300+00:00</updated>
     <link href="https://apnews.com/article/trump-wars-fact-focus-a75eca5184bd45acbf9f46ff9822514f"/>
-    <published>2026-09-08T04:20:09.476952+00:00</published>
+    <published>2026-09-08T08:46:42.280300+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/archive-fact-checking-9233643423</id>
     <title>False claim of human meat in McDonald’s factories stems from old hoax</title>
-    <updated>2026-09-08T04:21:09.476952+00:00</updated>
+    <updated>2026-09-08T08:47:42.280300+00:00</updated>
     <link href="https://apnews.com/article/archive-fact-checking-9233643423"/>
-    <published>2026-09-08T04:21:09.476952+00:00</published>
+    <published>2026-09-08T08:47:42.280300+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/texas-voter-registration-suspense-election-midterm-cc7e9e74968b7aa3b629fbbe2cd1dc51</id>
     <title>FACT FOCUS: Texans listed as 'suspense voters' can still cast a ballot if they confirm their address</title>
-    <updated>2026-09-08T04:22:09.476952+00:00</updated>
+    <updated>2026-09-08T08:48:42.280300+00:00</updated>
     <link href="https://apnews.com/article/texas-voter-registration-suspense-election-midterm-cc7e9e74968b7aa3b629fbbe2cd1dc51"/>
-    <published>2026-09-08T04:22:09.476952+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/fact-check-canada-electricity-us-shut-off-636b50e96b27883be959f29c0f086d79</id>
-    <title>FACT FOCUS: Massive blackouts are unlikely if Canada stops exporting electricity to the US</title>
-    <updated>2026-09-08T04:23:09.476952+00:00</updated>
-    <link href="https://apnews.com/article/fact-check-canada-electricity-us-shut-off-636b50e96b27883be959f29c0f086d79"/>
-    <published>2026-09-08T04:23:09.476952+00:00</published>
+    <published>2026-09-08T08:48:42.280300+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/fact-check-911-pentagon-airplane-debris-598153051732</id>
     <title>Posts falsely claim no airplane debris found at Pentagon on 9/11</title>
-    <updated>2026-09-08T04:24:09.476952+00:00</updated>
+    <updated>2026-09-08T08:49:42.280300+00:00</updated>
     <link href="https://apnews.com/article/fact-check-911-pentagon-airplane-debris-598153051732"/>
-    <published>2026-09-08T04:24:09.476952+00:00</published>
+    <published>2026-09-08T08:49:42.280300+00:00</published>
+  </entry>
+  <entry>
+    <id>https://apnews.com/article/fact-check-canada-electricity-us-shut-off-636b50e96b27883be959f29c0f086d79</id>
+    <title>FACT FOCUS: Massive blackouts are unlikely if Canada stops exporting electricity to the US</title>
+    <updated>2026-09-08T08:50:42.280300+00:00</updated>
+    <link href="https://apnews.com/article/fact-check-canada-electricity-us-shut-off-636b50e96b27883be959f29c0f086d79"/>
+    <published>2026-09-08T08:50:42.280300+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/fact-check-trump-canada-american-banks-96819ae447d3f5f6dcb5337b2bcfb8b0</id>
     <title>FACT FOCUS: Trump claims US banks cannot operate in Canada. That's not true</title>
-    <updated>2026-09-08T04:25:09.476952+00:00</updated>
+    <updated>2026-09-08T08:51:42.280300+00:00</updated>
     <link href="https://apnews.com/article/fact-check-trump-canada-american-banks-96819ae447d3f5f6dcb5337b2bcfb8b0"/>
-    <published>2026-09-08T04:25:09.476952+00:00</published>
+    <published>2026-09-08T08:51:42.280300+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/jaguar-land-rover-job-cuts-uk-tata-bc88688b43c9743cc182d416ab6e63cf</id>
     <title>Jaguar Land Rover will cut 4,000 jobs to reduce costs and compete with China</title>
-    <updated>2026-09-08T04:26:09.476952+00:00</updated>
+    <updated>2026-09-08T08:52:42.280300+00:00</updated>
     <link href="https://apnews.com/article/jaguar-land-rover-job-cuts-uk-tata-bc88688b43c9743cc182d416ab6e63cf"/>
-    <published>2026-09-08T04:26:09.476952+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/stocks-markets-ai-jobs-rates-oil-5fed4e21cb3f80eef06087217dbbd9f7</id>
-    <title>Global shares are mixed as chipmaker shares rally in Tokyo and Seoul</title>
-    <updated>2026-09-08T04:27:09.476952+00:00</updated>
-    <link href="https://apnews.com/article/stocks-markets-ai-jobs-rates-oil-5fed4e21cb3f80eef06087217dbbd9f7"/>
-    <published>2026-09-08T04:27:09.476952+00:00</published>
+    <published>2026-09-08T08:52:42.280300+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/emmys-pitt-hacks-reiner-pluribus-widows-bay-29722dd5605e3317e6644ca416659cb6</id>
     <title>'Widow's Bay' dominates with 8 Emmys at early ceremony and 'The Pitt' takes 4</title>
-    <updated>2026-09-08T04:28:09.476952+00:00</updated>
+    <updated>2026-09-08T08:53:42.280300+00:00</updated>
     <link href="https://apnews.com/article/emmys-pitt-hacks-reiner-pluribus-widows-bay-29722dd5605e3317e6644ca416659cb6"/>
-    <published>2026-09-08T04:28:09.476952+00:00</published>
+    <published>2026-09-08T08:53:42.280300+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/celebrity-birthdays-late-june-ariana-grande-f12d48a0c8aefea2319abce271c7d3bb</id>
     <title>Celebrity birthdays for the week of June 25-July 1</title>
-    <updated>2026-09-08T04:29:09.476952+00:00</updated>
+    <updated>2026-09-08T08:54:42.280300+00:00</updated>
     <link href="https://apnews.com/article/celebrity-birthdays-late-june-ariana-grande-f12d48a0c8aefea2319abce271c7d3bb"/>
-    <published>2026-09-08T04:29:09.476952+00:00</published>
+    <published>2026-09-08T08:54:42.280300+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/practical-magic-2-nicole-kidman-sandra-bullock-2801a7f2932c77fda6849c4c2c2f252e</id>
     <title>For Sandra Bullock and Nicole Kidman, 'Practical Magic 2' heals old wounds</title>
-    <updated>2026-09-08T04:30:09.476952+00:00</updated>
+    <updated>2026-09-08T08:55:42.280300+00:00</updated>
     <link href="https://apnews.com/article/practical-magic-2-nicole-kidman-sandra-bullock-2801a7f2932c77fda6849c4c2c2f252e"/>
-    <published>2026-09-08T04:30:09.476952+00:00</published>
+    <published>2026-09-08T08:55:42.280300+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/fbs-recruiting-wisconsin-badgers-c45f7667d2b8332dcabd6b2f15ec32f7</id>
     <title>High school QBs face new reality as transfers dominate starting jobs at the top of college football</title>
-    <updated>2026-09-08T04:31:09.476952+00:00</updated>
+    <updated>2026-09-08T08:56:42.280300+00:00</updated>
     <link href="https://apnews.com/article/fbs-recruiting-wisconsin-badgers-c45f7667d2b8332dcabd6b2f15ec32f7"/>
-    <published>2026-09-08T04:31:09.476952+00:00</published>
+    <published>2026-09-08T08:56:42.280300+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/big-ten-replay-michigan-underwood-2b7df7a1b345589534f94012d86b02c0</id>
     <title>Veteran coaches surprised that stadium clock was not official clock in wild Michigan win Saturday</title>
-    <updated>2026-09-08T04:32:09.476952+00:00</updated>
+    <updated>2026-09-08T08:57:42.280300+00:00</updated>
     <link href="https://apnews.com/article/big-ten-replay-michigan-underwood-2b7df7a1b345589534f94012d86b02c0"/>
-    <published>2026-09-08T04:32:09.476952+00:00</published>
+    <published>2026-09-08T08:57:42.280300+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/canada-hockey-tariffs-fb12b5e5ebfc8842b6fbcd8d99483277</id>
     <title>The US tariff on Canadian imports could send already soaring hockey gear prices even higher</title>
-    <updated>2026-09-08T04:33:09.476952+00:00</updated>
+    <updated>2026-09-08T08:58:42.280300+00:00</updated>
     <link href="https://apnews.com/article/canada-hockey-tariffs-fb12b5e5ebfc8842b6fbcd8d99483277"/>
-    <published>2026-09-08T04:33:09.476952+00:00</published>
+    <published>2026-09-08T08:58:42.280300+00:00</published>
   </entry>
   <entry>
-    <id>https://apnews.com/article/new-hampshire-primary-senate-pappas-manzur-sununu-brown-governor-house-nh01-d87d6cb35b896121df8ea12feae0bca3</id>
-    <title>AP Decision Notes: What to expect in New Hampshire’s state primary</title>
-    <updated>2026-09-08T04:34:09.476952+00:00</updated>
-    <link href="https://apnews.com/article/new-hampshire-primary-senate-pappas-manzur-sununu-brown-governor-house-nh01-d87d6cb35b896121df8ea12feae0bca3"/>
-    <published>2026-09-08T04:34:09.476952+00:00</published>
+    <id>https://apnews.com/article/trump-midterm-convention-dallas-republicans-abf83481a5add5a3b16977b3ceb87feb</id>
+    <title>Trump wants voters to pretend he’s on the ballot. The Republican Party is going along for the ride</title>
+    <updated>2026-09-08T08:59:42.280300+00:00</updated>
+    <link href="https://apnews.com/article/trump-midterm-convention-dallas-republicans-abf83481a5add5a3b16977b3ceb87feb"/>
+    <published>2026-09-08T08:59:42.280300+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/house-senate-elections-labor-day-maine-michigan-texas-bf59e0d457677ae19b84536d96031a47</id>
     <title>Midterm elections head into the home stretch as candidates hit Labor Day events</title>
-    <updated>2026-09-08T04:35:09.476952+00:00</updated>
+    <updated>2026-09-08T09:00:42.280300+00:00</updated>
     <link href="https://apnews.com/article/house-senate-elections-labor-day-maine-michigan-texas-bf59e0d457677ae19b84536d96031a47"/>
-    <published>2026-09-08T04:35:09.476952+00:00</published>
+    <published>2026-09-08T09:00:42.280300+00:00</published>
   </entry>
   <entry>
-    <id>https://apnews.com/article/labor-day-record-high-gas-prices-dffb7d3fa06ef930aaeebc380e5e4e0e</id>
-    <title>Fuel prices at record Labor Day high in US thanks to Iran war and refinery issues</title>
-    <updated>2026-09-08T04:36:09.476952+00:00</updated>
-    <link href="https://apnews.com/article/labor-day-record-high-gas-prices-dffb7d3fa06ef930aaeebc380e5e4e0e"/>
-    <published>2026-09-08T04:36:09.476952+00:00</published>
+    <id>https://apnews.com/article/sept-11-national-grief-memory-impact-a677ea529e6f42147fde2d01ce9a6d9b</id>
+    <title>One attack, many Americas: Why 9/11 and its many griefs land differently 25 years later</title>
+    <updated>2026-09-08T09:01:42.280300+00:00</updated>
+    <link href="https://apnews.com/article/sept-11-national-grief-memory-impact-a677ea529e6f42147fde2d01ce9a6d9b"/>
+    <published>2026-09-08T09:01:42.280300+00:00</published>
+  </entry>
+  <entry>
+    <id>https://apnews.com/article/cryptocurrency-scam-malone-lam-guilty-3d40f81fd3ba0b5e28d6b962ca6b343d</id>
+    <title>Party's over for crypto scammers who went on a spending spree after a $240 million bitcoin theft</title>
+    <updated>2026-09-08T09:02:42.280300+00:00</updated>
+    <link href="https://apnews.com/article/cryptocurrency-scam-malone-lam-guilty-3d40f81fd3ba0b5e28d6b962ca6b343d"/>
+    <published>2026-09-08T09:02:42.280300+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/affordable-housing-shortage-poorest-us-80fab2a0fb645e4d629b0ef7e3c2b496</id>
     <title>The poorest in the US can't find housing even as low-income units sit empty</title>
-    <updated>2026-09-08T04:37:09.476952+00:00</updated>
+    <updated>2026-09-08T09:03:42.280300+00:00</updated>
     <link href="https://apnews.com/article/affordable-housing-shortage-poorest-us-80fab2a0fb645e4d629b0ef7e3c2b496"/>
-    <published>2026-09-08T04:37:09.476952+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/cargo-plane-crash-miami-airport-amazon-prime-d5118998e880f380a3fd8786e35fd9bb</id>
-    <title>Federal investigators probe Amazon cargo jet's fiery runway crash that killed 5 in Miami</title>
-    <updated>2026-09-08T04:38:09.476952+00:00</updated>
-    <link href="https://apnews.com/article/cargo-plane-crash-miami-airport-amazon-prime-d5118998e880f380a3fd8786e35fd9bb"/>
-    <published>2026-09-08T04:38:09.476952+00:00</published>
+    <published>2026-09-08T09:03:42.280300+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/iran-strait-hormuz-war-washington-shipping-missile-563212b3d68eb50ac3e16e18dd2e6e01</id>
     <title>Iran says improved ballistic missile shows it will take preemptive action against threats</title>
-    <updated>2026-09-08T04:39:09.476952+00:00</updated>
+    <updated>2026-09-08T09:04:42.280300+00:00</updated>
     <link href="https://apnews.com/article/iran-strait-hormuz-war-washington-shipping-missile-563212b3d68eb50ac3e16e18dd2e6e01"/>
-    <published>2026-09-08T04:39:09.476952+00:00</published>
+    <published>2026-09-08T09:04:42.280300+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/germany-afd-saxony-anhalt-election-e9c2b1bb69a9dab1778b80866ffa4c4f</id>
     <title>Germany's Merz shocked by far-right state election triumph but doubles down on unpopular reforms</title>
-    <updated>2026-09-08T04:40:09.476952+00:00</updated>
+    <updated>2026-09-08T09:05:42.280300+00:00</updated>
     <link href="https://apnews.com/article/germany-afd-saxony-anhalt-election-e9c2b1bb69a9dab1778b80866ffa4c4f"/>
-    <published>2026-09-08T04:40:09.476952+00:00</published>
+    <published>2026-09-08T09:05:42.280300+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/britain-king-harry-meghan-letter-status-return-459d1117db5b2ce105cb315e7403fc4d</id>
     <title>King Charles III clarifies status of Prince Harry and his wife, Meghan, after their return to the UK</title>
-    <updated>2026-09-08T04:41:09.476952+00:00</updated>
+    <updated>2026-09-08T09:06:42.280300+00:00</updated>
     <link href="https://apnews.com/article/britain-king-harry-meghan-letter-status-return-459d1117db5b2ce105cb315e7403fc4d"/>
-    <published>2026-09-08T04:41:09.476952+00:00</published>
+    <published>2026-09-08T09:06:42.280300+00:00</published>
   </entry>
 </feed>
