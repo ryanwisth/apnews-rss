@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://apnews.com/politics</id>
   <title>AP Politics (unofficial)</title>
-  <updated>2026-09-09T00:35:37.205152+00:00</updated>
+  <updated>2026-09-09T05:12:11.968150+00:00</updated>
   <author>
     <name>AP News (scraped, unofficial)</name>
   </author>
@@ -11,213 +11,213 @@
   <generator>ap-rss scraper</generator>
   <subtitle>Unofficial RSS feed of AP Politics from apnews.com</subtitle>
   <entry>
+    <id>https://apnews.com/article/endometriosis-uterus-womb-dd59f70119763518b25884baafb2fd43</id>
+    <title>Endometriosis can elude diagnosis for years. What to know about the disease and new ways to find it</title>
+    <updated>2026-09-09T04:43:11.968181+00:00</updated>
+    <link href="https://apnews.com/article/endometriosis-uterus-womb-dd59f70119763518b25884baafb2fd43"/>
+    <published>2026-09-09T04:43:11.968181+00:00</published>
+  </entry>
+  <entry>
     <id>https://apnews.com/article/vaccine-fall-flu-covid19-rsv-sick-season-7b08ff2a2438e5e99db6ecca742bff55</id>
     <title>Top US doctors offer updated flu and COVID vaccine recommendations, aiming to ease confusion</title>
-    <updated>2026-09-09T00:06:37.205160+00:00</updated>
+    <updated>2026-09-09T04:44:11.968181+00:00</updated>
     <link href="https://apnews.com/article/vaccine-fall-flu-covid19-rsv-sick-season-7b08ff2a2438e5e99db6ecca742bff55"/>
-    <published>2026-09-09T00:06:37.205160+00:00</published>
+    <published>2026-09-09T04:44:11.968181+00:00</published>
   </entry>
   <entry>
-    <id>https://apnews.com/article/chicago-rat-hole-study-squirrel-researchers-4a0931f965a0fc5241ea95af2b09859b</id>
-    <title>Ah, rats! Researchers say some other critter likely created Chicago's 'rat hole' sidewalk landmark</title>
-    <updated>2026-09-09T00:07:37.205160+00:00</updated>
-    <link href="https://apnews.com/article/chicago-rat-hole-study-squirrel-researchers-4a0931f965a0fc5241ea95af2b09859b"/>
-    <published>2026-09-09T00:07:37.205160+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/chile-kayaking-tourism-whale-b0cafde4b640326f20a9da28003d6c26</id>
-    <title>A humpback whale briefly swallows kayaker in Chilean Patagonia — and it's all captured on camera</title>
-    <updated>2026-09-09T00:08:37.205160+00:00</updated>
-    <link href="https://apnews.com/article/chile-kayaking-tourism-whale-b0cafde4b640326f20a9da28003d6c26"/>
-    <published>2026-09-09T00:08:37.205160+00:00</published>
+    <id>https://apnews.com/article/brazil-capybaras-lawmakers-herd-fec574aa45b80b76d4993f8eda86d94b</id>
+    <title>Capybaras keep their chill while crashing Brazilian legislature</title>
+    <updated>2026-09-09T04:45:11.968181+00:00</updated>
+    <link href="https://apnews.com/article/brazil-capybaras-lawmakers-herd-fec574aa45b80b76d4993f8eda86d94b"/>
+    <published>2026-09-09T04:45:11.968181+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/ghana-fantasy-coffins-funerals-accra-tradition-01220db5b2e240a12ae8e4ba8820f993</id>
     <title>Ghana's fantasy coffins are a colorful celebration of life and legacy</title>
-    <updated>2026-09-09T00:09:37.205160+00:00</updated>
+    <updated>2026-09-09T04:46:11.968181+00:00</updated>
     <link href="https://apnews.com/article/ghana-fantasy-coffins-funerals-accra-tradition-01220db5b2e240a12ae8e4ba8820f993"/>
-    <published>2026-09-09T00:09:37.205160+00:00</published>
+    <published>2026-09-09T04:46:11.968181+00:00</published>
+  </entry>
+  <entry>
+    <id>https://apnews.com/article/chile-kayaking-tourism-whale-b0cafde4b640326f20a9da28003d6c26</id>
+    <title>A humpback whale briefly swallows kayaker in Chilean Patagonia — and it's all captured on camera</title>
+    <updated>2026-09-09T04:47:11.968181+00:00</updated>
+    <link href="https://apnews.com/article/chile-kayaking-tourism-whale-b0cafde4b640326f20a9da28003d6c26"/>
+    <published>2026-09-09T04:47:11.968181+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/argentina-teenagers-identifying-as-animals-therians-tiktok-54d158c4842f6515e31d83a260cdf31f</id>
     <title>Viral phenomenon in Argentina has young people identifying themselves as animals</title>
-    <updated>2026-09-09T00:10:37.205160+00:00</updated>
+    <updated>2026-09-09T04:48:11.968181+00:00</updated>
     <link href="https://apnews.com/article/argentina-teenagers-identifying-as-animals-therians-tiktok-54d158c4842f6515e31d83a260cdf31f"/>
-    <published>2026-09-09T00:10:37.205160+00:00</published>
+    <published>2026-09-09T04:48:11.968181+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/minnesota-where-is-big-pencil-sharpening-13bdada274a6beeb7327ebefbee639d9</id>
     <title>Why a Minneapolis neighborhood sharpens a giant pencil every year</title>
-    <updated>2026-09-09T00:11:37.205160+00:00</updated>
+    <updated>2026-09-09T04:49:11.968181+00:00</updated>
     <link href="https://apnews.com/article/minnesota-where-is-big-pencil-sharpening-13bdada274a6beeb7327ebefbee639d9"/>
-    <published>2026-09-09T00:11:37.205160+00:00</published>
+    <published>2026-09-09T04:49:11.968181+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/guinness-heist-stout-stolen-truck-depot-pabst-pbr-88b7745450be79af57d35fd8dbd9c4c9</id>
     <title>British police try to track down theft of 70,000 pints worth of Guinness stout</title>
-    <updated>2026-09-09T00:12:37.205160+00:00</updated>
+    <updated>2026-09-09T04:50:11.968181+00:00</updated>
     <link href="https://apnews.com/article/guinness-heist-stout-stolen-truck-depot-pabst-pbr-88b7745450be79af57d35fd8dbd9c4c9"/>
-    <published>2026-09-09T00:12:37.205160+00:00</published>
+    <published>2026-09-09T04:50:11.968181+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/fact-check-trump-shooting-ear-damage-photo-470220313611</id>
     <title>A photo that appears to show Trump's ear with no damage after the attempted assassination is actually from 2022</title>
-    <updated>2026-09-09T00:13:37.205160+00:00</updated>
+    <updated>2026-09-09T04:51:11.968181+00:00</updated>
     <link href="https://apnews.com/article/fact-check-trump-shooting-ear-damage-photo-470220313611"/>
-    <published>2026-09-09T00:13:37.205160+00:00</published>
+    <published>2026-09-09T04:51:11.968181+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/archive-fact-checking-9233643423</id>
     <title>False claim of human meat in McDonald’s factories stems from old hoax</title>
-    <updated>2026-09-09T00:14:37.205160+00:00</updated>
+    <updated>2026-09-09T04:52:11.968181+00:00</updated>
     <link href="https://apnews.com/article/archive-fact-checking-9233643423"/>
-    <published>2026-09-09T00:14:37.205160+00:00</published>
+    <published>2026-09-09T04:52:11.968181+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/fact-check-911-pentagon-airplane-debris-598153051732</id>
     <title>Posts falsely claim no airplane debris found at Pentagon on 9/11</title>
-    <updated>2026-09-09T00:15:37.205160+00:00</updated>
+    <updated>2026-09-09T04:53:11.968181+00:00</updated>
     <link href="https://apnews.com/article/fact-check-911-pentagon-airplane-debris-598153051732"/>
-    <published>2026-09-09T00:15:37.205160+00:00</published>
+    <published>2026-09-09T04:53:11.968181+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/fact-check-canada-electricity-us-shut-off-636b50e96b27883be959f29c0f086d79</id>
     <title>FACT FOCUS: Massive blackouts are unlikely if Canada stops exporting electricity to the US</title>
-    <updated>2026-09-09T00:16:37.205160+00:00</updated>
+    <updated>2026-09-09T04:54:11.968181+00:00</updated>
     <link href="https://apnews.com/article/fact-check-canada-electricity-us-shut-off-636b50e96b27883be959f29c0f086d79"/>
-    <published>2026-09-09T00:16:37.205160+00:00</published>
+    <published>2026-09-09T04:54:11.968181+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/texas-voter-registration-suspense-election-midterm-cc7e9e74968b7aa3b629fbbe2cd1dc51</id>
     <title>FACT FOCUS: Texans listed as 'suspense voters' can still cast a ballot if they confirm their address</title>
-    <updated>2026-09-09T00:17:37.205160+00:00</updated>
+    <updated>2026-09-09T04:55:11.968181+00:00</updated>
     <link href="https://apnews.com/article/texas-voter-registration-suspense-election-midterm-cc7e9e74968b7aa3b629fbbe2cd1dc51"/>
-    <published>2026-09-09T00:17:37.205160+00:00</published>
+    <published>2026-09-09T04:55:11.968181+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/fact-check-trump-canada-american-banks-96819ae447d3f5f6dcb5337b2bcfb8b0</id>
     <title>FACT FOCUS: Trump claims US banks cannot operate in Canada. That's not true</title>
-    <updated>2026-09-09T00:18:37.205160+00:00</updated>
+    <updated>2026-09-09T04:56:11.968181+00:00</updated>
     <link href="https://apnews.com/article/fact-check-trump-canada-american-banks-96819ae447d3f5f6dcb5337b2bcfb8b0"/>
-    <published>2026-09-09T00:18:37.205160+00:00</published>
+    <published>2026-09-09T04:56:11.968181+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/china-japan-chips-chemical-dumping-ea58c95c47481c5c822a3a544e6b68cc</id>
     <title>Japan protests as China slaps new measures against its exports of a key chipmaking material</title>
-    <updated>2026-09-09T00:19:37.205160+00:00</updated>
+    <updated>2026-09-09T04:57:11.968181+00:00</updated>
     <link href="https://apnews.com/article/china-japan-chips-chemical-dumping-ea58c95c47481c5c822a3a544e6b68cc"/>
-    <published>2026-09-09T00:19:37.205160+00:00</published>
+    <published>2026-09-09T04:57:11.968181+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/trump-canada-carney-trade-bombardier-aircraft-e65b6eeaaa7ffbd06a67a57fb474b2e9</id>
     <title>Trump threatens Canadian jetmaker Bombardier, which has an extensive US footprint</title>
-    <updated>2026-09-09T00:20:37.205160+00:00</updated>
+    <updated>2026-09-09T04:58:11.968181+00:00</updated>
     <link href="https://apnews.com/article/trump-canada-carney-trade-bombardier-aircraft-e65b6eeaaa7ffbd06a67a57fb474b2e9"/>
-    <published>2026-09-09T00:20:37.205160+00:00</published>
+    <published>2026-09-09T04:58:11.968181+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/tsa-precheck-gateside-known-traveler-712d9888d3e7f00307a199c732986364</id>
     <title>TSA brings back gate access for some people without plane tickets 25 years after 9/11</title>
-    <updated>2026-09-09T00:21:37.205160+00:00</updated>
+    <updated>2026-09-09T04:59:11.968181+00:00</updated>
     <link href="https://apnews.com/article/tsa-precheck-gateside-known-traveler-712d9888d3e7f00307a199c732986364"/>
-    <published>2026-09-09T00:21:37.205160+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/venice-film-festival-musk-penelope-cruz-javier-21f83be7d46aecd7d138e47f56379adf</id>
-    <title>An Elon Musk documentary and a Penélope Cruz and Javier Bardem thriller premiere at Venice</title>
-    <updated>2026-09-09T00:22:37.205160+00:00</updated>
-    <link href="https://apnews.com/article/venice-film-festival-musk-penelope-cruz-javier-21f83be7d46aecd7d138e47f56379adf"/>
-    <published>2026-09-09T00:22:37.205160+00:00</published>
+    <published>2026-09-09T04:59:11.968181+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/reino-unido-carlos-principe-enrique-meghan-494615002972fe8804ff8126be838e8c</id>
     <title>El rey Carlos aclara el estatus del príncipe Enrique y Meghan tras su regreso al Reino Unido</title>
-    <updated>2026-09-09T00:23:37.205160+00:00</updated>
+    <updated>2026-09-09T05:00:11.968181+00:00</updated>
     <link href="https://apnews.com/article/reino-unido-carlos-principe-enrique-meghan-494615002972fe8804ff8126be838e8c"/>
-    <published>2026-09-09T00:23:37.205160+00:00</published>
+    <published>2026-09-09T05:00:11.968181+00:00</published>
+  </entry>
+  <entry>
+    <id>https://apnews.com/article/venice-film-festival-musk-penelope-cruz-javier-21f83be7d46aecd7d138e47f56379adf</id>
+    <title>An Elon Musk documentary and a Penélope Cruz and Javier Bardem thriller premiere at Venice</title>
+    <updated>2026-09-09T05:01:11.968181+00:00</updated>
+    <link href="https://apnews.com/article/venice-film-festival-musk-penelope-cruz-javier-21f83be7d46aecd7d138e47f56379adf"/>
+    <published>2026-09-09T05:01:11.968181+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/practical-magic-2-nicole-kidman-sandra-bullock-2801a7f2932c77fda6849c4c2c2f252e</id>
     <title>For Sandra Bullock and Nicole Kidman, 'Practical Magic 2' heals old wounds</title>
-    <updated>2026-09-09T00:24:37.205160+00:00</updated>
+    <updated>2026-09-09T05:02:11.968181+00:00</updated>
     <link href="https://apnews.com/article/practical-magic-2-nicole-kidman-sandra-bullock-2801a7f2932c77fda6849c4c2c2f252e"/>
-    <published>2026-09-09T00:24:37.205160+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/naomi-osaka-fashion-us-open-aafe4bc6fa419096629518eff79761f3</id>
-    <title>Naomi Osaka exits US Open, but not before displaying one more swaggy fashion ensemble</title>
-    <updated>2026-09-09T00:25:37.205160+00:00</updated>
-    <link href="https://apnews.com/article/naomi-osaka-fashion-us-open-aafe4bc6fa419096629518eff79761f3"/>
-    <published>2026-09-09T00:25:37.205160+00:00</published>
+    <published>2026-09-09T05:02:11.968181+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/ncaa-lsu-lawsuit-sec-kick-out-6dcea392c8d266d456bfc23c5627cc1e</id>
-    <title>Southeastern Conference leaders to discuss expelling LSU over player eligibility dispute</title>
-    <updated>2026-09-09T00:26:37.205160+00:00</updated>
+    <title>Southeastern Conference leaders to discuss expelling LSU, which backs off rostering pro players</title>
+    <updated>2026-09-09T05:03:11.968181+00:00</updated>
     <link href="https://apnews.com/article/ncaa-lsu-lawsuit-sec-kick-out-6dcea392c8d266d456bfc23c5627cc1e"/>
-    <published>2026-09-09T00:26:37.205160+00:00</published>
+    <published>2026-09-09T05:03:11.968181+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/ap-top-25-rankings-11b750c72b3fd709a9eaa008f4b570eb</id>
-    <title>LSU cracks top 10, Oregon slips and Wolverines fall out of AP Top 25 after second-chance Hail Mary</title>
-    <updated>2026-09-09T00:27:37.205160+00:00</updated>
+    <title>LSU rises, Michigan tumbles out in first AP Top 25 shake-up</title>
+    <updated>2026-09-09T05:04:11.968181+00:00</updated>
     <link href="https://apnews.com/article/ap-top-25-rankings-11b750c72b3fd709a9eaa008f4b570eb"/>
-    <published>2026-09-09T00:27:37.205160+00:00</published>
+    <published>2026-09-09T05:04:11.968181+00:00</published>
   </entry>
   <entry>
-    <id>https://apnews.com/article/senate-democrats-republicans-midterm-elections-d66dd48f09dca7a8549af1b0c2acba12</id>
-    <title>The GOP was confident about keeping its Senate majority. Now the fight for control is wide open</title>
-    <updated>2026-09-09T00:28:37.205160+00:00</updated>
-    <link href="https://apnews.com/article/senate-democrats-republicans-midterm-elections-d66dd48f09dca7a8549af1b0c2acba12"/>
-    <published>2026-09-09T00:28:37.205160+00:00</published>
+    <id>https://apnews.com/article/iran-tanker-navy-warship-dfc9a1d9c9a5b8bc7b47fcc004025e65</id>
+    <title>US military says it destroyed 5 more Iranian oil tankers after missile attacks on Navy warship</title>
+    <updated>2026-09-09T05:05:11.968181+00:00</updated>
+    <link href="https://apnews.com/article/iran-tanker-navy-warship-dfc9a1d9c9a5b8bc7b47fcc004025e65"/>
+    <published>2026-09-09T05:05:11.968181+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/trump-midterm-convention-dallas-republicans-abf83481a5add5a3b16977b3ceb87feb</id>
     <title>Trump wants voters to pretend he’s on the ballot. The Republican Party is going along for the ride</title>
-    <updated>2026-09-09T00:29:37.205160+00:00</updated>
+    <updated>2026-09-09T05:06:11.968181+00:00</updated>
     <link href="https://apnews.com/article/trump-midterm-convention-dallas-republicans-abf83481a5add5a3b16977b3ceb87feb"/>
-    <published>2026-09-09T00:29:37.205160+00:00</published>
+    <published>2026-09-09T05:06:11.968181+00:00</published>
   </entry>
   <entry>
-    <id>https://apnews.com/article/redistricting-congress-trump-gerrymandering-house-aadd3c4e6cc3a2c8100756cb7b352289</id>
-    <title>Federal judge temporarily blocks Missouri from using old House map after Supreme Court declined case</title>
-    <updated>2026-09-09T00:30:37.205160+00:00</updated>
-    <link href="https://apnews.com/article/redistricting-congress-trump-gerrymandering-house-aadd3c4e6cc3a2c8100756cb7b352289"/>
-    <published>2026-09-09T00:30:37.205160+00:00</published>
-  </entry>
-  <entry>
-    <id>https://apnews.com/article/sept-11-25th-anniversary-schools-education-5bbe944901f47ae0b87d09ef3300a608</id>
-    <title>Most states prompt schools to teach about 9/11, but the details differ, AP finds</title>
-    <updated>2026-09-09T00:31:37.205160+00:00</updated>
-    <link href="https://apnews.com/article/sept-11-25th-anniversary-schools-education-5bbe944901f47ae0b87d09ef3300a608"/>
-    <published>2026-09-09T00:31:37.205160+00:00</published>
+    <id>https://apnews.com/article/lindsay-clancy-trial-holdout-juror-999539982691ae345cadb90321243f96</id>
+    <title>Holdout in Lindsay Clancy trial said he had reasonable doubt but still wouldn't acquit, juror says</title>
+    <updated>2026-09-09T05:07:11.968181+00:00</updated>
+    <link href="https://apnews.com/article/lindsay-clancy-trial-holdout-juror-999539982691ae345cadb90321243f96"/>
+    <published>2026-09-09T05:07:11.968181+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/amazon-cargo-plane-crash-miami-airport-victims-6c23909e94ea2faedd28071749fc00e3</id>
-    <title>All 5 killed in Miami cargo jet crash were in a van used by plane cleaners</title>
-    <updated>2026-09-09T00:32:37.205160+00:00</updated>
+    <title>Cargo jet tried to abort unsteady landing before Miami crash that killed 5, flight data indicates</title>
+    <updated>2026-09-09T05:08:11.968181+00:00</updated>
     <link href="https://apnews.com/article/amazon-cargo-plane-crash-miami-airport-victims-6c23909e94ea2faedd28071749fc00e3"/>
-    <published>2026-09-09T00:32:37.205160+00:00</published>
+    <published>2026-09-09T05:08:11.968181+00:00</published>
   </entry>
   <entry>
-    <id>https://apnews.com/article/canada-carney-trump-tariffs-trade-war-a5fbb50d1c30327ae813482556a37ac3</id>
-    <title>US banning dairy products, most alcoholic beverages and motorcycles from Canada</title>
-    <updated>2026-09-09T00:33:37.205160+00:00</updated>
-    <link href="https://apnews.com/article/canada-carney-trump-tariffs-trade-war-a5fbb50d1c30327ae813482556a37ac3"/>
-    <published>2026-09-09T00:33:37.205160+00:00</published>
+    <id>https://apnews.com/article/redistricting-congress-trump-gerrymandering-house-aadd3c4e6cc3a2c8100756cb7b352289</id>
+    <title>Competing court orders add confusion to Missouri congressional elections</title>
+    <updated>2026-09-09T05:09:11.968181+00:00</updated>
+    <link href="https://apnews.com/article/redistricting-congress-trump-gerrymandering-house-aadd3c4e6cc3a2c8100756cb7b352289"/>
+    <published>2026-09-09T05:09:11.968181+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/canada-trump-carney-trade-war-tariffs-4620ffb5ecc029322217207fa6758431</id>
-    <title>What to know as Canada’s retaliatory tariffs on $20 billion worth of US goods take effect</title>
-    <updated>2026-09-09T00:34:37.205160+00:00</updated>
+    <title>Trump widens trade war with Canada beyond tariffs. Here’s what to know</title>
+    <updated>2026-09-09T05:10:11.968181+00:00</updated>
     <link href="https://apnews.com/article/canada-trump-carney-trade-war-tariffs-4620ffb5ecc029322217207fa6758431"/>
-    <published>2026-09-09T00:34:37.205160+00:00</published>
+    <published>2026-09-09T05:10:11.968181+00:00</published>
   </entry>
   <entry>
     <id>https://apnews.com/article/prince-harry-meghan-king-charles-iii-9b8198a3f644b328f64d8798f536094d</id>
     <title>Harry and Meghan surprised by the way Buckingham Palace released letter on non-working royal status</title>
-    <updated>2026-09-09T00:35:37.205160+00:00</updated>
+    <updated>2026-09-09T05:11:11.968181+00:00</updated>
     <link href="https://apnews.com/article/prince-harry-meghan-king-charles-iii-9b8198a3f644b328f64d8798f536094d"/>
-    <published>2026-09-09T00:35:37.205160+00:00</published>
+    <published>2026-09-09T05:11:11.968181+00:00</published>
+  </entry>
+  <entry>
+    <id>https://apnews.com/article/canada-carney-trump-tariffs-trade-war-a5fbb50d1c30327ae813482556a37ac3</id>
+    <title>US banning dairy products, most alcohol and motorcycles from Canada in growing trade war</title>
+    <updated>2026-09-09T05:12:11.968181+00:00</updated>
+    <link href="https://apnews.com/article/canada-carney-trump-tariffs-trade-war-a5fbb50d1c30327ae813482556a37ac3"/>
+    <published>2026-09-09T05:12:11.968181+00:00</published>
   </entry>
 </feed>
